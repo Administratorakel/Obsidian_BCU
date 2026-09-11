@@ -1,3 +1,5 @@
 Future ideas about unlocking "game ai"
 
-Located on [Map1]
+Located on [[World & Lore/Maps/Map1]]
+
+[[Quests]]

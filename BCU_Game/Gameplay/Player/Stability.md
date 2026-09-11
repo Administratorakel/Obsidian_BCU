@@ -1,0 +1,1 @@
+Resource for [[Abilities]] and [[Vector Break 1]]

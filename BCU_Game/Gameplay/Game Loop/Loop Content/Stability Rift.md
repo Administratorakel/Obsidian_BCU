@@ -1,3 +1,13 @@
+Rifts lose HP slowly over time. 
+That is how the "Silent Agreement" Achievement can be gained.
+
+Rare Instances:
+[Floating ÷0 Fragments]
+[Honest Rift]
+[KillaQ Afterimage Event]
+[Safe Rift]
+
+
 Stability Rifts (World system):
 
 **

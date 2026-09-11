@@ -13,7 +13,7 @@ Combat System is a unified combat economy:
 
 [[BCU Game/Gameplay/Player/Stability]]
 
-No classes! [[Combat Philosophies (Masteries)]]
+No classes! [[Weapon Mastery]]
 
 **  
   

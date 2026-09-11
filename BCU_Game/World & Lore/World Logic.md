@@ -4,14 +4,14 @@ Certainty
 
 Certainty defines what is accepted as real after understanding.
 
-- Boracle = stabilizing intelligence
+- [[Boracle]] = stabilizing intelligence
     
 - Turns knowledge into structure
     
 - Enables navigation, meaning, and systems
     
 
-KillaQ
+[[KillaQ]]
 
 KillaQ introduces variation and possibility.
 

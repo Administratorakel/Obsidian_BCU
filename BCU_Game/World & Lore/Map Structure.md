@@ -1,6 +1,6 @@
 Multiple open-world maps with dungeon entries on the border.
 
-[[BCU Game/World & Lore/Map1]]
+[[Map1]]
 [[Map2]]
 [[Map3]]
 [[Map4]]

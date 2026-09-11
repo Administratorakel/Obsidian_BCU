@@ -1,4 +1,6 @@
 Player can store Equipment with this NPC.
 
 
-Located on [Map1]
+Located on [[World & Lore/Maps/Map1]]
+
+ [[Quests]]

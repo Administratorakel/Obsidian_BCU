@@ -8,4 +8,6 @@ Daily Quests which are always according to Player Lv.
 Upon reaching Lv 20+:
 Weekly Quests after finishing Lv 10 Quest.
 
-Located on [Map1]
+Located on [[World & Lore/Maps/Map1]]
+
+[[Quests]]

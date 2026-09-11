@@ -1,4 +1,4 @@
-**
+[[Weapons]]
 
 Gem Weapons
 

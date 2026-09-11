@@ -16,7 +16,7 @@ NPC: “I don’t aim for weak points - I create certainty through probability c
 [[Juggernaut]] (AoE brusier / Tank)
 
 
-[[BCU Game/Gameplay/Combat/Combat Philosophies/Hunter/Hunter]] (Precision / Crit / Target control)
+[[Gameplay/Combat/Combat Philosophies/Hunter/Hunter]] (Precision / Crit / Target control)
 
 
 [[Adept]] (Mystic / Elemental control)
@@ -25,5 +25,7 @@ NPC: “I don’t aim for weak points - I create certainty through probability c
 
 
 [[Berserker]] (Offensive commitment / Momentum)
+
+[[Tank]] 
 
 

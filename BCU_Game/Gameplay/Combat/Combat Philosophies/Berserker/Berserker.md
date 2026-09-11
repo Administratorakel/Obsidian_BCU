@@ -1,1 +1,1 @@
-- [[Fighting Slab]]
+[[Fighting Slab]]

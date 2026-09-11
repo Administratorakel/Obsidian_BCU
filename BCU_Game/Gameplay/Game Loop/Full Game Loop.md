@@ -1,4 +1,4 @@
-**
+[[Journey 1 to 100]]
 
 This is your real gameplay loop:
 

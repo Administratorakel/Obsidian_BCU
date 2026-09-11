@@ -1,3 +1,5 @@
+[[Weapon Mastery]]
+
 | 🗡️Sword Progression | Mastery unlocks 50% of weapons Level          |           |                                            |                                   |
 | -------------------- | --------------------------------------------- | --------- | ------------------------------------------ | --------------------------------- |
 | Level                | Stat Bonus                                    | Mod Slots | Unlocks / Notes                            |                                   |

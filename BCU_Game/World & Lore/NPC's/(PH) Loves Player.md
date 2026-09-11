@@ -1,7 +1,7 @@
-NPC seeking attention from the Player
-Asks for ridiculous material to farm for the NPC as quest. 
+NPC seeking attention from the [[Player]]
+Asks for ridiculous material to farm for the NPC as [[Quests]]. 
 
 over time, asks for more and more
 
 
-Located on [Map1]
+Located on [[World & Lore/Maps/Map1]]

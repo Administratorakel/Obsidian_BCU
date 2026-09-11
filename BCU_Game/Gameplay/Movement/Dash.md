@@ -1,0 +1,1 @@
+upgrades to [[Vector Break]] after equipping a [[Shield Core]]

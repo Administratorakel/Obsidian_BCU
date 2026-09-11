@@ -101,3 +101,5 @@ D) Breach synergy upgrades
     
 
 **
+
+[[Gameplay/Player/Dash]] Upgrade

@@ -1,2 +1,2 @@
-[[Leveling Mastery]]
+[[Weapon Mastery progression]]
 [Blacksmith]

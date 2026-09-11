@@ -24,3 +24,5 @@ Party of 3 → leader companion active
 Party of 4+ → companions only collect Gold
 
 **
+
+[[Party]]

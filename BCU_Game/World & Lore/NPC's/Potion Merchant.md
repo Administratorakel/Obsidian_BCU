@@ -1,3 +1,5 @@
 Player can buy potions from this NPC
 
-Located on [Map1]
+Located on [[World & Lore/Maps/Map1]]
+
+[[Quests]]

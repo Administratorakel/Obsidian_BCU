@@ -1,2 +1,2 @@
-- [[Hammer]]
-- [[Shooting Morningstar]]
+[[Hammer]]
+ [[Shooting Morningstar]]

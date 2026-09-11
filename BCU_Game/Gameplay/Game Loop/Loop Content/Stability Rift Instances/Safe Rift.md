@@ -1,0 +1,1 @@
+A very rare safe [[Stability Rift]] where no enemies spawn. Rift can be attacked normally. Rewards applied normally
