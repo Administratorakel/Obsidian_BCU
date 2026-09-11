@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World & Lore/Philosophies/Core Philosophy.md",
+                "file": "Gameplay/Principles/Enemy Principles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Core Philosophy"
-            }
-          }
-        ]
-      },
-      {
-        "id": "cc47118c06d0c999",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8cdf74dccd03fee9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Enemy Principles"
             }
           }
         ]
@@ -115,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Gameplay/Principles/Enemy Principles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Gameplay/Principles/Enemy Principles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -175,6 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Gameplay/Principles/Enemy Principles.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -201,43 +188,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "8cdf74dccd03fee9",
+  "active": "76815d6c2fe067bb",
   "lastOpenFiles": [
+    "Gameplay/Principles/Player Principles.md",
+    "Gameplay/Principles/Enemy Principles.md",
+    "Gameplay/Principles/Attack Principles.md",
+    "Gameplay/Principles/Dash Principles.md",
+    "Gameplay/Principles/Ability Principles.md",
+    "Gameplay/Principles/Target Principles.md",
     "Gameplay/Movement/Dash.md",
+    "Gameplay/Principles",
+    "Gameplay/Combat/Stability.md",
+    "Development/Animation/Player Animation.md",
+    "Gameplay/Combat/Combat Philosophies/Weapon Mastery.md",
+    "Development/Animation",
+    "Gameplay/Combat/Combat Philosophies/Swordmaster/Sword.md",
+    "Gameplay/Combat/Combat.md",
+    "Gameplay/Movement/Vector Break.md",
+    "Gameplay/Movement/Vector Break 1.md",
+    "Gameplay/Player/Player.md",
+    "Gameplay/Combat/Combat Philosophies/Tank/Tank.md",
+    "Gameplay/Combat/Combat Philosophies/Tank",
+    "World & Lore/Philosophies/Core Philosophy.md",
     "Gameplay/Player/Shield Core System.md",
     "World & Lore/Story/Story relevant NPCs.md",
     "World & Lore/Story/Storyline.md",
     "Gameplay/Multiplayer/Party.md",
-    "Gameplay/Movement/Vector Break 1.md",
     "Gameplay/Player/Stability.md",
-    "Gameplay/Player/Player.md",
     "Gameplay/Player/Dash.md",
-    "Gameplay/Movement/Vector Break.md",
     "Experimental/Experimental Mechanics.md",
     "World & Lore/NPC's/NPC.md",
     "World & Lore/NPC's/General Merchant.md",
-    "NPC.md",
-    "World & Lore/Narrative System.md",
-    "Gameplay/Companions.md",
-    "World & Lore/World Logic.md",
-    "Gameplay/Combat/Abilities/Archtypes.md",
-    "Gameplay/Rare World Instances/Honest Enemy.md",
-    "World & Lore/Philosophies/Core Philosophy.md",
-    "World & Lore/Story/Kaba Chronicles.md",
-    "Equipment/Gem Weapons.md",
-    "Gameplay/Game Loop/Full Game Loop.md",
-    "Players.md",
-    "Gameplay/Multiplayer/Participation and Loot.md",
-    "Equipment/Weapons.md",
     "BCU Game/Gameplay/Combat/Combat Philosophies/Hunter",
     "BCU Game/Gameplay/Combat/Combat Philosophies",
     "BCU Game/Gameplay/Combat",
     "BCU Game/Gameplay",
     "BCU Game",
     "All dots.base",
-    "World & Lore/Quests",
-    "Gameplay/Game Loop/Loop Content/Stability Rift Instances/KillaQ Afterimage Event",
-    "Gameplay/Achievements",
-    "Gameplay/Game Loop/Loop Content"
+    "World & Lore/Quests"
   ]
 }

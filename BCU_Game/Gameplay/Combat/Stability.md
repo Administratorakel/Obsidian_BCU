@@ -134,3 +134,22 @@ Result: AoE is strong but controlled
 
 **
 
+ **###  Stability
+
+- Stability is the relevant resource
+    
+- No Energy resource
+    
+- Passive Stability regeneration
+    
+- Attacking regenerates Stability
+    
+- Countering special attacks can restore Stability
+    
+- Regeneration rate 0.25% per second
+    
+- Attack regeneration 1% per hit
+    
+- VB counter reward 5%
+    
+- Maximum Stability is 100%**

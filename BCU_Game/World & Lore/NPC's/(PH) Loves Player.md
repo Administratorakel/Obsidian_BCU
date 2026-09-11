@@ -1,4 +1,4 @@
-NPC seeking attention from the [[Player]]
+NPC seeking attention from the [[Gameplay/Player/Player]]
 Asks for ridiculous material to farm for the NPC as [[Quests]]. 
 
 over time, asks for more and more

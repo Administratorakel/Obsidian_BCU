@@ -103,3 +103,33 @@ D) Breach synergy upgrades
 **
 
 [[Gameplay/Player/Dash]] Upgrade
+**
+
+**
+
+### Shield Core / Vector Break
+
+- Shield Core transforms Dash → Vector Break
+    
+- Core provides elemental/status enhancement
+    
+- Shield adds effects around the weapon's Vector Break
+    
+- Vector Break costs Stability
+    
+- Cost is percentage-based
+    
+- Each weapon type can have a different cost
+    
+- Insufficient Stability → Vector Break doesn't activate
+    
+- Shield Core status effects (elemental and physical enhancements for VB)
+    
+- Exact Sword + Core interaction (?)
+    
+- Vector Break UI (2 stacks visible on screen) 
+    
+- Core adds visual effects to the animation of element
+    
+
+**

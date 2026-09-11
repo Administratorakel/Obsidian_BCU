@@ -31,3 +31,25 @@ Engage:
 → repeat
 
 **
+**
+
+### Combat interaction
+
+- Using normal attacks and abilities while running starts animation normally. 
+    
+- Dash can cancel attacks
+    
+- Dash cancellation can happen during wind-up
+    
+- Player can Dash immediately after an attack connects
+    
+- Stunned player cannot move or Dash
+    
+- Exact attack-cancel rules after testing Sword (?)
+    
+- Exact interaction between Dash and ability animations (?)
+    
+- Damage/counter timing (?)
+    
+
+**

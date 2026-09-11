@@ -16,7 +16,7 @@ Stack 6: Pseudo-Glitched:
 		- The enemy appears "Awakened" with stronger looking visual and altered behavior. Upon attacking the player the enemy gains a little AoE explosion upon collision.
 
 
-Against the [[Player]]:
+Against the [[Gameplay/Player/Player]]:
 
 Stack 1 & 2: Deals a small amount of Instability dmg and steals a small portion of Instability with each hit
 Stack 3: Deals a small amount of Instability dmg and reduce Players Stability by 20%

@@ -34,3 +34,34 @@
 ||Status Chance|+0.2%||||||||||
 ||Rift Interaction Efficiency|+0.3%||||||||||
 ||Vector Break Conversion Efficiency|+0.2%||||||||||
+
+
+
+**
+
+### Player movement
+
+- Running speed = 10
+    
+- Walking speed = 5
+    
+- Walking is toggleable
+    
+- Instant acceleration/deceleration
+    
+- Instant 180° direction changes
+    
+- No sprint
+    
+- No stamina
+    
+- No jumping
+    
+- Movement speed can be modified
+    
+- Walk toggle = “Ctrl + Shift”
+    
+- Movement modifiers stack additively and multiplicatively
+    
+
+**
