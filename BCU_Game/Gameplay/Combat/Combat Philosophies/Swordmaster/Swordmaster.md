@@ -1,0 +1,3 @@
+- [[Sword]]
+- [[Two-handed Blade]]
+- [[Odachi]]
