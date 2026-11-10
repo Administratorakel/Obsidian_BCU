@@ -1,21 +1,8 @@
- **###  Player animation system
+Player:
+-Idle
+-Running
+-Attackloops (1, 2, 3, 4, 5, 6, 7)
+-Death animation
+-Animator parameters
+-Dash animation
 
-- Idle
-    
-- Running
-    
-- Attack animations exist
-    
-- Final Sword attack animation setup
-    
-- Dash animation
-    
-- Death animation
-    
-- Animator parameters
-    
-- Movement → animation transitions
-    
-- Attack → movement transitions
-    
-- Dash → attack transitions**
