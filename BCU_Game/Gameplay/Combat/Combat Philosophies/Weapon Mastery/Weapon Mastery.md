@@ -32,46 +32,6 @@ Mastery rewards scale up. For example:
 
 The milestone rewards are therefore bumps in the curve, player receivers several instances where they gain feeling of “becoming stronger”
 
-### Upon reaching Sword Mastery 100
-
-The player reaches true Sword Mastery and gets:
-
-Option A — Keep Mastery
-
-- Unlocks the Sword Mastery Lv.100 buff while wielding a sword (Bonus dmg, attackspeed, crit/dmg.
-    
-
-Option B — Sacrifice Mastery
-
-- Gain Echoed Weapon Essence
-    
-
-That creates an interesting economy around mastery:
-
-Mastery isn't just personal progression. Mastery can produce something valuable to other players.
-
-Sword Mastery 100  
-→ Choose to retain the mastery buff or  
-→ Sacrifice the 100 mastery  
-→ Receive Echoed Sword Essence  
-→ Mastery returns to 0  
-→ Essence is tradable  
-→ Used for the final Sword-related ability enhancement
-
-And the name leaves room for equivalents:
-
-- Echoed Sword Essence
-    
-- Echoed Hammer Essence
-    
-- Echoed Bow Essence
-    
-- Echoed Odachi Essence
-    
-- etc.
-    
-
-**
 
 
 Sword example:
@@ -112,3 +72,114 @@ Sword example:
 - Resetting Mastery gives 1 Echoed Sword Essence
     
 - All abilities can be upgraded**
+
+| 🗡️Sword Progression | Mastery unlocks 50% of weapons Level          |           |                                            |                                   |
+| -------------------- | --------------------------------------------- | --------- | ------------------------------------------ | --------------------------------- |
+| Level                | Stat Bonus                                    | Mod Slots | Unlocks / Notes                            |                                   |
+| 1                    | Base Stats                                    | 0         | Base VB (DMG+, Speed+)                     |                                   |
+| 2                    | +2                                            |           |                                            |                                   |
+| 3                    | +3                                            |           |                                            |                                   |
+| 4                    | +4                                            |           |                                            |                                   |
+| 5                    | +5                                            |           |                                            |                                   |
+| 6                    |                                               |           |                                            |                                   |
+| 7                    |                                               |           |                                            |                                   |
+| 8                    |                                               |           |                                            |                                   |
+| 9                    |                                               |           |                                            |                                   |
+| 10                   | + Flat DMG                                    | 0         | Unlock 1st Mod Slot                        | Combo Unlockable via dropped item |
+| 11                   |                                               |           |                                            |                                   |
+| 12                   |                                               |           |                                            |                                   |
+| 13                   |                                               |           |                                            |                                   |
+| 14                   |                                               |           |                                            |                                   |
+| 15                   |                                               |           |                                            |                                   |
+| 16                   |                                               |           |                                            |                                   |
+| 17                   |                                               |           |                                            |                                   |
+| 18                   |                                               |           |                                            |                                   |
+| 19                   |                                               |           |                                            |                                   |
+| 20                   | + Attack Speed                                | 1         | 🔓 Unlock Bulletjump Augment: Blink Step   |                                   |
+| 21                   |                                               |           |                                            |                                   |
+| 22                   |                                               |           |                                            |                                   |
+| 23                   |                                               |           |                                            |                                   |
+| 24                   |                                               |           |                                            |                                   |
+| 25                   | + bleed chance                                | 1         |                                            |                                   |
+| 26                   |                                               |           |                                            |                                   |
+| 27                   |                                               |           |                                            |                                   |
+| 28                   |                                               |           |                                            |                                   |
+| 29                   |                                               |           |                                            |                                   |
+| 30                   | +5% DMG                                       | 1         |                                            |                                   |
+| 31                   |                                               |           |                                            |                                   |
+| 32                   |                                               |           |                                            |                                   |
+| 33                   |                                               |           |                                            |                                   |
+| 34                   |                                               |           |                                            |                                   |
+| 35                   |                                               |           |                                            |                                   |
+| 36                   |                                               |           |                                            |                                   |
+| 37                   |                                               |           |                                            |                                   |
+| 38                   |                                               |           |                                            |                                   |
+| 39                   |                                               |           |                                            |                                   |
+| 40                   | + Dash Speed                                  | 2         |                                            |                                   |
+| 41                   |                                               |           |                                            |                                   |
+| 42                   |                                               |           |                                            |                                   |
+| 43                   |                                               |           |                                            |                                   |
+| 44                   |                                               |           |                                            |                                   |
+| 45                   |                                               |           |                                            |                                   |
+| 46                   |                                               |           |                                            |                                   |
+| 47                   |                                               |           |                                            |                                   |
+| 48                   |                                               |           |                                            |                                   |
+| 49                   |                                               |           |                                            |                                   |
+| 50                   | Major, +crit/dmg, + Dash Distance             | 2         |                                            |                                   |
+| 51                   |                                               |           |                                            |                                   |
+| 52                   |                                               |           |                                            |                                   |
+| 53                   |                                               |           |                                            |                                   |
+| 54                   |                                               |           |                                            |                                   |
+| 55                   |                                               |           |                                            |                                   |
+| 56                   |                                               |           |                                            |                                   |
+| 57                   |                                               |           |                                            |                                   |
+| 58                   |                                               |           |                                            |                                   |
+| 59                   |                                               |           |                                            |                                   |
+| 60                   | +10% DMG                                      | 3         |                                            |                                   |
+| 61                   |                                               |           |                                            |                                   |
+| 62                   |                                               |           |                                            |                                   |
+| 63                   |                                               |           |                                            |                                   |
+| 64                   |                                               |           |                                            |                                   |
+| 65                   |                                               |           |                                            |                                   |
+| 66                   |                                               |           |                                            |                                   |
+| 67                   |                                               |           |                                            |                                   |
+| 68                   |                                               |           |                                            |                                   |
+| 69                   |                                               |           |                                            |                                   |
+| 70                   | +Crit dmg                                     |           |                                            |                                   |
+| 71                   |                                               |           |                                            |                                   |
+| 72                   |                                               |           |                                            |                                   |
+| 73                   |                                               |           |                                            |                                   |
+| 74                   |                                               |           |                                            |                                   |
+| 75                   | Major, +Bleed chance + Dash Damage (weapon %) |           | Bulletjump effects scale with weapon level |                                   |
+| 76                   |                                               |           |                                            |                                   |
+| 77                   |                                               |           |                                            |                                   |
+| 78                   |                                               |           |                                            |                                   |
+| 79                   |                                               |           |                                            |                                   |
+| 80                   | + Attack Speed                                | 4         |                                            |                                   |
+| 81                   |                                               |           |                                            |                                   |
+| 82                   |                                               |           |                                            |                                   |
+| 83                   |                                               |           |                                            |                                   |
+| 84                   |                                               |           |                                            |                                   |
+| 85                   |                                               |           |                                            |                                   |
+| 86                   |                                               |           |                                            |                                   |
+| 87                   |                                               |           |                                            |                                   |
+| 88                   |                                               |           |                                            |                                   |
+| 89                   |                                               |           |                                            |                                   |
+| 90                   | +15%                                          |           |                                            |                                   |
+| 91                   |                                               |           |                                            |                                   |
+| 92                   |                                               |           |                                            |                                   |
+| 93                   |                                               |           |                                            |                                   |
+| 94                   |                                               |           |                                            |                                   |
+| 95                   |                                               |           |                                            |                                   |
+| 96                   |                                               |           |                                            |                                   |
+| 97                   |                                               |           |                                            |                                   |
+| 98                   |                                               |           |                                            |                                   |
+| 99                   |                                               |           |                                            |                                   |
+| 100                  | Major Final bonus                             | 5         |                                            |                                   |
+
+Leveling improves feel, not just stats (like Warframe’s MR)
+
+## Mastery Completion
+- Maximum Mastery: 100
+- [[Mastery Milestones]]
+- [[Echoed Weapon Essence]]

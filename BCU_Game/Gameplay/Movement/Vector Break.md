@@ -1,3 +1,10 @@
+- [[Dash]]
+- [[Shield Core System]]
+- [[Vector Break effects per Weapon]]
+- [[DracoVentus]]
+
+[[Vector Break effects per Weapon]]
+
 - Enhanced movement
 - Weapon-dependent effects
 - Shield Core interaction

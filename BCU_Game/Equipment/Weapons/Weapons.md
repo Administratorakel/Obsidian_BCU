@@ -1,5 +1,5 @@
 [[Weapon Mastery]]
-
+[[Vector Break effects per Weapon]]
 
 
 Weapons define:

@@ -1,9 +1,11 @@
-| Attribute | Primary purpose | Secondary effects             |
-| --------- | --------------- | ----------------------------- |
-| VIT       | HP              | Defense, knockback resistance |
-| STR       | Physical damage | Knockback strength            |
-| INS       | Magical damage  | Status and elemental scaling  |
-| AGI       | Attack speed    | Movement responsiveness       |
+
+| Attribute | Primary purpose                       | Secondary effects            |
+| --------- | ------------------------------------- | ---------------------------- |
+| VIT       | HP                                    | knockback resistance         |
+| STR       | Physical DMG, Physical Defense        | Knockback strength           |
+| INS       | Magical DMG, Magical Defense          | Status Chance, Elemental DMG |
+| AGI       | Attack speed, Movement responsiveness | Critical Chance              |
+
 
 - Attribute allocation
 - Automatic attributes
@@ -12,11 +14,10 @@
 - Numerical scaling
 - Connections to [[Character Progression]]
 
-|           |                                    |       |
-| --------- | ---------------------------------- | ----- |
-|           |                                    |       |
+
+
 | VIT gives | Max HP                             | +30   |
-|           | Defense                            | +1    |
+| --------- | ---------------------------------- | ----- |
 |           | HP Reg                             | +0.1% |
 |           | Stability Max                      | +0.5  |
 |           | Knockback Res                      | +0.3% |
@@ -41,10 +42,14 @@
 |           | Rift Interaction Efficiency        | +0.3% |
 |           | Vector Break Conversion Efficiency | +0.2% |
 
+### Stat scaling
 
-
-
-
+- **VIT:** HP bonus increases with level. Current idea: **+5 HP per player level** to the VIT HP contribution.
+- **STR:** Fixed physical-damage increase per point.
+- **INS:** Fixed magical-damage increase per point.
+- **AGI:** Small fixed increase to Crit per point.
+- **AGI Movement Speed:** Fixed increase per point.
+- **No hard stat caps for now.**
 
 ### Player movement
 
@@ -59,3 +64,30 @@
 - Movement speed can be modified
 - Walk toggle = “Ctrl + Shift”
 - Movement modifiers stack additively and multiplicatively
+
+### Attack Speed
+
+Attack Speed affects **all three**:
+
+- Attack animation time
+- Attacks per second
+- Recovery time
+
+
+
+
+
+
+
+### Movement Speed
+
+AGI-derived Movement Speed affects:
+
+- Normal running
+- Click-to-move
+- Attack movement
+- **Dash speed**
+
+
+Critical Scaling through AGI
+

@@ -32,7 +32,7 @@ Replaces traditional Mana/Energy system and is central resource for:
 [[Combat flow]]
 
 
-Special NPC - Merchant who sets prices higher or lower, depending on current% HP and Stability.
+
 
 
 Resource System Core definition:
@@ -161,3 +161,13 @@ Result: AoE is strong but controlled
 - VB counter reward 5%
     
 - Maximum Stability is 100%**
+
+Stability
+├── Core Rules
+├── Maximum Stability
+├── Passive Regeneration
+├── Active Generation
+├── Generation Limits
+├── Consumption
+├── Special Interactions
+└── Balancing Values
