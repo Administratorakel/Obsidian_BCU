@@ -1,5 +1,5 @@
 **
-[[Quests]]
+[[World & Lore/Story/Quests]]
 Beginning  
   
 

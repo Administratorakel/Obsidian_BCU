@@ -1,3 +1,10 @@
+- Mount systems still under consideration
+- Future faction mechanics
+- Unconfirmed reputation systems
+- Unusual world mechanics
+- Potential enemy designs
+
+
 **
 
 - Silly language decoding maps

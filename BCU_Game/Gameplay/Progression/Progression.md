@@ -1,6 +1,9 @@
 [[Character Progression]]
 [[Mount Progression]]
-**
+[[Weapon Mastery]]
+[[Ability Progression]]
+[[Journey Repeat]]
+
 
 Progression feeling:
 

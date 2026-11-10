@@ -1,7 +1,11 @@
 [[Swordmaster]]
 
 **
-
+- One-handed Sword combat behavior
+- Attack patterns
+- Signature mechanics
+- Vector Break interpretation
+- Ability interpretations
 ### 6. Sword (?)
 
 Before coding the actual Sword system, define:

@@ -1,4 +1,7 @@
-**
+- Experience
+- Character levels
+- Attribute point acquisition
+- Level-based unlocks
 
 Leveling grants EXP
 

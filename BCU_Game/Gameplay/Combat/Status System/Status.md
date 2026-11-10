@@ -22,3 +22,10 @@ Elements:
 - [[Lightning]]
 - [[Instability]]
 
+- Status buildup
+- Stack duration
+- Activation thresholds
+- Status chance
+- Status visibility
+- Multiplayer interactions
+- Status removal

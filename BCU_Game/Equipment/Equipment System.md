@@ -1,4 +1,8 @@
-
+- Equipment categories
+- Equipment slots
+- Level requirements
+- Equipping restrictions
+- Inventory interaction
 **
 
 - Helmet

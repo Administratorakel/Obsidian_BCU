@@ -1,6 +1,14 @@
 
 
-
+- Maximum Stability
+- Passive regeneration
+- Regeneration through attacks
+- Stability consumption
+- Stability gains from counters
+- Stability gain limits
+- Interaction with [[Vector Break]]
+- Interaction with [[Gameplay/Combat/Abilities/Archtype Interpretations/Heavy Strike]]
+- Interaction with [[Stability Discharge]]
 
 It replaces traditional mana/energy systems and is the central resource for:
 
@@ -20,7 +28,7 @@ It replaces traditional mana/energy systems and is the central resource for:
 Replaces traditional Mana/Energy system and is central resource for:
 [[Abilities]]
 [[Movement]]
-[[Heavy Attack]]
+[[Gameplay/Combat/Heavy Strike]]
 [[Combat flow]]
 
 

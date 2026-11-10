@@ -6,3 +6,21 @@ Player:
 -Animator parameters
 -Dash animation
 
+# Player Animation
+
+## Required Animations
+- Idle
+- Running
+- Attack loops
+- Dash
+- Death
+
+## Current Implementation
+- Blender animations created
+- FBX export requires verification
+- Unity import requires verification
+
+## Related
+- [[PlayerController]]
+- [[Combat]]
+- [[Dash]]

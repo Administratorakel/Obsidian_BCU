@@ -1,3 +1,13 @@
+- Two charges.
+- Independent charge cooldowns.
+- Directional activation.
+- Invulnerability window.
+- Movement and gravity interactions.
+- Gap crossing.
+- Collision behavior.
+- Animation cancellation.
+
+[[Dash]] provides the foundation for [[Vector Break]]
 upgrades to [[Vector Break]] after equipping a [[Shield Core]]
 
 **

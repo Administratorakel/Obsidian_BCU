@@ -1,4 +1,8 @@
-**
+- Damage contribution
+- Support contribution
+- Eligibility
+- Loot distribution
+- Participation rewards
 
 Loot uses:
 

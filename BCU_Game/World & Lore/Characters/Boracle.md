@@ -1,0 +1,1 @@
+central lore entry containing the established philosophy of Certainty.

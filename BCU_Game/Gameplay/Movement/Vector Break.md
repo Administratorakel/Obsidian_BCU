@@ -1,3 +1,11 @@
+- Enhanced movement
+- Weapon-dependent effects
+- Shield Core interaction
+- Stability consumption
+- Damage and status interactions
+- Advanced movement upgrades
+
+[[Dash]] provides the foundation for [[Vector Break]]
 Inspired by Bulletjump in Warframe.
 
 **

@@ -15,3 +15,7 @@ Example: 
 **
 
 [[Shield]]
+
+
+[[Dash]] → [[Vector Break]] → [[Shield Core System]]
+

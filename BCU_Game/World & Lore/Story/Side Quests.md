@@ -1,1 +1,1 @@
-[[Quests]]
+[[World & Lore/Story/Quests]]

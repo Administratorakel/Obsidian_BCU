@@ -1,0 +1,6 @@
+- Journey completion
+- Repeat conditions
+- Automatic attribute changes
+- Stat-reset interactions
+- Rewards
+- Long-term progression effects

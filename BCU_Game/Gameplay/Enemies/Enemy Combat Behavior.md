@@ -1,0 +1,7 @@
+- Passive and aggressive behavior
+- Cautious behavior
+- Tactical retreat
+- Fleeing
+- Desperate Aggression
+- Target fixation
+- Enemy-dependent combat decisions

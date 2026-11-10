@@ -24,3 +24,7 @@ Important rule:
 
 **
 
+- Party size
+- Party mechanics
+- Shared interactions
+- Multiplayer combat rules
