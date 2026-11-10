@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gameplay/Enemies/Targeting and Aggro.md",
+                "file": "Gameplay/Enemies/Group Behavior.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Targeting and Aggro"
+              "title": "Group Behavior"
             }
           }
         ]
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gameplay/Enemies/Targeting and Aggro.md",
+                "file": "Gameplay/Enemies/Group Behavior.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -191,14 +191,14 @@
   },
   "active": "76815d6c2fe067bb",
   "lastOpenFiles": [
-    "Gameplay/Enemies/Enemy AI Overview.md",
+    "Gameplay/Enemies/Perception and Tracking.md",
     "Gameplay/Enemies/Targeting and Aggro.md",
+    "Gameplay/Enemies/Enemy AI Overview.md",
     "Gameplay/Enemies/Intelligence Tiers.md",
     "Development/Enemy AI.md",
     "World & Lore/Maps/Enemy Fanilies/Wolves/Wolves.md",
     "World & Lore/Maps/Enemy Fanilies/Wolves/Elite Wolves.md",
     "World & Lore/Maps/Enemy Fanilies/Wolves/Shadow Wolf.md",
-    "Gameplay/Enemies/Perception and Tracking.md",
     "Gameplay/Enemies/Group Behavior.md",
     "Development/Enemy AI",
     "World & Lore/Maps/Enemy families.md",
