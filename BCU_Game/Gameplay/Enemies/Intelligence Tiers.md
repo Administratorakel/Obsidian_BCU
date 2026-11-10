@@ -1,0 +1,4 @@
+- Four proposed intelligence tiers
+- Different intelligence levels within the same species
+- Separation of intelligence, instincts, and physical strength
+- Connections to wolf variants and group coordination
