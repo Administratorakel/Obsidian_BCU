@@ -1,0 +1,7 @@
+- Initial target selection for passive and aggressive enemies.
+- Temporary initial focus period.
+- Recent damage determines subsequent targeting.
+- Some enemies maintain permanent target fixation during combat.
+- Stun can break fixation.
+- Target succession when the current target dies.
+- Enemy-dependent behavior when no other attacker has established threat.
