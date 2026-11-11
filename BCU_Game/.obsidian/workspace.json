@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gameplay/Progression/Progression.md",
+                "file": "Development/UI/HUD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Progression"
+              "title": "HUD"
             }
           }
         ]
@@ -191,13 +191,21 @@
   },
   "active": "1e87151f6ae502ca",
   "lastOpenFiles": [
+    "World & Lore/Desert Island.md",
+    "World & Lore/World building/World building.md",
+    "World & Lore/World building",
+    "World & Lore/Maps/Map1/NPCs/NPC.md",
+    "World & Lore/Maps/Map1/NPCs/Smith Bros.md",
+    "World & Lore/Maps/Map1/Map1.md",
+    "Gameplay/Player/Character Faces.md",
+    "BCU Game/Overall visual style.md",
+    "Gameplay/Progression/Progression.md",
     "Gameplay/Movement/Vector Break.md",
     "Experimental/Unique Characters/Suspicious Merchants.md",
     "Gameplay/Combat/Stability.md",
-    "World & Lore/NPCs/NPC that misremembers the player's name accurately.md",
-    "World & Lore/NPCs/Potion Merchant.md",
-    "World & Lore/NPCs/NPC.md",
-    "World & Lore/NPCs/Mini.md",
+    "World & Lore/Maps/Map1/NPCs/NPC that misremembers the player's name accurately.md",
+    "World & Lore/Maps/Map1/NPCs/Potion Merchant.md",
+    "World & Lore/Maps/Map1/NPCs/Mini.md",
     "Gameplay/Combat/Combat Philosophies/Weapon Mastery/Echoed Weapon Essence.md",
     "Gameplay/Combat/Combat Philosophies/Weapon Mastery/Weapon Mastery.md",
     "Gameplay/Progression/Weapon Unlocks.md",
@@ -210,13 +218,6 @@
     "Equipment/Weapons/Gem Weapons.md",
     "Equipment/Weapons/Gem Weapons.md",
     "Equipment/Equipment Slots.md",
-    "Gameplay/Progression/Character Progression.md",
-    "Gameplay/Progression/Journey Repeat.md",
-    "Gameplay/Combat/Critical Hits.md",
-    "Gameplay/Combat/Damage Calculation.md",
-    "Gameplay/Player/Health.md",
-    "Gameplay/Player/Player.md",
-    "Consistent Structure Pattern.md",
     "Untitled.base",
     "World & Lore/Maps/Enemy Fanilies/Slimes",
     "World & Lore/Maps/Map1",
@@ -225,7 +226,6 @@
     "Gameplay/Combat/Weapon Mastery",
     "Archive/Previous Decisions",
     "Archive",
-    "Development/UI",
-    "Development/Blender"
+    "Development/UI"
   ]
 }

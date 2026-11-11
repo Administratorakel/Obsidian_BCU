@@ -1,4 +1,4 @@
-smaller bulkier brother of [[Armorer]]
+smaller bulkier brother of [[Smith Bros]]
 
 Has been making Weapons and Armors for a long time. 
 
@@ -12,7 +12,7 @@ Located on [Map1]
 
 ## Identity
 - Smaller, bulkier Smith Brother
-- Brother of [[Armorer]]
+- Brother of [[Smith Bros]]
 
 ## Location
 - [[Map1]]
@@ -27,4 +27,4 @@ Located on [Map1]
 - Father's legacy
 
 ## Relationships
-- [[Armorer]]
+- [[Smith Bros]]
