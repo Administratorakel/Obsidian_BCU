@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Development/UI/HUD.md",
+                "file": "Gameplay/Companions/Little Cato & Ms. Handsome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HUD"
+              "title": "Little Cato & Ms. Handsome"
             }
           }
         ]
@@ -176,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 399.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,6 +191,15 @@
   },
   "active": "1e87151f6ae502ca",
   "lastOpenFiles": [
+    "Gameplay/Companions/Companions.md",
+    "Gameplay/Multiplayer/Multiplayer.md",
+    "Gameplay/Multiplayer/Participation and Loot.md",
+    "Gameplay/Companions/Little Cato & Ms. Handsome.md",
+    "Gameplay/Companions/Dipsy.md",
+    "Gameplay/Companions/Aleksei.md",
+    "Gameplay/Companions/Amy.md",
+    "Gameplay/Companions/Moony.md",
+    "Development/UI/HUD.md",
     "World & Lore/Desert Island.md",
     "World & Lore/World building/World building.md",
     "World & Lore/World building",
@@ -209,15 +218,6 @@
     "Gameplay/Combat/Combat Philosophies/Weapon Mastery/Echoed Weapon Essence.md",
     "Gameplay/Combat/Combat Philosophies/Weapon Mastery/Weapon Mastery.md",
     "Gameplay/Progression/Weapon Unlocks.md",
-    "Gameplay/Progression/Weapon Mastery progression.md",
-    "Gameplay/Movement/Dash.md",
-    "Gameplay/Player/Attributes.md",
-    "Equipment/Weapons/Weapons.md",
-    "Gameplay/Movement/Vector Break effects per Weapon.md",
-    "Equipment/Weapons/Vector Break Effects.md",
-    "Equipment/Weapons/Gem Weapons.md",
-    "Equipment/Weapons/Gem Weapons.md",
-    "Equipment/Equipment Slots.md",
     "Untitled.base",
     "World & Lore/Maps/Enemy Fanilies/Slimes",
     "World & Lore/Maps/Map1",
