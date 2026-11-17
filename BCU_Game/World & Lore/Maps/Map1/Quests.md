@@ -1,0 +1,4 @@
+- Main Map 1 quest progression
+- Tutorial quests
+- Unlock conditions
+- Connections to NPC quest notes

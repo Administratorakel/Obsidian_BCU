@@ -1,0 +1,5 @@
+- Village layout
+- NPC locations
+- Buildings
+- Safe zone
+- Services

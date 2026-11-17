@@ -1,0 +1,1 @@
+A very rare [[Stability Rift]] which stops around 80-90% HP. [[KillaQ]] appears just before Rift vanishes, saying something like: "Not today.."

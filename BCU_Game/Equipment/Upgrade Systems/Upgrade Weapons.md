@@ -1,0 +1,2 @@
+[[Weapon Mastery Progression]]
+[Blacksmith]

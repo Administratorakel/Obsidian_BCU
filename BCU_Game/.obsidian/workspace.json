@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wow/lol.md",
+                "file": "Gameplay/Enemies/Targeting and Aggro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lol"
+              "title": "Targeting and Aggro"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wow/lol.md",
+                "file": "Gameplay/Enemies/Targeting and Aggro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wow/lol.md",
+                "file": "Gameplay/Enemies/Targeting and Aggro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wow/lol.md",
+                "file": "Gameplay/Enemies/Targeting and Aggro.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,9 +190,41 @@
   },
   "active": "e8cbb27da5cc5c21",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Wow/lol.md",
-    "Wow",
-    "test.md"
+    "Gameplay/Enemies/Group Behavior.md",
+    "Development/Development Overview.md",
+    "Development/Development Tools & Setup.md",
+    "Test.md",
+    "World & Lore/Maps/Map1/NPCs/Sword Weapon Trainer.md",
+    "World & Lore/Maps/Map1/NPCs/Storage Keeper.md",
+    "World & Lore/Maps/Map1/NPCs/Smith Bros.md",
+    "World & Lore/Maps/Map1/NPCs/Potion Merchant.md",
+    "World & Lore/Maps/Map1/NPCs/NPC.md",
+    "World & Lore/Maps/Map1/NPCs/NPC that misremembers the player's name accurately.md",
+    "World & Lore/Maps/Map1/NPCs/Mini.md",
+    "World & Lore/Maps/Map1/NPCs/Logos.exe Researcher.md",
+    "World & Lore/Maps/Map1/NPCs/General Merchant.md",
+    "World & Lore/Maps/Map1/NPCs/Certain Priest.md",
+    "World & Lore/Maps/Map1/NPCs/Blacksmith.md",
+    "World & Lore/Maps/Map1/NPCs/Bill.md",
+    "World & Lore/Maps/Map1/NPCs/(PH) Loves Player.md",
+    "World & Lore/Maps/Map1/NPCs/(PH) Loves NPC who loves Player.md",
+    "World & Lore/Maps/Enemy Families/Wolves/Wolves.md",
+    "World & Lore/Maps/Enemy Families/Wolves/Elite Wolves.md",
+    "World & Lore/Maps/Enemy Families/Wolves/Shadow Wolf.md",
+    "World & Lore/Maps/Enemy Families/Slimes/Slimes.md",
+    "World & Lore/Maps/Map1/Village.md",
+    "World & Lore/Maps/Map1/Quests.md",
+    "World & Lore/Maps/Map1/NPCs",
+    "World & Lore/Maps/Map1/Map1.md",
+    "World & Lore/Maps/Map1/Geography.md",
+    "World & Lore/Maps/Enemy Families/Wolves",
+    "World & Lore/Maps/Enemy Families/Slimes",
+    "World & Lore/Maps/Map1",
+    "World & Lore/Maps/Enemy Families",
+    "World & Lore/Maps/Dungeons",
+    "World & Lore/Characters/OMNI",
+    "World & Lore/Characters/BCU",
+    "World & Lore/World building",
+    "World & Lore/Story"
   ]
 }

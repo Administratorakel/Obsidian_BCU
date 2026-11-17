@@ -1,0 +1,4 @@
+- Enemy territories
+- Enemy families present
+- Spawn distributions
+- Special encounters
