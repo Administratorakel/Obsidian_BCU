@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gameplay/Game Loop/Full Game Loop.md",
+                "file": "Gameplay/Combat/Combat Philosophies/Tank/Shield.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Full Game Loop"
+              "title": "Shield"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gameplay/Game Loop/Full Game Loop.md",
+                "file": "Gameplay/Combat/Combat Philosophies/Tank/Shield.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gameplay/Game Loop/Full Game Loop.md",
+                "file": "Gameplay/Combat/Combat Philosophies/Tank/Shield.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gameplay/Game Loop/Full Game Loop.md",
+                "file": "Gameplay/Combat/Combat Philosophies/Tank/Shield.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,8 +190,8 @@
   },
   "active": "e8cbb27da5cc5c21",
   "lastOpenFiles": [
-    "World & Lore/Maps/Map1/NPCs/Certain Priest.md",
     "Gameplay/Game Loop/Full Game Loop.md",
+    "World & Lore/Maps/Map1/NPCs/Certain Priest.md",
     "Gameplay/Movement/Vector Break.md",
     "Gameplay/Movement/Dash.md",
     "Gameplay/Combat/Combat Philosophies/Tank/Shield.md",
