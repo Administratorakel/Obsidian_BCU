@@ -17,17 +17,6 @@ Movement Catalyst Mode
 - modifies Vector Break through different Shield cores?
 
 
-Maybe :
-Lv 1 Shield
-- basic Vector Break modifier only
-Lv 20 Shield
-- modifier becomes enhanced
-- unlocks secondary trait slot
-Lv 50 Shield
-- hybrid Vector Break behavior possible
-Lv 100 Shield
-- full “reality manipulation Vector Break”
-- multi-effect chaining possible****
 
 VECTOR BREAK UPGRADE SYSTEM
 ## Core Concept

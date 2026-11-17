@@ -8,9 +8,7 @@
 - Animation cancellation.
 
 [[Dash]] provides the foundation for [[BCU_Game/Gameplay/Movement/Vector Break]]
-upgrades to [[BCU_Game/Gameplay/Movement/Vector Break]] after equipping a [[Shield Core]]
 
-**
 
 ### Base Dash
 

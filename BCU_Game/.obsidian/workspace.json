@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gameplay/Combat/Attacks/Weapon Mastery/Weapon Mastery.md",
+                "file": "Gameplay/Movement/Dash.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Weapon Mastery"
+              "title": "Dash"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gameplay/Combat/Attacks/Weapon Mastery/Weapon Mastery.md",
+                "file": "Gameplay/Movement/Dash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gameplay/Combat/Attacks/Weapon Mastery/Weapon Mastery.md",
+                "file": "Gameplay/Movement/Dash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gameplay/Combat/Attacks/Weapon Mastery/Weapon Mastery.md",
+                "file": "Gameplay/Movement/Dash.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,17 +190,19 @@
   },
   "active": "e8cbb27da5cc5c21",
   "lastOpenFiles": [
-    "BCU Game/Untitled.md",
+    "Gameplay/Combat/Combat Philosophies/Tank/Shield.md",
+    "Gameplay/Combat/Combat Philosophies/Tank/Tank.md",
+    "Gameplay/Combat/Damage Calculation.md",
+    "Gameplay/Combat/Attacks/Weapon Mastery/Weapon Mastery Progression.md",
     "Gameplay/Combat/Attacks/Weapon Mastery/Weapon Mastery.md",
+    "BCU Game/Untitled.md",
     "BCU_Game/Gameplay/Combat/Combat Philosophies/Hunter/Daggers.md",
     "Test.md",
     "Gameplay/Game Loop/Stability Rift.md",
     "Gameplay/Movement/Dash.md",
     "Gameplay/Movement/Vector Break.md",
     "Gameplay/Movement/Vector Break effects per Weapon.md",
-    "Gameplay/Combat/Combat Philosophies/Tank/Shield.md",
     "Gameplay/Player/Attributes.md",
-    "Gameplay/Combat/Damage Calculation.md",
     "Equipment/Weapons/Weapons.md",
     "BCU_Game/Gameplay/Combat/Combat Philosophies/Hunter",
     "BCU_Game/Gameplay/Combat/Combat Philosophies",
@@ -210,7 +212,6 @@
     "Gameplay/Combat/Combat Philosophies/Skirmisher/Dual Guns.md",
     "Gameplay/Progression/Game Progression.md",
     "Gameplay/Combat/Attacks/Weapon Mastery/Echoed Weapon Essence.md",
-    "Gameplay/Combat/Attacks/Weapon Mastery/Weapon Mastery Progression.md",
     "Gameplay/Combat/Combat Philosophies/Hunter/Hunter.md",
     "Gameplay/Enemies/Targeting and Aggro.md",
     "Gameplay/Enemies/Group Behavior.md",
@@ -220,7 +221,6 @@
     "World & Lore/Maps/Map1/NPCs/Storage Keeper.md",
     "World & Lore/Maps/Map1/NPCs/Smith Bros.md",
     "World & Lore/Maps/Map1/NPCs/Potion Merchant.md",
-    "World & Lore/Maps/Map1/NPCs/NPC.md",
     "World & Lore/Maps/Map1/NPCs",
     "World & Lore/Maps/Enemy Families/Wolves",
     "World & Lore/Maps/Enemy Families/Slimes",
