@@ -26,7 +26,7 @@
   "treeStructure": false,
   "gitServerPasswordSecret": "",
   "refreshSourceControl": true,
-  "basePath": "BCU_Game",
+  "basePath": "BCU_Clone",
   "differentIntervalCommitAndPush": false,
   "changedFilesInStatusBar": false,
   "limitToVault": false,

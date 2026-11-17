@@ -11,14 +11,10 @@
             "id": "030731b6caac2590",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BCU_Game/Test.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Test"
+              "title": "New tab"
             }
           }
         ]
@@ -186,43 +182,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "030731b6caac2590",
+  "active": "939f98b2caa4ee24",
   "lastOpenFiles": [
-    "BCU_Game/All dots.base",
-    "BCU_Game/Test.md",
-    "BCU_Game/Consistent Structure Pattern.md",
-    "BCU_Game/Related Mechanic.md",
+    "BCU_Clone/BCU_Game",
+    "BCU_Clone",
+    "BCU_Game/Gameplay/Combat/Attacks/Weapon Mastery/Weapon Types/Two-handed Sword.md",
+    "BCU_Game/Gameplay/Combat/Attacks/Weapon Mastery/Weapon Types/Warfans.md",
+    "BCU_Game/Gameplay/Combat/Attacks/Weapon Mastery/Weapon Types/Sword.md",
+    "BCU_Game/Gameplay/Combat/Attacks/Weapon Mastery/Weapon Types/Hammer.md",
+    "BCU_Game/Gameplay/Combat/Attacks/Weapon Mastery/Weapon Types/Fighting Slab.md",
+    "BCU_Game/Gameplay/Combat/Attacks/Weapon Mastery/Weapon Types/Daggers.md",
+    "BCU_Game/Gameplay/Combat/Attacks/Weapon Mastery/Weapon Types/Bow.md",
     "BCU_Game/World & Lore/Maps/Map1/NPCs/Sword Weapon Trainer.md",
     "BCU_Game/World & Lore/Maps/Map1/NPCs/Storage Keeper.md",
+    "BCU_Game/World & Lore/Maps/Map1/NPCs/NPC.md",
     "BCU_Game/World & Lore/Maps/Map1/NPCs/Smith Bros.md",
     "BCU_Game/World & Lore/Maps/Map1/NPCs/Potion Merchant.md",
-    "BCU_Game/World & Lore/Maps/Map1/NPCs/NPC.md",
     "BCU_Game/World & Lore/Maps/Map1/NPCs/NPC that misremembers the player's name accurately.md",
     "BCU_Game/World & Lore/Maps/Map1/NPCs/Mini.md",
     "BCU_Game/World & Lore/Maps/Map1/NPCs/Logos.exe Researcher.md",
     "BCU_Game/World & Lore/Maps/Map1/NPCs/General Merchant.md",
     "BCU_Game/World & Lore/Maps/Map1/NPCs/Certain Priest.md",
     "BCU_Game/World & Lore/Maps/Map1/NPCs/Blacksmith.md",
-    "BCU_Game/World & Lore/Maps/Map1/NPCs/(PH) Loves Player.md",
     "BCU_Game/World & Lore/Maps/Map1/NPCs/Bill.md",
-    "BCU_Game/World & Lore/Maps/Enemy Families/Slimes/Slimes.md",
+    "BCU_Game/World & Lore/Maps/Map1/NPCs/(PH) Loves Player.md",
     "BCU_Game/World & Lore/Maps/Map1/NPCs/(PH) Loves NPC who loves Player.md",
     "BCU_Game/World & Lore/Maps/Enemy Families/Wolves/Wolves.md",
     "BCU_Game/World & Lore/Maps/Enemy Families/Wolves/Shadow Wolf.md",
     "BCU_Game/World & Lore/Maps/Enemy Families/Wolves/Elite Wolves.md",
-    "BCU_Game/World & Lore/Maps/Map1/Village.md",
-    "BCU_Game/World & Lore/Maps/Map1/Quests.md",
+    "BCU_Game/World & Lore/Maps/Enemy Families/Slimes/Slimes.md",
+    "BCU_Game/Gameplay/Combat/Attacks/Weapon Mastery/Weapon Types",
     "BCU_Game/World & Lore/Maps/Map1/NPCs",
-    "BCU_Game/World & Lore/Maps/Map1/Map1.md",
-    "BCU_Game/World & Lore/Maps/Map1/Geography.md",
     "BCU_Game/World & Lore/Maps/Enemy Families/Wolves",
     "BCU_Game/World & Lore/Maps/Enemy Families/Slimes",
-    "BCU_Game/World & Lore/Maps/Map1",
-    "BCU_Game/World & Lore/Maps/Enemy Families",
-    "BCU_Game/World & Lore/Maps/Dungeons",
-    "BCU_Game/World & Lore/Characters/OMNI",
-    "BCU_Game/World & Lore/Characters/BCU",
-    "BCU_Game/World & Lore/World building",
-    "BCU_Game/World & Lore/Story"
+    "BCU_Game/Gameplay/Game Loop/Rift Variants/KillaQ Afterimage Event",
+    "BCU_Game/Gameplay/Combat/Status System/Elements",
+    "BCU_Game/Gameplay/Combat/Combat Philosophies/Tank",
+    "BCU_Game/Gameplay/Combat/Combat Philosophies/Swordmaster",
+    "BCU_Game/Gameplay/Combat/Combat Philosophies/Skirmisher"
   ]
 }
