@@ -19,3 +19,15 @@
     
 
 Wolves may track players by scent.
+
+
+### Map 1 — Normal Wolf Attack Pattern
+
+Your new design is:
+
+- **Normal attacks:** Wolves attack by biting.
+- **Stationary player:** The wolf circles the player once, then lunges toward them.
+- **Moving player:** The wolf may lunge immediately instead of circling.
+- **After lunging:** The wolf continues attacking with bites.
+
+This is the current baseline for ordinary wolves on Map 1. More complex behavior can come later.

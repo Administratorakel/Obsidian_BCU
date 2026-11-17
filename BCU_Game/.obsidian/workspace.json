@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gameplay/Combat/Combat Philosophies/Tank/Shield.md",
+                "file": "World & Lore/Maps/Enemy Families/Wolves/Wolves.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shield"
+              "title": "Wolves"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gameplay/Combat/Combat Philosophies/Tank/Shield.md",
+                "file": "World & Lore/Maps/Enemy Families/Wolves/Wolves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gameplay/Combat/Combat Philosophies/Tank/Shield.md",
+                "file": "World & Lore/Maps/Enemy Families/Wolves/Wolves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gameplay/Combat/Combat Philosophies/Tank/Shield.md",
+                "file": "World & Lore/Maps/Enemy Families/Wolves/Wolves.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,11 +190,13 @@
   },
   "active": "e8cbb27da5cc5c21",
   "lastOpenFiles": [
+    "World & Lore/Maps/Map1/Enemies.md",
+    "World & Lore/Maps/Map1/NPCs/Bill.md",
+    "Gameplay/Combat/Combat Philosophies/Tank/Shield.md",
     "Gameplay/Game Loop/Full Game Loop.md",
     "World & Lore/Maps/Map1/NPCs/Certain Priest.md",
     "Gameplay/Movement/Vector Break.md",
     "Gameplay/Movement/Dash.md",
-    "Gameplay/Combat/Combat Philosophies/Tank/Shield.md",
     "Gameplay/Combat/Combat Philosophies/Tank/Tank.md",
     "Gameplay/Combat/Damage Calculation.md",
     "Gameplay/Combat/Attacks/Weapon Mastery/Weapon Mastery Progression.md",
@@ -219,8 +221,6 @@
     "Gameplay/Enemies/Group Behavior.md",
     "Development/Development Overview.md",
     "Development/Development Tools & Setup.md",
-    "World & Lore/Maps/Map1/NPCs/Sword Weapon Trainer.md",
-    "World & Lore/Maps/Map1/NPCs/Storage Keeper.md",
     "World & Lore/Maps/Map1/NPCs",
     "World & Lore/Maps/Enemy Families/Wolves",
     "World & Lore/Maps/Enemy Families/Slimes",
