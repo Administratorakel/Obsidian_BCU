@@ -2,20 +2,6 @@
 [[Vector Break effects per Weapon]]
 
 
-Weapons define:
-
-- combat style
-    
-- movement style
-    
-- progression identity
-    
-
-**
-
-Current progression Weapon preferences:
-
-  
 
 |   |   |
 |---|---|
@@ -47,27 +33,25 @@ Current progression Weapon preferences:
 Weapon Philosophy:
 
 Weapons define:
-
 - combat identity
-    
 - movement style (via Vector Break interaction)
-    
 - timing structure  
 
 
 [[Sword]]
-[[Two handed-Sword]]
-[[BCU_Game/Gameplay/Combat/Combat Philosophies/Juggernaut/Hammer]]
-[[BCU_Game/Gameplay/Combat/Combat Philosophies/Hunter/Daggers]]
+[[Two-handed Blade]]
+[[Hammer]]
+[[Daggers]]
 [[Shooting Morningstar]]
 [[Magic Gauntlets]]
 [[Odachi]]
 [[Adept Scythe]]
-[[BCU_Game/Gameplay/Combat/Combat Philosophies/Berserker/Fighting Slab]]
+[[Fighting Slab]]
 
-[[BCU_Game/Gameplay/Combat/Combat Philosophies/Hunter/Bow]]
-[[BCU_Game/Gameplay/Combat/Combat Philosophies/Adept/Warfans]]
+[[Bow]]
+[[Warfans]]
 [[Dual Guns]]
 [[Whip]]
-[[Glaive/Chakram]] (explosive Heavy Attack) |
+[[Chakrams]] (explosive Heavy Attack) |
 [[Shield]]
+

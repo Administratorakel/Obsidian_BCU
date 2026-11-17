@@ -15,6 +15,7 @@
 - Connections to [[Character Progression]]
 
 
+Following table exists for future thought food:
 
 | VIT gives | Max HP                             | +30   |     |
 | --------- | ---------------------------------- | ----- | --- |
@@ -93,8 +94,7 @@ Critical Scaling through AGI
 - Manual points can be distributed when the player chooses.
 ## Defense
 - Physical (**PH**) and Magical (**MA**) Defense are the current categories.
-- Exact formulas and how these defenses are derived remain **undecided**.
-- Older proposals about generic flat-plus-percentage defense and diminishing returns should **not** be treated as current confirmed calculations.
+- More info in [[Damage Calculation]]
 ## Additional notes
 - AGI affects responsiveness; no fixed running-speed or critical-damage bonus from earlier drafts is confirmed.
 - Exact attribute damage coefficients and stat caps require future balance decisions.

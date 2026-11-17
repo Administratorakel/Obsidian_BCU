@@ -3,18 +3,7 @@
 | -------------------------- |
 | f(x) = 100x^2 + 200x + 100 |
 | f(x) = (x+1)^2 * 100       |
-### Weapon Mastery — General Rules
 
-- Weapon Mastery ranges from Lv 0 to 100.
-- Progression is based on qualifying kills.
-- Ability hits do not contribute separately to mastery progression.
-- Mastery bonuses apply only while wielding the corresponding weapon type.
-- Sword Mastery serves as the initial template for other weapons.
-- Other weapon types may have different stats, scaling, and unique passives.
-- Every weapon mastery improves Stability efficiency.
-- Universal dash speed and range are not rewarded through mastery.
-- Every tenth level grants a significant stat milestone.
-- Regular stat bonuses become progressively stronger.
 # Sword Weapon Mastery — Proposed Lv 0–100 Rewards TEMPLATE. Move to Swords when template done
 
 > **Draft balancing values.** Kill requirements are preserved exactly from the supplied table. Stat rewards are gained upon reaching the listed mastery level; the kill columns describe progress toward the **next** level. Percentage bonuses are additive percentage-point increases unless stated otherwise. All bonuses apply only while wielding swords.

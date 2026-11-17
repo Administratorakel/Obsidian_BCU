@@ -38,7 +38,7 @@ Stability Rifts (World system):
 
 To avoid power inflation issues:
 
-Stability Breaches must be the ONLY reliable source of high-tier upgrade materials
+Stability Rifts must be the ONLY reliable source of high-tier upgrade materials
 
 Meaning:
 
@@ -53,7 +53,7 @@ Meaning:
 
 CORE LOOP (FINALIZED STRUCTURE)
 
-Stability Breach produces:
+Stability Riftsproduces:
 
 - Shields (rare drop = “manifested instability objects”)
     
@@ -73,9 +73,9 @@ Player uses these to:
 
 ****
 
-🌌 2. STABILITY BREACH = RESOURCE ENGINE
+🌌 2. STABILITY RIFT = RESOURCE ENGINE
 
-You are essentially defining Breaches as:
+You are essentially defining Stability Rifts as:
 
 “Instability condensers”
 
@@ -83,7 +83,7 @@ They don’t just spawn enemies — they generate structured progression materia
 
 ****
 
-Stability Breach Drops:
+Stability Rifts Drops:
 
 A) Shield Drop (rare, identity-defining)
 
