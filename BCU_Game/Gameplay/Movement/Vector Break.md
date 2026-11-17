@@ -58,9 +58,9 @@ C) Control upgrades
 - displacement strength
 - enemy grouping
 
-D) Breach synergy upgrades
+D) Riftsynergy upgrades
 
-- stronger effects inside Stability Breaches
+- stronger effects inside Stability Rifts
 - better resource gain
 - special interactions
 

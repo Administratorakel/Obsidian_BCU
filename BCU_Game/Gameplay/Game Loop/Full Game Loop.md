@@ -2,7 +2,7 @@
 
 This is your real gameplay loop:
 
-STEP 1 — Find Stability Breach
+STEP 1 — Find Stability Rift
 
 - visible world distortion
     
@@ -24,14 +24,14 @@ STEP 3 — Harvest Instability
 
 - enemies drop fragments
     
-- breach generates Energy Residue
+- Rift generates Energy Residue
     
 
 ---
 
 STEP 4 — Resolution
 
-- breach stabilizes
+- Rift stabilizes
     
 - rewards drop:
     
@@ -51,7 +51,7 @@ STEP 5 — Progression
     
 - unlocks stronger Vector Break behavior
     
-- returns to explore stronger Breaches
+- returns to explore stronger rifts
     
 
 **
@@ -69,7 +69,7 @@ Certainty (Boracle):
 
 Uncertainty (KillaQ):
 
-- Stability Breaches generate randomness and variation
+- Stability Rifts generate randomness and variation
     
 
 Reality:

@@ -1,4 +1,4 @@
-Gives the Tutorial Quest to close a Stability Breach
+Gives the Tutorial Quest to close a Stability Rift
 
 Located on [Map1]
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gameplay/Movement/Dash.md",
+                "file": "Gameplay/Game Loop/Full Game Loop.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dash"
+              "title": "Full Game Loop"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gameplay/Movement/Dash.md",
+                "file": "Gameplay/Game Loop/Full Game Loop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gameplay/Movement/Dash.md",
+                "file": "Gameplay/Game Loop/Full Game Loop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gameplay/Movement/Dash.md",
+                "file": "Gameplay/Game Loop/Full Game Loop.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,6 +190,10 @@
   },
   "active": "e8cbb27da5cc5c21",
   "lastOpenFiles": [
+    "World & Lore/Maps/Map1/NPCs/Certain Priest.md",
+    "Gameplay/Game Loop/Full Game Loop.md",
+    "Gameplay/Movement/Vector Break.md",
+    "Gameplay/Movement/Dash.md",
     "Gameplay/Combat/Combat Philosophies/Tank/Shield.md",
     "Gameplay/Combat/Combat Philosophies/Tank/Tank.md",
     "Gameplay/Combat/Damage Calculation.md",
@@ -199,8 +203,6 @@
     "BCU_Game/Gameplay/Combat/Combat Philosophies/Hunter/Daggers.md",
     "Test.md",
     "Gameplay/Game Loop/Stability Rift.md",
-    "Gameplay/Movement/Dash.md",
-    "Gameplay/Movement/Vector Break.md",
     "Gameplay/Movement/Vector Break effects per Weapon.md",
     "Gameplay/Player/Attributes.md",
     "Equipment/Weapons/Weapons.md",
@@ -219,8 +221,6 @@
     "Development/Development Tools & Setup.md",
     "World & Lore/Maps/Map1/NPCs/Sword Weapon Trainer.md",
     "World & Lore/Maps/Map1/NPCs/Storage Keeper.md",
-    "World & Lore/Maps/Map1/NPCs/Smith Bros.md",
-    "World & Lore/Maps/Map1/NPCs/Potion Merchant.md",
     "World & Lore/Maps/Map1/NPCs",
     "World & Lore/Maps/Enemy Families/Wolves",
     "World & Lore/Maps/Enemy Families/Slimes",
