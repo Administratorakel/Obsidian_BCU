@@ -14,7 +14,7 @@ Example: 
 
 **
 
-[[Shield]]
+[[Shield (Weapon)]]
 
 
 [[Dash]] → [[BCU_Game/Gameplay/Movement/Vector Break]] → [[Shield Core System]]

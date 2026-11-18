@@ -1,4 +1,4 @@
-[[Player]] chooses Mastery and identity by choosing [[Weapons]]
+[[Player]] chooses Mastery and identity by choosing [[Weapon Tiers]]
 
 Core philosophy concept:
 

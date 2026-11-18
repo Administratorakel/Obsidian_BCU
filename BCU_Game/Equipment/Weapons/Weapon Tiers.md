@@ -53,5 +53,5 @@ Weapons define:
 [[Dual Guns]]
 [[Whip]]
 [[Chakrams]] (explosive Heavy Attack) |
-[[Shield]]
+[[Shield (Weapon)]]
 

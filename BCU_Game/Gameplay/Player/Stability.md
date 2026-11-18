@@ -39,7 +39,7 @@ Resource System Core definition:
 
 - single combat resource
 - shared across all abilities and actions
-- [[Shield]] influences generation/usage
+- [[Shield (Weapon)]] influences generation/usage
 
 
 Stability Bar: 100 for now

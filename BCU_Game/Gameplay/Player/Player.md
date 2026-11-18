@@ -8,7 +8,7 @@
 
 ## Equipment
 - [[Equipment System]]
-- [[Weapons]]
+- [[Weapon Tiers]]
 - [[Shield Core System]]
 
 ## Progression

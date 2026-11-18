@@ -18,4 +18,36 @@
 - **Map 1 NPCs:** Boracle placement undecided. Live GM dialogue implementation only conceptual.
 - **Cats:** Territory size, cooldown-overlap reset, catfight damage type, timing, walls, behavior on target death (especially Cat B).
 - **Companions:** Follow/leash distances, combat scaling, multiplayer visibility.
+- 
+## Open Questions
+- What is the official name of each original island?
+- How exactly did KillaQ's division-by-zero interference fracture the maps?
+- How many additional fragments exist?
+- How do the Pet Island inhabitants communicate?
+- What determines whether an animal can speak?
+- What cultural traditions exist on Werfimo's Island?
+- What distinguishes Autumn Island culture?
+- How does the Magical Desert Island influence different forms of magical talent?
+- Why must Boracle eventually leave?
+- What happens to the village when the fragments are restored?
 
+
+**Confirmed**
+- Four segments originate from four different islands.
+- The original islands still exist.
+- Boracle recruited volunteers from the damaged islands.
+- The settlement was originally temporary.
+- Volunteers knew it would be a patchwork, but not its exact composition.
+- The settlement became permanent over time.
+- The population characteristics described above.
+- Magical potential depends on environmental exposure and individual talent.
+- Magical development can continue through training after leaving the desert.
+- Some pet animals can speak, while others cannot.
+
+**Proposed / Unconfirmed**
+- Division by zero as the exact cause of the fracturing event.
+- Additional fragments elsewhere.
+- Exact genetic and cultural mechanisms.
+- Intelligence or INS as the mechanism determining animal speech.
+- Magical player emotes.
+- The future restoration storyline.

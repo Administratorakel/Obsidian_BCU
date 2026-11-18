@@ -11,10 +11,10 @@
 | Weapon | 1 |
 
 ## Special Rules
-- [[Shield]] can occupy the Weapon slot
+- [[Shield (Weapon)]] can occupy the Weapon slot
 - Equipment requirements vary by item
 - [[Equipment System]]
 
 ## Related
-- [[Weapons]]
+- [[Weapon Tiers]]
 - [[Equipment Stats]]
