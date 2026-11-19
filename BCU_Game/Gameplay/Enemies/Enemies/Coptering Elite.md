@@ -62,11 +62,8 @@ The intended progression becomes increasingly expensive.
 A simplified example:
 
 - First additional ability: approximately one ordinary victory's worth of EXP.
-    
 - Second additional ability: approximately two further ordinary victories' worth of EXP.
-    
 - Later abilities require increasing amounts of stolen EXP.
-    
 
 These victory counts are illustrative equivalents, not fixed requirements.
 
@@ -83,11 +80,8 @@ The elite becomes stronger through accumulated knowledge.
 Possible forms of growth include:
 
 - Increased combat strength.
-    
 - Additional Archetype abilities.
-    
 - Weapon-dependent adaptations of acquired abilities.
-    
 
 Exact numerical stat scaling remains undecided.
 
@@ -126,11 +120,8 @@ A Coptering Elite may leave after defeating players.
 When it leaves:
 
 - The elite disappears.
-    
 - Its accumulated stolen EXP becomes permanently unrecoverable.
-    
 - Players lose the opportunity to defeat that particular elite for its rewards.
-    
 
 The departure system contains two separate probabilities.
 
@@ -138,7 +129,6 @@ The departure system contains two separate probabilities.
 
 After victories, the elite has a chance to increase its departure probability.
 
-The proposed formula is:
 
 `Growth Chance = min(10% × (Victories - 1), 95%)`
 
@@ -208,11 +198,8 @@ New departure chance: 35%
 The working example assumes that:
 
 1. The elite defeats a player.
-    
 2. The existing departure probability determines whether it leaves.
-    
 3. If it remains, a growth roll may increase the departure probability for its next victory.
-    
 
 The exact order of operations has not been finalized.
 
@@ -221,17 +208,13 @@ The exact order of operations has not been finalized.
 Players can see:
 
 - The elite's accumulated Victories.
-    
 - The elite's accumulated Milestones.
-    
 - An icon communicating the possibility of departure.
-    
 
 Players cannot see the exact departure probability.
 
 The icon should communicate risk without revealing the underlying numerical chance.
 
-Its precise visual design remains undecided.
 
 ## 8. Recovering Stolen EXP
 
@@ -250,38 +233,40 @@ While the elite remains alive, it retains stolen EXP indefinitely.
 The Coptering Elite should create a distinctive encounter where:
 
 - Its history matters.
-    
 - Players can recognize its growing strength.
-    
 - Greater power may lead to greater rewards.
-    
 - Deliberately strengthening it is possible.
-    
 - Cooperation may become necessary.
-    
 - The possibility of departure creates meaningful risk.
-    
 - Players possess useful information without knowing the exact outcome.
-    
 
 The enemy should remain challenging even after players understand its mechanics.
 
 ## Undecided
 
 - Exact Milestone EXP thresholds.
-    
 - Exact stat scaling.
-    
 - Specific Archetype abilities and adaptations.
-    
 - Maximum progression by map.
-    
 - Loot types and reward scaling.
-    
-- Exact departure formula behavior.
-    
 - Departure roll timing.
-    
 - Visual design of the departure indicator.
-    
 - EXP recovery time limit.
+
+G(V)=\min(10%(V-1),95%)
+
+A successful growth roll adds:
+
+Delta D=5% * M
+
+Therefore:
+
+D_{new}=min(D_{old}+5%M,100%)
+
+Where:
+
+- \(V\) = accumulated victories.
+- \(M\) = accumulated Milestones.
+- \(D\) = departure probability.
+
+This captures your confirmed additive behavior.

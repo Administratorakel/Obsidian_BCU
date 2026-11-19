@@ -100,4 +100,17 @@ This is the uploaded file's roster, **not** proof that all listed NPCs are alrea
 ## Related world notes
 The church of Borakel, village, and Map 1 layout have separate existing concepts. Integrate this NPC roster into current map documentation rather than replacing a more complete map plan with this partial list.
 
-Future transformation: [[Map 1 Restoration Event]]`
+Future transformation: [[Map 1 Restoration Event]]
+
+
+## Falling Protection
+
+Living beings who fall from Map 1 respawn at the Church of Boracle.
+
+This protection is widely known among Map 1's inhabitants.
+
+Falling from the island does not result in permanent death.
+
+During the future [[Map 1 Restoration Event]], inhabitants may fear that this protection has stopped functioning.
+
+However, the rule remains active throughout the restoration.`

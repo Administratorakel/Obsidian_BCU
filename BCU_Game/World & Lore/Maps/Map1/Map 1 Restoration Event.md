@@ -168,4 +168,24 @@ Its geography, village, inhabitants, and connection to the restored islands rema
 - Details of the replacement Map 1.
 
 
-ACTUALLY Parts of the village will appear on the segments original islands
+## 5. Destruction of the Village
+
+The central village was not originally part of the four islands.
+
+During Boracle's restoration, the village tears apart as the surrounding segments separate.
+
+However, portions of the village are carried along with the returning island fragments.
+
+These structures subsequently appear on the restored original islands.
+
+The village ceases to exist as a unified settlement, but not every building or structure necessarily disappears.
+
+Most inhabitants are expected to be in the village when this happens.
+
+The event may be frightening and chaotic.
+
+Some inhabitants might fall as the ground breaks apart.
+
+Whether particular characters actually fall has not been established.
+
+The exact distribution of village structures among the restored islands remains undecided.

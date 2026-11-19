@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gameplay/Enemies/Enemies/Coptering Elite.md",
+                "file": "World & Lore/Maps/Map1/Map1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Coptering Elite"
+              "title": "Map1"
             }
           }
         ]
@@ -190,6 +190,8 @@
   },
   "active": "e8cbb27da5cc5c21",
   "lastOpenFiles": [
+    "World & Lore/Maps/Map1/Map 1 Restoration Event.md",
+    "Gameplay/Enemies/Enemies/Coptering Elite.md",
     "Gameplay/Enemies/Enemy Combat Behavior.md",
     "Gameplay/Combat/Status System/Status.md",
     "Gameplay/Player/EXP.md",
@@ -197,8 +199,6 @@
     "World & Lore/Boracle & Uncertainties/Boracle.md",
     "World & Lore/Story/Boracle's Existential Crisis.md",
     "Boracle's Existential Crisis.md",
-    "World & Lore/Maps/Map1/Map 1 Restoration Event.md",
-    "Gameplay/Enemies/Enemies/Coptering Elite.md",
     "Gameplay/Combat/Status System/Coptering.md",
     "Gameplay/Enemies/Enemies",
     "World & Lore/Maps/Original Islands of Map1/Magical Desert Island.md",
