@@ -79,8 +79,6 @@ The territory represents the enemy Little Cato is fighting over.
 
 # 5. Miss Handsome — Player-Focused Offense
 
-**Identity:** Little Cato or Miss Handsome — undecided.
-
 Miss Handsome follows the player's combat decisions.
 
 ### Target Selection

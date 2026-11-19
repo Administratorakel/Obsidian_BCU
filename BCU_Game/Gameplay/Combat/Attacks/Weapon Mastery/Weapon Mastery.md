@@ -36,8 +36,7 @@ Core philosophy concept:
 [[Shield (Weapon)]]
 
 ## Mastery Completion
-- Maximum Mastery: 100
-- [[Mastery Milestones]]
+- Maximum Mastery: 100]]
 - [[Echoed Weapon Essence]]
 **Status:** Main structure confirmed; reward values and several book details provisional.  
 **Related:** [[Attributes]], [[Journey Repeat]], [[Vector Break]]

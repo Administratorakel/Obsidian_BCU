@@ -27,7 +27,7 @@
 - What cultural traditions exist on Werfimo's Island?
 - What distinguishes Autumn Island culture?
 - How does the Magical Desert Island influence different forms of magical talent?
-- Why must Boracle eventually leave?
+- Why must Boracle eventually leave (further story development note)?
 - What happens to the village when the fragments are restored?
 
 

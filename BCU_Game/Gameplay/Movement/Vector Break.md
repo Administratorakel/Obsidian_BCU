@@ -30,7 +30,7 @@ Weapons influence Vector Break: see [[Vector Break effects per Weapon]]
 
 ⚡ Vector Break System (NEW CORE MECHANIC)
 
-Movement becomes combat displacement only through Shield interaction
+Vector Break gets modified through Shield interaction
 
 Result:
 - directional force attack
@@ -65,7 +65,7 @@ D) Riftsynergy upgrades
 - special interactions
 
 
-[[Gameplay/Player/Dash]] Upgrade
+[[Dash]] Upgrade
 
 ### Shield Core / Vector Break
 

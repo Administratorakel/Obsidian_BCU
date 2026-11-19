@@ -16,7 +16,7 @@ Stability Rifts (World system):
 
 [[Game Progression]] & [[Stability Fragments]], Economy System
 
-- Mastery-specific [[Upgrade Materials]]
+- Mastery-specific [[World & Lore/Items/Upgrade Materials]]
 - Drop from Stability Rifts
 - Core economy driver
 
