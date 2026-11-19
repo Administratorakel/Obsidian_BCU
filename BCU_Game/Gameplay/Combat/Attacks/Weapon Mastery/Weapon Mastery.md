@@ -36,7 +36,7 @@ Core philosophy concept:
 [[Shield (Weapon)]]
 
 ## Mastery Completion
-- Maximum Mastery: 100]]
+- Maximum Mastery: 100
 - [[Echoed Weapon Essence]]
 **Status:** Main structure confirmed; reward values and several book details provisional.  
 **Related:** [[Attributes]], [[Journey Repeat]], [[Vector Break]]
@@ -56,16 +56,14 @@ Core philosophy concept:
 - Combo Books remain a separate system **for now**; acquisition, trading and exact use rules require further design.
 
 ## Mastery 100 and Echoed Essences
-- The **first** time each weapon type reaches Mastery 100, the player automatically receives **one tradable `Echoed [Weapon] Essence`** without losing mastery.
+- Any time each weapon type reaches Mastery 100, the player automatically receives **one tradable [[Echoed Weapon Essence]] without losing mastery.
 - The player may **sacrifice** Mastery 100 for **one more Essence**, resetting that specific weapon type's mastery to 0.
-- Repeatedly reaching and sacrificing Mastery 100 can grant **further** Essences; the automatic first-clear Essence is awarded **only once per weapon type**.
+- Repeatedly reaching and sacrificing Mastery 100 can grant **further** Essences; the automatic Essence is awarded anytime the Player reaches Lv 100 with any weapon type.
 - Essences are weapon-specific resources for the last weapon-related upgrade to an ability. Exact recipes and ability-upgrade rules remain to be designed.
 - `Echoed Sword Essence` is the named example.
 ### Weapon Mastery — General Rules
-
 - Weapon Mastery ranges from Lv 0 to 100.
 - Progression is based on qualifying kills.
-- Ability hits do not contribute separately to mastery progression.
 - Mastery bonuses apply only while wielding the corresponding weapon type.
 - Sword Mastery serves as the initial template for other weapons.
 - Other weapon types may have different stats, scaling, and unique passives.

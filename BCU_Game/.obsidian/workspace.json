@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BCU Game/Open Questions and Superseded Ideas.md",
+                "file": "Gameplay/Combat/Attacks/Weapon Mastery/Weapon Mastery.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Open Questions and Superseded Ideas"
+              "title": "Weapon Mastery"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BCU Game/Open Questions and Superseded Ideas.md",
+                "file": "Gameplay/Combat/Attacks/Weapon Mastery/Weapon Mastery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,6 +190,7 @@
   },
   "active": "657a5b7565939d19",
   "lastOpenFiles": [
+    "BCU Game/Open Questions and Superseded Ideas.md",
     "Gameplay/Companions/Little Cato & Ms. Handsome.md",
     "Equipment/Upgrade Systems/Upgrade Materials.md",
     "Gameplay/Combat/Attacks/Weapon Mastery/Weapon Mastery.md",
@@ -201,7 +202,6 @@
     "World & Lore/Items/Echoed Weapon Essence.md",
     "Gameplay/Multiplayer/Participation and Loot.md",
     "World & Lore/Items/Upgrade Materials.md",
-    "BCU Game/Open Questions and Superseded Ideas.md",
     "Gameplay/Combat/Abilities/Ability Cancellation.md",
     "Gameplay/Combat/Attacks/Weapon Mastery/Mastery Milestones.md",
     "Gameplay/Combat/Status System/Status.md",
