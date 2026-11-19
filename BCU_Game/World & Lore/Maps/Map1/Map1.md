@@ -99,3 +99,5 @@ This is the uploaded file's roster, **not** proof that all listed NPCs are alrea
 
 ## Related world notes
 The church of Borakel, village, and Map 1 layout have separate existing concepts. Integrate this NPC roster into current map documentation rather than replacing a more complete map plan with this partial list.
+
+Future transformation: [[Map 1 Restoration Event]]`

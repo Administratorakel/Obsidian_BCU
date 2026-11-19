@@ -102,3 +102,6 @@
 | 99           | 1545785368     | 15222625528           |
 | 100          | 1581138830     | 16803764358           |
 I need Lumen to calculate the exact Formulas for this again.
+
+
+EXP theft and recovery: [[Coptering]]

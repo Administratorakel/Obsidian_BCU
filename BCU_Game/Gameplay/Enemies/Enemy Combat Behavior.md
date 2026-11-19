@@ -5,3 +5,5 @@
 - Desperate Aggression
 - Target fixation
 - Enemy-dependent combat decisions
+
+Special elite progression: [[Coptering Elite]]`

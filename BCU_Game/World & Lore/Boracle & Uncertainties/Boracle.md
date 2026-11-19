@@ -59,3 +59,6 @@ This could produce dialogue where an initially uncertain statement becomes true 
 - Dialogue should express thoughtful conviction rather than unquestioning authority.
 - Dialogue portraits can convey the character's emotional reactions.
 - The exact permanent NPC placement and implementation remain open.
+
+
+Future Storyline: [[Boracle's Existential Crisis]]

@@ -29,3 +29,6 @@ Elements:
 - Status visibility
 - Multiplayer interactions
 - Status removal
+
+
+Special condition: [[Coptering]]`
