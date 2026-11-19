@@ -1,0 +1,1 @@
+Used to convert a high amount of [[Stability Fragments]] into a more dense version.

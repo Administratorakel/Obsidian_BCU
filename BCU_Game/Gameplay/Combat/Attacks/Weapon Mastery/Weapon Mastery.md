@@ -8,11 +8,11 @@ Core philosophy concept:
 
 [[Swordmaster]] (Precision Duelist)
 [[Juggernaut]] (AoE brusier / Tank)
-[[Gameplay/Combat/Combat Philosophies/Hunter/Hunter]] (Precision / Crit / Target control)
+[[Hunter]] (Precision / Crit / Target control)
 [[Adept]] (Mystic / Elemental control)
 [[Skirmisher]] (Mobility / Flow combat)
 [[Berserker]] (Offensive commitment / Momentum)
-[[Tank]] 
+[[Tank]] (Defensive commitment/Offense through Abilities only)
 
 
 ## Mastery Completion
@@ -20,7 +20,7 @@ Core philosophy concept:
 - [[Mastery Milestones]]
 - [[Echoed Weapon Essence]]
 **Status:** Main structure confirmed; reward values and several book details provisional.  
-**Related:** [[Character Attributes and Stats]], [[Gameplay/Player/sort/Journey Repeat]], [[Equipment and Items]], [[Movement and Vector Break]]
+**Related:** [[Attributes]], [[Journey Repeat]], [[Equipment and Items]], [[Movement and Vector Break]]
 
 
 ## Stances and Stance Books

@@ -1,3 +1,3 @@
-[[Guns]]
- [[Whip]]
+[[Dual Guns]]
+[[Whip]]
 [[Chakrams]]

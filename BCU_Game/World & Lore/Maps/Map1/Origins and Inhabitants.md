@@ -42,7 +42,7 @@ These characteristics are common among their respective populations but are not 
 
 ## The Four Original Islands
 
-### Southeast — Pet Island
+### Southeast — [[Pet Island]]
 
 **Environment**
 - Expansive green fields.
@@ -70,7 +70,7 @@ These characteristics are common among their respective populations but are not 
 **Unconfirmed**
 - The island's proper name.
 - Exact rules governing animal intelligence and communication.
-### Northeast — Werfimo's Island
+### Northeast — [[Werfimo's Island]]
 
 **Environment**
 - Reddish terrain.
@@ -108,7 +108,7 @@ The father's unusual build may have cultural or historical significance, but thi
 - Exact inheritance rules.
 - Cultural significance of the physical traits.
 - Additional population characteristics.
-### Southwest — Autumn Island
+### Southwest — [[Autumn Island]]
 
 **Environment**
 - Autumn-like landscape.
@@ -130,7 +130,7 @@ These characteristics are common but not exclusive to the island's inhabitants.
 - Specific clothing traditions.
 - Cultural practices.
 - Additional physical characteristics.
-### Northwest — Magical Desert Island
+### Northwest — [[Desert Island]]
 
 **Environment**
 - Desert landscape.

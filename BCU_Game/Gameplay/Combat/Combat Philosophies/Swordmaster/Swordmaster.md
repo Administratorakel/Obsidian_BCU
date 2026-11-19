@@ -1,4 +1,4 @@
-- [[BCU_Game/Gameplay/Combat/Combat Philosophies/Swordmaster/Sword]]
+- [[Sword]]
 - [[Two-handed Blade]]
 - [[Odachi]]
 

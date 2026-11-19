@@ -13,5 +13,5 @@ Hunter Identity
 
 
 Weapons:
-- [[BCU_Game/Gameplay/Combat/Combat Philosophies/Hunter/Bow]]
-- [[BCU_Game/Gameplay/Combat/Combat Philosophies/Hunter/Daggers]]
+- [[Bow]]
+- [[Daggers]]
