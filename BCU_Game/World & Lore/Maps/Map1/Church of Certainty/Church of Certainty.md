@@ -1,2 +1,5 @@
 [[Logos.exe Researcher]]
-][[Certain Priest]]
+[[Certain Priest]]
+
+[[Map1]]
+[[Boracle]]

@@ -9,46 +9,26 @@ Loot uses:
 Potential Participation Weight
 
 Factor:
-
 - Damage contribution
-    
 - Status contribution
-    
 - Milestone contributions
-    
 - Player level vs  enemy/rift level
-    
 
 Goals:
-
 - Reward actual participation
-    
 - Avoid pure DPS ownership
-    
 - Encourage cooperation
-    
 
 Loot:
-
 - Single winner per item
-    
 - Some events/rifts can have multiple winners
-    
 - Items are tradable
-    
 
 Dead players:
-
 - Participation freezes
-    
 - If they win loot:
-    
 - → party members can pick up for them
-    
 - → first ally pick it up receives for the player
-    
-
-**
 
 [[Stability Rift]]
 
@@ -76,11 +56,7 @@ $$
 |A|Anti-exploit adjustments|R × P × AD|
 
 - D, S, M, C and O are normalized individually between 0 and 1, relative to other eligible participants.
-    
 - Unused categories contribute 0.
-    
-- No +1 baseline.
-    
 
 ## 2. Damage (D)
 
@@ -95,26 +71,17 @@ D_i=\frac{DMG_i\cdot W_i}{\sum_j(DMG_j\cdot W_j)}
 $$
 
 - 25+ levels below target: +25%
-    
 - Same level: 0%
-    
 - 25+ levels above target: −25%
-    
 - Only affects loot contribution, not actual damage.
-    
 
 ## 3. Status Effects (S)
 
 - 1 point per applied status stack.
-    
 - Repeated applications have diminishing returns.
-    
-- Decay: `0.9^n`
-    
+- Decay: 0.9^n
 - Maximum decay stacks: 10.
-    
 - Minimum multiplier: approximately 0.349.
-    
 
 $$  
 S_{\text{raw},i}=\sum_{n=0}^{N_i-1}0.9^{\min(n,10)}  
@@ -132,23 +99,15 @@ M_{\text{reward}}=M_{\text{base}}\cdot0.9^{\min(n,6)}
 $$
 
 - Maximum decay stacks: 6.
-    
 - Milestone rewards are shared equally among contributing party members.
-    
 - Players outside a party cannot see other players' status stacks.
-    
 - Reaching the same milestone repeatedly increases decay.
-    
 
 ## 5. Status Combinations (C)
 
 - 5 points per triggered combination.
-    
-- Decay: `0.9^n`
-    
+- Decay: 0.9^n
 - Maximum decay stacks: 6.
-    
-
 $$  
 C_{\text{reward}}=5\cdot0.9^{\min(n,6)}  
 $$
@@ -156,16 +115,10 @@ $$
 ## 6. Opportunity/Control (O)
 
 - 2 points per enemy successfully crowd-controlled.
-    
 - Examples: stun, freeze, knockback, pull.
-    
 - AoE abilities award points separately for each affected enemy.
-    
-- Decay: `0.9^n`
-    
+- Decay: 0.9^n
 - Maximum decay stacks: 4.
-    
-
 $$  
 O_{\text{reward}}=2\cdot0.9^{\min(n,4)}  
 $$
@@ -183,11 +136,8 @@ R_i=0.85^{\min(r_i,4)}
 $$
 
 - Maximum decay stacks: 4.
-    
 - Minimum multiplier: approximately 0.522.
-    
 - Exact conditions triggering repetition penalties are undecided.
-    
 
 ### P — Participation
 
@@ -196,22 +146,16 @@ P_i=\frac{T_{\text{active},i}}{T_{\text{potential},i}}
 $$
 
 - Compares active combat time against potential combat time.
-    
 - Example: 80 seconds active during a 100-second encounter = 0.8.
-    
 - Exact criteria for active participation are undecided.
-    
 
 ### AD — Action Diversity
 
 $$  
 AD_i=1  
 $$
-
 - Remains 1 as long as contribution categories are balanced.
-    
 - Players should not be forced to diversify their combat roles.
-    
 
 ## 8. Loot Distribution
 
@@ -232,43 +176,28 @@ L_i=0.5\left(\frac{PS_i}{\sum_j PS_j}\right)+\frac{0.5}{N}
 $$
 
 - 50% based on Participation Score.
-    
 - 50% distributed equally among eligible participants.
-    
 - N = number of eligible participants.
-    
 - Applies across parties and solo players.
-    
 
 **Final choice between Formula A and B is pending.**
 
 ## 9. Loot Rules
 
 - Each item independently rolls whether it drops.
-    
 - Each dropped item has exactly one recipient.
-    
 - Different items can have different recipients.
-    
 - Party members can collect items belonging to defeated allies.
-    
 - Participation Scores and loot probabilities are hidden from players.
-    
 
 ## 10. Open Questions
 
 - Define repetition penalty triggers (R).
-    
 - Define detection of active combat participation (P).
-    
 - Establish minimum loot eligibility requirements.
-    
 - Choose between original and 50/50 distribution.
-    
 - Balance normalized contributions across categories.
-    
 - Test the system with multiple player builds and party configurations.
-    
 
 ## 11. Important Design Principle
 

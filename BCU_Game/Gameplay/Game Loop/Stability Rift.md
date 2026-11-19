@@ -10,114 +10,38 @@ Rare Instances:
 
 Stability Rifts (World system):
 
-**
-
 - Slight [[Stability]] regen boost inside
-    
-- Increased [[Instability Fragments]] drop rates
-    
+- Increased [[Stability Fragments]] drop rates
 - Encourages farming + grouping
-    
-
-**
-
-**
 
 [[Game Progression]] & [[Stability Fragments]], Economy System
 
-- Mastery-specific [[upgrade materials]]
-    
+- Mastery-specific [[Upgrade Materials]]
 - Drop from Stability Rifts
-    
 - Core economy driver
-    
-
-**
-
-**
-
-To avoid power inflation issues:
-
-Stability Rifts must be the ONLY reliable source of high-tier upgrade materials
-
-Meaning:
-
-- no passive farming abuse
-    
-- no trivial grinding elsewhere
-    
-- progression always tied to instability risk
-    
-
-****
 
 CORE LOOP (FINALIZED STRUCTURE)
 
-Stability Riftsproduces:
+Stability Rifts produces:
 
-- Shields (rare drop = “manifested instability objects”)
-    
+- Shields (rare drop = “manifested instability objects”)? 
 - Upgrade resources (instability fragments)
-    
-- Energy (combat fuel for [[Vector Break]])
-    
+- Stability (combat fuel for [[Vector Break]])
 
-Player uses these to:
-
-- level Shield
-    
-- unlock Vector Break abilities
-    
-- evolve movement identity
-    
-
-****
-
-🌌 2. STABILITY RIFT = RESOURCE ENGINE
-
-You are essentially defining Stability Rifts as:
-
-“Instability condensers”
-
-They don’t just spawn enemies — they generate structured progression material.
-
-****
+STABILITY RIFT = RESOURCE ENGINE
 
 Stability Rifts Drops:
-
-A) Shield Drop (rare, identity-defining)
-
+A) Shield Drop (rare, identity-defining) [[Shield Core System]]
 - physical manifestation of instability
-    
 - determines Vector Break style
-    
 - acts as long-term equipment base
-    
-
----
 
 B) Stability Fragments (common resource)
-
 Used for:
-
-- Shield leveling
-    
 - Vector Break upgrades
-    
 - unlocking modifiers
-    
 
----
-
-C) Energy Residue (combat loop resource)
-
-- fuels immediate Vector Break usage
-    
-- recovered through combat
-    
-
-**
-
+Still needs deciding:
 - Rift spawning
 - Rift HP
 - Duration
@@ -127,7 +51,7 @@ C) Energy Residue (combat loop resource)
 - Stability regeneration
 - Rift destruction
 
- **Stability Fragment:** single general fragment resource obtainable from Stability Rifts for now; no active variant list.
+ **[[Stability Fragments]]:** single to multiple amount dropped by Stability Rifts. Condensable through Item
 # Stability Rifts and Participation
 
 **Status:** Rift lore and map scaling confirmed; reward calculation preserved as a working framework.  [[Multiplayer]]
@@ -140,19 +64,4 @@ C) Energy Residue (combat loop resource)
 - Stability Rifts are **shared encounters in their map instance**, not private per-player enemy copies.
 - They can provide **Stability Fragments**; only a single universal fragment type is presently established.
 
-## Participation-based reward framework
-Working previously discussed model: player contribution yields a hidden **Participation Score** (PS) from such sources as level-adjusted damage, statuses, control/opportunity creation, combos and combat milestones. Anti-exploit adjustments discourage artificial farming. Earlier discussions included a `0.9^n` dampening concept after repeated six-stack cycles, but detailed coefficients/conditions are not freshly finalized in this review.
-
-The share used when choosing a recipient for a dropped item is:
-
-`Share(player i) = PS_i / sum(PS of eligible players)`
-
-**Roll order:** First roll whether an item drops; then, if it does, select **one recipient** using weighted Participation Shares. The specific item drop chance remains independent of the share distribution.
-
-Example: with PS of 500/300/200, the respective shares are 50%/30%/20%. If a single item has 20% drop chance, its effective one-drop recipient probabilities are 10%/6%/4%.
-
-- Participation values are not necessarily displayed publicly.
-- Companions' damage and control might count toward their owner's score, but this attribution rule requires confirmation.
-- Exact contribution weights, eligibility rules, party interactions and reward edge cases remain for the upcoming dedicated formula discussion.
-
-[
+## Participation-based reward framework, check out [[Participation and Loot]]
