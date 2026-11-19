@@ -1,44 +1,10 @@
 [[Swordmaster]]
 
-**
 - One-handed Sword combat behavior
 - Attack patterns
 - Signature mechanics
 - Vector Break interpretation
 - Ability interpretations
-### 6. Sword (?)
-
-Before coding the actual Sword system, define:
-
-- Sword base damage
-    
-- Sword attack speed
-    
-- Sword attack range
-    
-- Sword attack movement
-    
-- Sword Standard attack
-    
-- Sword AoE attack
-    
-- Sword Quick attack
-    
-- Sword Dash
-    
-- Sword Dash damage
-    
-- Sword Dash distance
-    
-- Sword Dash speed
-    
-- Sword physical status/effects
-    
-- Sword Mastery 0–100 progression
-    
-
-**
-
 
 ### Stances and Combo Books
 
@@ -104,3 +70,9 @@ Reaching maximum mastery grants an exclusive weapon swing trail.
 - Color corresponds to the weapon's Gemweapon color.
 - The final ability receives a similar color effect after the Echoed Weapon effect.
 - Resetting mastery sacrifices the exclusive cosmetic reward.
+
+
+[[Weapon Mastery Progression]]
+[[Echoed Weapon Essence]]
+[[Normal Attacks]]
+[[Vector Break effects per Weapon]]

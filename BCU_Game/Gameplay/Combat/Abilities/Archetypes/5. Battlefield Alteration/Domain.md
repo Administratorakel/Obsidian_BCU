@@ -10,3 +10,5 @@ The exact bonuses, duration, radius, and enemy interactions remain undecided.
 	- Bow: Arrow Rain
 	- Magic Gauntlets --> Arcane Field
 	- Shield --> Bastion of Stability
+
+[[Weapon Types]]

@@ -1,6 +1,6 @@
 **Status:** Partially confirmed lore  
 **Location:** Borakel's Floating Island  
-**Related:** [[Map 1]], [[Boracle]], [[KillaQ]], [[Smith Bros]],
+**Related:** [[Map1]], [[Boracle]], [[KillaQ]], [[Smith Bros]],
 
 ## Origin of Map 1
 
@@ -283,3 +283,4 @@ further notes for later:
 - Intelligence or INS as the mechanism determining animal speech.
 - Magical player emotes.
 - The future restoration storyline.
+[[Map1 Restoration Event]]

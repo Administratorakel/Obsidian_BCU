@@ -148,3 +148,10 @@ Existing ideas for levels 1, 20, 50, and 100 are possible Mastery progression re
 These placeholders exist to ensure the milestones are considered when Shield Mastery is developed further.
 
 No exact Mastery bonuses have been finalized.
+
+
+[[Stability]]
+[[Shield Core System]]
+[[Vector Break]]
+[[Weapon Mastery]]
+[[Ability Cancellation]]

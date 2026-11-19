@@ -8,33 +8,37 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d052788fa9047a9b",
+            "id": "657a5b7565939d19",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gameplay/Combat/Attacks/Weapon Mastery/Weapon Mastery.md",
+                "file": "World & Lore/Maps/Map1/Origins and Inhabitants.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Weapon Mastery"
+              "title": "Origins and Inhabitants"
             }
           }
         ]
       },
       {
-        "id": "7b97e9225445a446",
+        "id": "d20d330b5be29a6b",
         "type": "tabs",
         "children": [
           {
-            "id": "f409782ca28a7c69",
+            "id": "18d27bb7755cdf8f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Gameplay/Combat/Abilities/Archetypes/3. Mobility & Control/Vector Break (Ability).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vector Break (Ability)"
             }
           }
         ]
@@ -115,6 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Gameplay/Combat/Abilities/Archetypes/3. Mobility & Control/Vector Break (Ability).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,43 +208,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "f409782ca28a7c69",
+  "active": "18d27bb7755cdf8f",
   "lastOpenFiles": [
-    "Gameplay/Combat/Attacks/Weapon Mastery/Weapon Mastery.md",
-    "Gameplay/Player/sort/Journey Repeat.md",
-    "Gameplay/Player/sort",
-    "World & Lore/Items/Items.md",
-    "World & Lore/Items/Stat Resetter.md",
-    "World & Lore/Items/Echoed Stat Resetter.md",
-    "Gameplay/Combat/Combat Philosophies/Adept/Adept.md",
-    "Equipment and Items.md",
-    "Gameplay/Combat/Combat Philosophies/Swordmaster/Swordmaster.md",
-    "Gameplay/Combat/Combat Philosophies/Hunter/Hunter.md",
-    "Gameplay/Combat/Combat Philosophies/Skirmisher/Skirmisher.md",
-    "Guns.md",
     "World & Lore/Maps/Map1/Origins and Inhabitants.md",
-    "World & Lore/Desert Island.md",
+    "World & Lore/Maps/Map1/Map1.md",
+    "Gameplay/Combat/Combat Philosophies/Weapon Types.md",
+    "Gameplay/Combat/Abilities/Archetypes.md",
+    "Gameplay/Player/Stability.md",
+    "Gameplay/Combat/Abilities/Archetypes/4. Enhancement & Resource Management/Status Infusion.md",
     "Equipment/Equipment Slots.md",
-    "Equipment/Equipment/Rings.md",
-    "Equipment/Equipment/Necklace.md",
-    "Equipment/Equipment/Helmet.md",
-    "Equipment/Equipment/Shield.md",
-    "Gameplay/Game Loop/Journey Repeat.md",
-    "Gameplay/Game Loop/Full Game Loop.md",
-    "Journey 1 to 100.md",
-    "World & Lore/Maps/Enemy Families/Enemy Families.md",
-    "World & Lore/Maps/Original Islands of Map1/Autumn Island.md",
-    "World & Lore/Maps/Enemy Families/Slimes/Slimes.md",
-    "Gameplay/Game Loop/Rift Variants/KillaQ Afterimage Event/Almost reaching 0.md",
-    "Gameplay/Game Loop/Rift Variants/KillaQ Afterimage Event/KillaQ does not feel it today - Rift.md",
+    "Equipment/Equipment Stats.md",
+    "Equipment/Equipment System.md",
+    "Gameplay/Gameplay Systems Overview.md",
+    "Gameplay/Combat/Combat.md",
+    "Gameplay/Combat/Attacks/Normal Attacks.md",
+    "BCU Game/BCU the Game.md",
+    "World & Lore/Maps/Map1/NPCs/Smith Bros/Blacksmith.md",
+    "World & Lore/Maps/Map1/NPCs/Smith Bros/Armorer.md",
+    "World & Lore/Maps/Map1/NPCs/Smith Bros/Smith Bros.md",
+    "World & Lore/Maps/Enemy Families/Wolves/Shadow Wolf.md",
+    "World & Lore/Maps/Enemy Families/Wolves/Elite Wolves.md",
+    "World & Lore/Maps/Enemy Families/Wolves/Wolves.md",
+    "World & Lore/Maps/Map1/Map1 Restoration Event.md",
+    "Gameplay/Enemies/Enemies/Elite/Coptering Elite.md",
+    "Gameplay/Enemies/Enemies/Elite",
+    "World & Lore/Story/Boracle's Existential Crisis.md",
+    "Gameplay/Combat/Combat Philosophies/Tank/Shield (Weapon).md",
+    "Gameplay/Combat/Abilities/Archetypes/3. Mobility & Control/Vector Break (Ability).md",
+    "Shield Core.md",
+    "Gameplay/Combat/Combat Philosophies/Tank/Tank.md",
+    "Gameplay/Player/sort",
     "Gameplay/Combat/Abilities/Archetypes/5. Battlefield Alteration",
-    "Gameplay/Combat/Abilities/Archetypes/4. Enhancement & Recource Management",
+    "Gameplay/Combat/Abilities/Archetypes/4. Enhancement & Resource Management",
     "Gameplay/Combat/Abilities/Archetypes/3. Mobility & Control",
     "Gameplay/Combat/Abilities/Archetypes/2. Area Offense",
     "Gameplay/Combat/Abilities/Archetypes/1. Direct Offense",
     "Gameplay/Enemies/Enemies",
     "World & Lore/Maps/Original Islands of Map1",
-    "World & Lore/Boracle & Uncertainties/Other Uncertainties",
-    "BCU Game/Untitled"
+    "World & Lore/Boracle & Uncertainties/Other Uncertainties"
   ]
 }

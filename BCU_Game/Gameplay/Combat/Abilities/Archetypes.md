@@ -5,7 +5,7 @@
 [[Ranged Precision]]
 [[Decisive Strike]]
 
-## 2. Area Offrnse
+## 2. Area Offense
 
 [[Area Burst]]
 [[Cone Assault]]
@@ -42,7 +42,7 @@ Player has ~20 universal Abilities which have different interpretations for each
 All Abilities will be unlockable from the beginning for 1 ability point, gained 1 per level.
 - Add a point to scale the ability up
 - [[Stability Fragments]] are required for evolution to next variant
-- Optional [[Stabilty Catalyst]] for upgrade modifiers
+- Optional [[Stability Catalyst]] for upgrade modifiers
 
 Cooldown & casting costs will vary.
 # Universal Ability Archetypes

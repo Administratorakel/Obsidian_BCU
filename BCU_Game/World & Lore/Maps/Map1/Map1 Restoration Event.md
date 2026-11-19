@@ -17,12 +17,12 @@ The event fundamentally changes the geography of Map 1.
 
 Map 1 consists of fragments originating from four different islands.
 
-|Segment|Original Island|
-|---|---|
-|Southeast|Pet Island|
-|Southwest|Autumn Island|
-|Northeast|Werfimo's Island|
-|Northwest|Magical Desert Island|
+| Segment   | Original Island           |
+| --------- | ------------------------- |
+| Southeast | [[Pet Island]]            |
+| Southwest | [[Autumn Island]]         |
+| Northeast | [[Werfimo's Island]]      |
+| Northwest | Magical [[Desert Island]] |
 
 The fragments were assembled into a shared settlement.
 
@@ -189,3 +189,5 @@ Some inhabitants might fall as the ground breaks apart.
 Whether particular characters actually fall has not been established.
 
 The exact distribution of village structures among the restored islands remains undecided.
+
+[[Coptering]]

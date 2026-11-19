@@ -1,4 +1,4 @@
-First map of [[Borakel]]
+First map of [[Boracle]]
 [[Church of Certainty]]
 
 Map is a patchwork of 4 segments
@@ -65,7 +65,6 @@ Map is a patchwork of 4 segments
 
 
 **Status:** NPC behavior categories confirmed; individual placements and some names provisional.  
-**Related:** [[Stability Rifts and Participation]], [[Multiplayer and Instances]]
 
 ## NPC movement categories
 - **Stationary:** fixed place.
@@ -100,7 +99,7 @@ This is the uploaded file's roster, **not** proof that all listed NPCs are alrea
 ## Related world notes
 The church of Borakel, village, and Map 1 layout have separate existing concepts. Integrate this NPC roster into current map documentation rather than replacing a more complete map plan with this partial list.
 
-Future transformation: [[Map 1 Restoration Event]]
+Future transformation: [[Map1 Restoration Event]]
 
 
 ## Falling Protection
@@ -111,6 +110,8 @@ This protection is widely known among Map 1's inhabitants.
 
 Falling from the island does not result in permanent death.
 
-During the future [[Map 1 Restoration Event]], inhabitants may fear that this protection has stopped functioning.
+During the future [[Map1 Restoration Event]], inhabitants may fear that this protection has stopped functioning.
 
-However, the rule remains active throughout the restoration.`
+However, the rule remains active throughout the restoration.
+
+[[Origins and Inhabitants]]

@@ -270,3 +270,5 @@ Where:
 - \(D\) = departure probability.
 
 This captures your confirmed additive behavior.
+
+[[Boracle's Existential Crisis]]

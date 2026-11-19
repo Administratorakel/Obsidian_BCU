@@ -1,7 +1,7 @@
 
 **Status:** Planned future storyline — major narrative direction established, details unfinished.
 
-**Related:** [[Boracle]], [[KillaQ]], [[Coptering]], [[Map 1 Restoration Event]], [[Storyline]]
+**Related:** [[Boracle]], [[KillaQ]], [[Coptering]], [[Map1 Restoration Event]], [[Storyline]]
 
 ## Timeline
 
@@ -107,7 +107,7 @@ The original fragments return to their respective islands.
 
 Boracle repairs the original islands as though they had never been damaged.
 
-The detailed consequences are documented in [[Map 1 Restoration Event]].
+The detailed consequences are documented in [[Map1 Restoration Event]].
 
 ### Motivation
 
@@ -185,17 +185,11 @@ The Echo's exact nature is undecided.
 Not yet established:
 
 - Its capabilities.
-    
 - Its knowledge.
-    
 - Its gameplay role.
-    
 - Its relationship to the original Boracle.
-    
 - Whether it can communicate with the player.
-    
 - Whether it retains Boracle's responsibilities.
-    
 
 The Echo should not yet be treated as a replacement deity or a fully defined NPC.
 
@@ -210,19 +204,13 @@ Its location, structure, inhabitants, and relationship to the original village r
 ## Undecided
 
 - Exact quest progression.
-    
 - How Boracle's emotional decline is presented.
-    
 - Whether his forgotten knowledge returns.
-    
 - The full consequences of restoring the original islands.
-    
 - The fate of the village's physical structures.
-    
 - Details of the new Map 1.
-    
 - The Echo's identity and functions.
-    
 - Boracle's activities after leaving.
-    
 - Whether his relationship to Certainty changes.
+
+[[Coptering Elite]]

@@ -9,6 +9,7 @@
 [[Attack Principles]]
 [[Combat Feedback]]
 [[Weapon Mastery]]
+[[Weapon Mastery Progression]]
 
 ## Current melee attack prototype
 - Four working attack animations, with additional slots intended to unlock through Weapon Mastery.

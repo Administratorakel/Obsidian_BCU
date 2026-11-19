@@ -13,7 +13,7 @@
 
 
 [[Shield Core System]]
-
+[[Equipment Slots]]
 ## Random drop bonuses — sequential model
 - On equipment drop, attempt a **5%** roll for bonus #1.
 - Only on success, attempt bonus #2 at **5%**, then #3, then #4.

@@ -1,3 +1,6 @@
 [[Movement]]
 [[Combat]]
-[[Abilities]]
+[[Archetypes]]
+[[Player]]
+[[Equipment System]]
+[[Stability Rift]]

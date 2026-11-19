@@ -9,3 +9,5 @@ Decisive Strike cannot cancel Dash or Vector Break, and those actions cannot can
 	- Not an ultimate, but stronger than Heavy attack. 
 	- swinging a sword a thousand times is bound to give you the ability to make a decisive strike.
 ---
+
+[[Ability Cancellation]]

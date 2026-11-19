@@ -7,20 +7,40 @@ Core philosophy concept:
 
 
 [[Swordmaster]] (Precision Duelist)
-[[Juggernaut]] (AoE brusier / Tank)
-[[Hunter]] (Precision / Crit / Target control)
-[[Adept]] (Mystic / Elemental control)
-[[Skirmisher]] (Mobility / Flow combat)
-[[Berserker]] (Offensive commitment / Momentum)
-[[Tank]] (Defensive commitment/Offense through Abilities only)
+[[Sword]]
+[[Two-handed Blade]]
+[[Odachi]]
 
+[[Juggernaut]] (AoE brusier / Tank)
+[[Hammer]]
+[[Shooting Morningstar]]
+
+[[Hunter]] (Precision / Crit / Target control)
+[[Bow]]
+[[Daggers]]
+
+[[Adept]] (Mystic / Elemental control)
+[[Adept Scythe]]
+[[Magic Gauntlets]]
+[[Warfans]]
+
+[[Skirmisher]] (Mobility / Flow combat)
+[[Chakrams]]
+[[Dual Guns]]
+[[Whip]]
+
+[[Berserker]] (Offensive commitment / Momentum)
+[[Fighting Slab]]
+
+[[Tank]] (Defensive commitment/Offense through Abilities only)
+[[Shield (Weapon)]]
 
 ## Mastery Completion
 - Maximum Mastery: 100
 - [[Mastery Milestones]]
 - [[Echoed Weapon Essence]]
 **Status:** Main structure confirmed; reward values and several book details provisional.  
-**Related:** [[Attributes]], [[Journey Repeat]], [[Equipment and Items]], [[Movement and Vector Break]]
+**Related:** [[Attributes]], [[Journey Repeat]], [[Vector Break]]
 
 
 ## Stances and Stance Books
@@ -54,17 +74,15 @@ Core philosophy concept:
 - Universal dash speed and range are not rewarded through mastery.
 - Every tenth level grants a significant stat milestone.
 - Regular stat bonuses become progressively stronger.
+
 ### Upon reaching Sword Mastery 100
 
-The player reaches true Sword Mastery and gets an Echoed Weapon Essence and chooses between:
+The player reaches true Sword Mastery and gets an [[Echoed Weapon Essence]] and chooses between:
 
 Option A — Keep Mastery
-
-- Unlocks the Sword Mastery Lv.100 buff while wielding a sword (Bonus dmg, attackspeed, crit/dmg.
-    
+- Unlocks the Weapon Mastery Lv.100 buff while wielding a weapon
 
 Option B — Sacrifice Mastery
-
 - Gain an additional Echoed Weapon Essence
 
 check out [[Weapon Mastery Progression]] for more info

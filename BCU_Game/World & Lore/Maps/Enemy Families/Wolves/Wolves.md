@@ -31,3 +31,9 @@ Your new design is:
 - **After lunging:** The wolf continues attacking with bites.
 
 This is the current baseline for ordinary wolves on Map 1. More complex behavior can come later.
+
+[[Elite Wolves]]
+[[Shadow Wolf]]
+[[Targeting and Aggro]]
+[[Group Behavior]]
+[[Map1]]

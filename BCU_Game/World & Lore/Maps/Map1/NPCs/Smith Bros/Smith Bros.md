@@ -4,7 +4,6 @@ Into "fashion", tends to talk himself down, but always compliments the brother.
 
 Here the Player can buy some basic Equipment
 
-Located on [[Map1]]
 
 [[World & Lore/Story/Quests]]
 
@@ -22,3 +21,6 @@ Located on [[Map1]]
 - His exceptional physical strength is already part of the brothers' background.
 - A future quest concerning their father is worth developing.
 - The father's unusual build may have cultural or historical significance, but this has not been established.
+## Location
+- [[Map1]]
+- [[Village]]

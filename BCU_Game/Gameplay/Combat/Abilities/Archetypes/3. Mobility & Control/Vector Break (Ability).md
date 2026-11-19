@@ -7,4 +7,7 @@
 
 The player cannot cancel an active Vector Break. Enemy interruptions remain possible during vulnerable frames.
 
-[[BCU Game/Gameplay/Movement/Vector Break|Vector Break]], signature movement ability. Every weapon modifies it differently, while shields further enhance it through their unique [[Vector Shield Core]] properties.
+[[Vector Break]], signature movement ability. Every weapon modifies it differently, while shields further enhance it through their unique Vector [[Shield Core System]] properties.
+
+[[Ability Cancellation]]
+[[Dash]]

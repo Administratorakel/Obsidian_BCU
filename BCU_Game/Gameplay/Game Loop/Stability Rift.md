@@ -12,9 +12,9 @@ Stability Rifts (World system):
 
 **
 
-- Slight [[BCU Game/Gameplay/Player/Stability]] regen boost inside
+- Slight [[Stability]] regen boost inside
     
-- Increased [[Instability Fragment]] drop rates
+- Increased [[Instability Fragments]] drop rates
     
 - Encourages farming + grouping
     

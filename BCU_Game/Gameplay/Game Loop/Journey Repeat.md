@@ -37,8 +37,7 @@ Echoed Stat Resetter for Manual and Automatic Stats
 # Journey Repeat
 
 **Status:** Core reset and retention rules confirmed; numerical benefits TBD.  
-**Related:** [[Character Attributes and Stats]], [[Equipment and Items]], [[Weapon Mastery and Techniques]]
-
+**Related:** [[Attributes]], [[Equipment System]], [[Weapon Mastery]], 
 ## Core loop
 - Journey Repeat resets **Player Level to 1**.
 - On the first journey, 2 points per level are automatically allocated and 2 are chosen manually.

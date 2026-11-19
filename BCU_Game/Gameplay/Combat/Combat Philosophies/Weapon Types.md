@@ -26,3 +26,6 @@
 
 **Berserker**
 [[Fighting Slab]]
+
+
+[[Weapon Mastery]]
