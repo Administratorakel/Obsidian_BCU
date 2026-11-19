@@ -1,4 +1,4 @@
-Gained upon reaching a Weapon Mastery Lv 100. 
+Gained upon reaching a Weapon Mastery Lv 100 the first time. 
 
 Additionally one is obtainable by resetting the Weapon Mastery Progress.
 
@@ -19,7 +19,7 @@ Using an Echoed Weapon Essence to upgrade an ability to its final stage, gives i
 
 **How to get**
 
-Upon reaching Weapon Mastery 100 the player reaches true Weapon Mastery and gets an Echoed Weapon Essence and chooses between:
+Upon reaching Weapon Mastery 100 the player reaches true Weapon Mastery the first time , the player gets an Echoed Weapon Essence and can choose  between:
 
 Option A — Keep Mastery
 - Unlocks the Sword Mastery Lv.100 buff while wielding a sword (Bonus dmg, attackspeed, crit/dmg.

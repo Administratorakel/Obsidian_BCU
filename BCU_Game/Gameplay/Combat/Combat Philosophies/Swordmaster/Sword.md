@@ -49,7 +49,7 @@ There are currently **nine different Sword Stance/Combo Books**.
 
 **Lv 50 — Sword Momentum I**
 
-Consecutive successful hits build dmg stacks.
+Consecutive successful hits build attack speed stacks.
 
 - Missing an attack does not reset stacks.
 - Stacks expire after a period without successful hits.

@@ -23,7 +23,7 @@ Stability Rifts (World system):
 
 **
 
-[[Game Progression]] & [[Economy System]] [[Stability Fragments]]:
+[[Game Progression]] & [[Stability Fragments]], Economy System
 
 - Mastery-specific [[upgrade materials]]
     
@@ -59,7 +59,7 @@ Stability Riftsproduces:
     
 - Upgrade resources (instability fragments)
     
-- Energy (combat fuel for Vector Break)
+- Energy (combat fuel for [[Vector Break]])
     
 
 Player uses these to:
@@ -130,8 +130,7 @@ C) Energy Residue (combat loop resource)
  **Stability Fragment:** single general fragment resource obtainable from Stability Rifts for now; no active variant list.
 # Stability Rifts and Participation
 
-**Status:** Rift lore and map scaling confirmed; reward calculation preserved as a working framework.  
-**Related:** [[Movement and Vector Break]], [[Multiplayer and Instances]], [[Companions]], [[Equipment and Items]]
+**Status:** Rift lore and map scaling confirmed; reward calculation preserved as a working framework.  [[Multiplayer]]
 
 ## Lore and map levels
 - Rifts originate from **KillaQ's instability**, but their manifestations vary with **local surroundings and circumstances**.
@@ -155,3 +154,5 @@ Example: with PS of 500/300/200, the respective shares are 50%/30%/20%. If a sin
 - Participation values are not necessarily displayed publicly.
 - Companions' damage and control might count toward their owner's score, but this attribution rule requires confirmation.
 - Exact contribution weights, eligibility rules, party interactions and reward edge cases remain for the upcoming dedicated formula discussion.
+
+[

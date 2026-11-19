@@ -65,4 +65,4 @@ Echoed Stat Resetter for Manual and Automatic Stats
 - Permanent bonus catalog and stacking rules.
 - Level-scaling values; whether scaling changes equipment requirements beyond usability.
 
-Selected currently equipped items (up to all eight) can gain persistent nontradable level scaling when the player repeats their Journey. See [[Gameplay/Player/sort/Journey Repeat]].
+Selected currently equipped items (up to all eight) can gain persistent nontradable level scaling when the player repeats their Journey.

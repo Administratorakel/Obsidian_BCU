@@ -1,13 +1,11 @@
-# 3. Little Cato & Ms. Handsome
-
-Cat A being Little Cato and Cat B being Ms. Handsome.
+# 3. Little Cato & Miss Handsome
 
 **Companion type:** Dual-character companion  
 **Companion slots required:** 1
 
 ### Real-Life Inspiration
 
-Little Cato and Ms. Handsome are two small female cats.
+Little Cato and Miss Handsome are two small female cats.
 
 Both have grey, white, and black fur with a somewhat tiger-like pattern.
 
@@ -20,13 +18,9 @@ Their combat concept revolves around this territorial rivalry.
 Both cats have:
 
 - The same attack pattern.
-    
 - The same attack range.
-    
 - Independent target selection.
-    
 - Individual territories.
-    
 
 Their different combat behaviors come primarily from their target selection.
 
@@ -36,47 +30,39 @@ When their territories overlap, they begin fighting each other, unintentionally 
 
 ---
 
-# 4. Cat A — Independent Disruption
+# 4. Little Cato — Independent Disruption
 
-**Identity:** Little Cato or Ms. Handsome — undecided.
 
-Cat A operates independently of the player's primary target.
+Little Cato operates independently of the player's primary target.
 
 ### Target Selection
 
 - Prioritizes a nearby enemy that the player is not focusing on.
-    
 - Can target regular enemies, Elites, and bosses.
-    
-- If only one enemy is available, Cat A may attack the player's target.
-    
-- When Cat A's target dies, its territory disappears and Cat A selects another target.
-    
+- If only one enemy is available, Little Cato may attack the player's target.
+- When Little Cato's target dies, its territory disappears and Little Cato selects another target.
 
 ### Combat Behavior
 
-Cat A attacks its selected enemy using the shared feline attack pattern.
+Little Cato's attacks its selected enemy using the shared feline attack pattern.
 
 Its attacks may occasionally inflict short stuns.
 
 - Regular enemies can be interrupted.
-    
 - Elite enemies have stun resistance.
-    
 - Bosses have stun resistance.
-    
 
-Cat A does not function as a tank.
+Little Cato does not function as a tank.
 
-Enemies continue attempting to reach and attack the player, even while Cat A disrupts them.
+Enemies continue attempting to reach and attack the player, even while Little Cato disrupts them.
 
-If Cat A engages an enemy belonging to a group, it may attack other nearby enemies belonging to that same group.
+If Little Cato engages an enemy belonging to a group, it may attack other nearby enemies belonging to that same group.
 
-If the selected enemy is isolated, Cat A only attacks that enemy.
+If the selected enemy is isolated, Little Cato only attacks that enemy.
 
 ### Territory
 
-Cat A establishes a circular territory around the enemy it is attacking.
+Little Cato establishes a circular territory around the enemy it is attacking.
 
 - Approximate radius: melee range.
     
@@ -87,35 +73,35 @@ Cat A establishes a circular territory around the enemy it is attacking.
 - Territory does not currently provide combat buffs.
     
 
-The territory represents the enemy Cat A is fighting over.
+The territory represents the enemy Little Cato is fighting over.
 
 ---
 
-# 5. Cat B — Player-Focused Offense
+# 5. Miss Handsome — Player-Focused Offense
 
-**Identity:** Little Cato or Ms. Handsome — undecided.
+**Identity:** Little Cato or Miss Handsome — undecided.
 
-Cat B follows the player's combat decisions.
+Miss Handsome follows the player's combat decisions.
 
 ### Target Selection
 
-Cat B selects its target through the player's actions.
+Miss Handsome selects its target through the player's actions.
 
 **Melee combat:**
 
-- The first enemy struck by the player's melee attack becomes Cat B's target.
+- The first enemy struck by the player's melee attack becomes Miss Handsome's target.
     
 
 **Mouse targeting:**
 
-- An enemy explicitly marked or selected with the mouse becomes Cat B's target.
+- An enemy explicitly marked or selected with the mouse becomes Miss Handsome's target.
     
 
-Cat B attacks the selected enemy using the same attack pattern and range as Cat A.
+Miss Handsome attacks the selected enemy using the same attack pattern and range as Little Cato.
 
 ### Territory
 
-Cat B establishes its own circular territory around its selected enemy.
+Miss Handsome establishes its own circular territory around its selected enemy.
 
 - Approximate radius: melee range.
     
@@ -145,7 +131,7 @@ These mechanics remain undecided.
 
 The defining ability of the dual companion.
 
-When Cat A and Cat B come into territorial conflict, they begin fighting each other.
+When Little Cato and Miss Handsome come into territorial conflict, they begin fighting each other.
 
 Their fighting creates a damaging area around them.
 
@@ -172,9 +158,9 @@ The player can influence the activation through combat positioning.
 
 For example:
 
-1. Cat A establishes territory around Enemy A.
+1. Little Cato establishes territory around Enemy A.
     
-2. Cat B establishes territory around Enemy B.
+2. Miss Handsome establishes territory around Enemy B.
     
 3. The player uses a pull ability to bring the enemies closer together.
     
@@ -208,11 +194,11 @@ When activated:
 
 Example:
 
-|Area|Example radius|
-|---|---|
-|Cat A territory|2 m|
-|Cat B territory|2 m|
-|Catfight|4 m|
+| Area                    | Example radius |
+| ----------------------- | -------------- |
+| Little Cato territory   | 2 m            |
+| Miss Handsome territory | 2 m            |
+| Catfight                | 4 m            |
 
 _These values are illustrative. Actual territory sizes remain undecided._
 
@@ -232,9 +218,9 @@ After a catfight:
 
 - Both cats continue their normal combat behavior.
     
-- Cat A continues attacking independently.
+- Littlle Cato continues attacking independently.
     
-- Cat B continues following the player's target.
+- Miss Handsome continues following the player's target.
     
 - Their territories may continue to overlap without activating another catfight during cooldown.
     
@@ -259,9 +245,9 @@ To avoid constantly triggering the catfight at the beginning of single-target en
 
 1. The player attacks an enemy.
     
-2. Cat B joins the player immediately.
+2. Miss Handsome joins the player immediately.
     
-3. Cat A also begins attacking that enemy.
+3. Little Cato also begins attacking that enemy.
     
 4. Once both cats are actively engaging the same enemy, a timer begins.
     
@@ -282,18 +268,18 @@ The 7.5-second timer starts when both cats actively engage the same enemy, not m
 
 ### Enemy Death
 
-When Cat A's target dies:
+When Little Cato's target dies:
 
 - Its territory ends.
     
-- Cat A searches for another eligible enemy.
+- Little Cato searches for another eligible enemy.
     
 
-Cat B's targeting is determined by the player's current combat focus.
+Miss Handsome's targeting is determined by the player's current combat focus.
 
 ### Targeting Restrictions
 
-Cat A may engage bosses and Elite enemies.
+Little Cato may engage bosses and Elite enemies.
 
 Bosses and Elites possess resistance against stuns.
 

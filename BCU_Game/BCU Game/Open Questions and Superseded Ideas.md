@@ -1,7 +1,7 @@
 # Open Questions and Superseded Ideas
 
 **Purpose:** Preserve uncertain ideas without accidentally treating them as finalized decisions.  
-**Related:** [[00 - Index]]
+**Related:** [[BCU the game]]
 
 ## Open or provisional
 - **First-Journey automatic stats:** Exact weighting of combined weapon-masteries vs. milestones is open.

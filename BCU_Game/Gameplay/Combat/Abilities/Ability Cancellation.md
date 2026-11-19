@@ -12,9 +12,8 @@
 ## Special Cancellation
 - Dash and Decisive Strike can cancel:
     - Normal attacks
-    - Heavy Strike
-    - Stability Discharge
     - Other ordinary abilities
+    - Stability Discharge (does not cost Stability when initiating, since cost happens at the end of charging)
 - Dash and Decisive Strike cannot cancel each other
 - Dash cannot be canceled once started
 - Decisive Strike is committed once started
