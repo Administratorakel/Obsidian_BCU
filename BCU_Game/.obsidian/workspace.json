@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gameplay/Combat/Attacks/Weapon Mastery/Weapon Mastery.md",
+                "file": "Gameplay/Companions/Little Cato & Ms. Handsome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Weapon Mastery"
+              "title": "Little Cato & Ms. Handsome"
             }
           }
         ]
@@ -190,10 +190,10 @@
   },
   "active": "657a5b7565939d19",
   "lastOpenFiles": [
+    "Gameplay/Combat/Attacks/Weapon Mastery/Weapon Mastery.md",
     "BCU Game/Open Questions and Superseded Ideas.md",
     "Gameplay/Companions/Little Cato & Ms. Handsome.md",
     "Equipment/Upgrade Systems/Upgrade Materials.md",
-    "Gameplay/Combat/Attacks/Weapon Mastery/Weapon Mastery.md",
     "Gameplay/Movement/Vector Break.md",
     "Gameplay/Game Loop/Full Game Loop.md",
     "Gameplay/Game Loop/Stability Rift.md",
