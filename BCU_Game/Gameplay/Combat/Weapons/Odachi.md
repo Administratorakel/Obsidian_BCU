@@ -1,3 +1,5 @@
+[[Swordmaster]] 
+Weapon Mastery Progress Lv 100 bonus:
 # Odachi — Weapon Identity
 
 **Status:** Core identity established; mechanics and balancing pending  
@@ -202,3 +204,25 @@ These are suggestions, not confirmed Mastery bonuses.
 Its slow attacks create commitment, while its counterattack mechanics reward players who understand enemy behavior.
 
 The player should feel capable of turning an opponent's aggression against them, rather than simply blocking attacks.
+
+
+## 12. Odachi
+
+**Identity:** Reactive counterattacking
+
+- Large sword with slow, deliberate normal attacks.
+    
+- Counterattacks may be integrated into the normal attack loop.
+    
+- Most abilities may parry during their opening frames.
+    
+- Successful parries can transition into empowered counters.
+    
+- Both melee and ranged attacks may be counterable.
+    
+- Exact projectile-counter behavior requires further design.
+    
+- Rewards enemy observation and timing rather than aggression.
+    
+
+**Bulletjump:** Not finalized.

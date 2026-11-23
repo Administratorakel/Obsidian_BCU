@@ -9,7 +9,7 @@
 
 **Hunter**
 [[Bow]]
-[[Daggers]]
+[[Twin Daggers]]
 
 **Adept**
 [[Adept Scythe]]

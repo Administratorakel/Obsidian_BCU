@@ -17,7 +17,7 @@ Core philosophy concept:
 
 [[Hunter]] (Precision / Crit / Target control)
 [[Bow]]
-[[Daggers]]
+[[Twin Daggers]]
 
 [[Adept]] (Mystic / Elemental control)
 [[Adept Scythe]]

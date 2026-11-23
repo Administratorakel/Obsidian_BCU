@@ -41,7 +41,7 @@ Weapons define:
 [[Sword]]
 [[Two-handed Blade]]
 [[Gameplay/Combat/Combat Philosophies/Juggernaut/Hammer]]
-[[Daggers]]
+[[Twin Daggers]]
 [[Shooting Morningstar]]
 [[Magic Gauntlets]]
 [[Gameplay/Combat/Combat Philosophies/Swordmaster/Odachi]]

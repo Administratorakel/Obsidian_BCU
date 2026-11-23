@@ -14,4 +14,4 @@ Hunter Identity
 
 Weapons:
 - [[Bow]]
-- [[Daggers]]
+- [[Twin Daggers]]
