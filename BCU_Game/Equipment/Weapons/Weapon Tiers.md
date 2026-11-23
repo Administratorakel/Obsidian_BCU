@@ -44,7 +44,7 @@ Weapons define:
 [[Daggers]]
 [[Shooting Morningstar]]
 [[Magic Gauntlets]]
-[[Odachi]]
+[[Gameplay/Combat/Combat Philosophies/Swordmaster/Odachi]]
 [[Adept Scythe]]
 [[Fighting Slab]]
 

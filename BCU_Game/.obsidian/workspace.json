@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gameplay/Combat/Weapons/Warfans.md",
+                "file": "Gameplay/Combat/Weapons/Odachi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Warfans"
+              "title": "Odachi"
             }
           }
         ]
@@ -190,13 +190,14 @@
   },
   "active": "657a5b7565939d19",
   "lastOpenFiles": [
-    "Gameplay/Combat/Combat Philosophies/Tank/Shield (Weapon).md",
+    "Gameplay/Combat/Weapons/Two-Handed Sword Identity.md",
+    "Gameplay/Combat/Weapons/Odachi.md",
+    "Gameplay/Combat/Weapons/Sword Identity.md",
     "Gameplay/Combat/Weapons/Warfans.md",
+    "Gameplay/Combat/Combat Philosophies/Tank/Shield (Weapon).md",
     "Gameplay/Combat/Combat Philosophies/Tank/Tank.md",
     "Gameplay/Combat/Combat Philosophies/Weapon Types.md",
     "Gameplay/Combat/Weapons/Weapon Identities.md",
-    "Gameplay/Combat/Weapons/Two-Handed Sword Identity.md",
-    "Gameplay/Combat/Weapons/Sword Identity.md",
     "Gameplay/Combat/Weapons",
     "Gameplay/Combat/Abilities/Archetypes.md",
     "Gameplay/Combat/Abilities/Archetypes/1. Direct Offense/Decisive Strike.md",
@@ -216,7 +217,6 @@
     "Gameplay/Multiplayer/Participation and Loot.md",
     "World & Lore/Items/Upgrade Materials.md",
     "Gameplay/Combat/Abilities/Ability Cancellation.md",
-    "Gameplay/Combat/Attacks/Weapon Mastery/Mastery Milestones.md",
     "World & Lore/Maps/Map1/Church of Certainty",
     "Gameplay/Enemies/Enemies/Elite",
     "Gameplay/Player/sort",

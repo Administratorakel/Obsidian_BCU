@@ -1,7 +1,7 @@
 **Swordmaster**
 [[Sword]]
 [[Two-handed Blade]]
-[[Odachi]]
+[[Gameplay/Combat/Combat Philosophies/Swordmaster/Odachi]]
 
 **Juggernaut**
 [[Hammer]]

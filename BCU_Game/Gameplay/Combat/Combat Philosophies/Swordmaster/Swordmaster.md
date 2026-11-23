@@ -1,6 +1,6 @@
 - [[Sword]]
 - [[Two-handed Blade]]
-- [[Odachi]]
+- [[Gameplay/Combat/Combat Philosophies/Swordmaster/Odachi]]
 
 
 - Combat philosophy

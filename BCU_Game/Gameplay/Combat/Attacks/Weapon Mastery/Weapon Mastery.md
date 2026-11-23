@@ -9,7 +9,7 @@ Core philosophy concept:
 [[Swordmaster]] (Precision Duelist)
 [[Sword]]
 [[Two-handed Blade]]
-[[Odachi]]
+[[Gameplay/Combat/Combat Philosophies/Swordmaster/Odachi]]
 
 [[Juggernaut]] (AoE brusier / Tank)
 [[Hammer]]
