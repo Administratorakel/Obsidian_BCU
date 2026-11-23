@@ -17,15 +17,10 @@ Unlike other heavy weapons, the Odachi rewards observing enemies, recognizing at
 The weapon should:
 
 - Feel heavy and powerful, with relatively slow normal attacks.
-    
 - Reward well-timed defensive actions.
-    
 - Turn incoming attacks into offensive opportunities.
-    
 - Allow experienced players to counter enemies without relying on a separate parry ability.
-    
 - Remain effective even when enemies do not attack frequently.
-    
 
 **Design Philosophy:** The Odachi rewards patience, observation, and precise reactions rather than continuous aggression.
 
@@ -38,11 +33,8 @@ The Odachi can parry incoming attacks during specific attack animations.
 Potential counter opportunities include:
 
 - Certain normal attacks within its attack loop.
-    
 - The opening frames of most abilities.
-    
 - Specialized counterattack abilities.
-    
 
 ### Ability-Based Counters
 
@@ -51,20 +43,14 @@ Most abilities may have a short parry window during their opening frames.
 **Normal execution:**
 
 1. Player activates an ability.
-    
 2. No incoming attack is intercepted.
-    
 3. Ability executes normally.
-    
 
 **Successful counter:**
 
 1. Player activates an ability shortly before an incoming attack connects.
-    
 2. The Odachi intercepts the attack during its parry window.
-    
 3. The ability transitions into an empowered counterattack.
-    
 
 The exact counterattack enhancements depend on the individual ability.
 
@@ -77,20 +63,14 @@ The Odachi is intended to counter both melee and ranged attacks.
 ### Melee Counters
 
 - Primary counterattack specialization.
-    
 - Intercepts incoming melee strikes through precise timing.
-    
 - Successful counters create opportunities for retaliation.
-    
 
 ### Ranged Counters
 
 - Countering ranged attacks should also be possible.
-    
 - The exact mechanics remain undecided.
-    
 - Potential interpretations include deflecting, destroying, or redirecting projectiles.
-    
 
 **Note:** Projectile reflection and redirection are possibilities, not established mechanics.
 
@@ -103,13 +83,9 @@ Its attack loop may contain built-in counter opportunities.
 ### Proposed Characteristics
 
 - Deliberate, powerful sword swings.
-    
 - Distinctive timing windows.
-    
 - One or more attacks capable of intercepting incoming strikes.
-    
 - Greater emphasis on timing than attack frequency.
-    
 
 The precise distribution of counter windows within the normal attack loop remains undecided.
 

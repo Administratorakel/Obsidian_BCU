@@ -13,32 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gameplay/Combat/Weapons/Fighting Slab.md",
+                "file": "Gameplay/Combat/Combat Philosophies/Hunter/Bow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fighting Slab"
-            }
-          }
-        ]
-      },
-      {
-        "id": "5937d0d693a1ad86",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "eb0e4462abed3ea8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gameplay/Combat/Combat Philosophies/Weapon Types.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Weapon Types"
+              "title": "Bow"
             }
           }
         ]
@@ -210,28 +190,26 @@
   },
   "active": "657a5b7565939d19",
   "lastOpenFiles": [
-    "Gameplay/Combat/Combat Philosophies/Weapon Types.md",
-    "Gameplay/Combat/Weapons/Weapon Identities.md",
-    "Gameplay/Combat/Weapons/Fighting Slab.md",
-    "Gameplay/Combat/Weapons/Shield (Weapon).md",
+    "Gameplay/Combat/Combat Philosophies/Juggernaut/Hammer.md",
+    "Gameplay/Combat/Combat Philosophies/Swordmaster/Odachi.md",
     "Gameplay/Combat/Weapons/Adept Scythe.md",
-    "Gameplay/Combat/Weapons/Odachi.md",
+    "Gameplay/Combat/Combat Philosophies/Hunter/Bow.md",
+    "Gameplay/Combat/Combat Philosophies/Weapon Types.md",
+    "Gameplay/Combat/Weapons/Fighting Slab.md",
+    "Gameplay/Combat/Weapons/Weapon Identities.md",
+    "Gameplay/Combat/Weapons/Shield (Weapon).md",
     "Gameplay/Combat/Weapons/Chakrams.md",
     "Gameplay/Combat/Weapons/Whip.md",
     "Gameplay/Combat/Weapons/Dual Guns.md",
     "Gameplay/Combat/Weapons/Warfans.md",
-    "Gameplay/Combat/Weapons/Bow.md",
     "Gameplay/Combat/Weapons/Magic Gauntlets.md",
     "Gameplay/Combat/Weapons/Shooting Morningstar.md",
     "Gameplay/Combat/Weapons/Twin Daggers.md",
-    "Gameplay/Combat/Combat Philosophies/Swordmaster/Odachi.md",
     "Gameplay/Combat/Weapons/Two-handed Blade.md",
     "Gameplay/Combat/Weapons/Two-Handed Sword Identity.md",
     "Gameplay/Combat/Combat Philosophies/Swordmaster/Swordmaster.md",
     "Gameplay/Combat/Weapons/Sword.md",
     "Gameplay/Combat/Weapons/Sword Identity.md",
-    "Gameplay/Combat/Weapons/Hammer.md",
-    "Gameplay/Combat/Combat Philosophies/Juggernaut/Hammer.md",
     "Gameplay/Combat/Combat Philosophies/Adept/Warfans.md",
     "Gameplay/Combat/Combat Philosophies/Tank/Tank.md",
     "Gameplay/Combat/Weapons",
