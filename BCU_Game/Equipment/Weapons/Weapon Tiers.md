@@ -40,7 +40,7 @@ Weapons define:
 
 [[Sword]]
 [[Two-handed Blade]]
-[[Hammer]]
+[[Gameplay/Combat/Combat Philosophies/Juggernaut/Hammer]]
 [[Daggers]]
 [[Shooting Morningstar]]
 [[Magic Gauntlets]]

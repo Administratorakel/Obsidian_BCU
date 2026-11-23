@@ -4,7 +4,7 @@
 [[Gameplay/Combat/Combat Philosophies/Swordmaster/Odachi]]
 
 **Juggernaut**
-[[Hammer]]
+[[Gameplay/Combat/Combat Philosophies/Juggernaut/Hammer]]
 [[Shooting Morningstar]]
 
 **Hunter**

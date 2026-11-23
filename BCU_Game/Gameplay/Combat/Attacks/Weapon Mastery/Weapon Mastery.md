@@ -12,7 +12,7 @@ Core philosophy concept:
 [[Gameplay/Combat/Combat Philosophies/Swordmaster/Odachi]]
 
 [[Juggernaut]] (AoE brusier / Tank)
-[[Hammer]]
+[[Gameplay/Combat/Combat Philosophies/Juggernaut/Hammer]]
 [[Shooting Morningstar]]
 
 [[Hunter]] (Precision / Crit / Target control)

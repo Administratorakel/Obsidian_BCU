@@ -1,3 +1,5 @@
+[[Adept]]
+
 # Warfans – Weapon Concept
 
 **BCU Game – Obsidian Documentation**
