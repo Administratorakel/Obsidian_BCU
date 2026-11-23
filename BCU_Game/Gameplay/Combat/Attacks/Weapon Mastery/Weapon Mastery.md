@@ -22,7 +22,7 @@ Core philosophy concept:
 [[Adept]] (Mystic / Elemental control)
 [[Adept Scythe]]
 [[Magic Gauntlets]]
-[[Warfans]]
+[[Gameplay/Combat/Combat Philosophies/Adept/Warfans]]
 
 [[Skirmisher]] (Mobility / Flow combat)
 [[Chakrams]]

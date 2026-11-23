@@ -49,7 +49,7 @@ Weapons define:
 [[Fighting Slab]]
 
 [[Bow]]
-[[Warfans]]
+[[Gameplay/Combat/Combat Philosophies/Adept/Warfans]]
 [[Dual Guns]]
 [[Whip]]
 [[Chakrams]] (explosive Heavy Attack) |

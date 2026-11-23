@@ -1,5 +1,5 @@
 Use:
 
 [[Magic Gauntlets]]
-[[Warfans]]
+[[Gameplay/Combat/Combat Philosophies/Adept/Warfans]]
 [[Adept Scythe]]

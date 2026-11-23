@@ -14,7 +14,7 @@
 **Adept**
 [[Adept Scythe]]
 [[Magic Gauntlets]]
-[[Warfans]]
+[[Gameplay/Combat/Combat Philosophies/Adept/Warfans]]
 
 **Tank**
 [[Shield (Weapon)]]
