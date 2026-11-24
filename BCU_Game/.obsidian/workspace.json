@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gameplay/Combat/Status System/Combinations/Shattering Voltage.md",
+                "file": "Gameplay/Combat/Weapons/Dual Guns.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shattering Voltage"
+              "title": "Dual Guns"
             }
           }
         ]
@@ -188,11 +188,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "728ce5a841163efa",
+  "active": "8fad02cd5004418f",
   "lastOpenFiles": [
+    "Gameplay/Combat/Weapons/Chakrams.md",
+    "Gameplay/Combat/Status System/Elements/Ice.md",
+    "Gameplay/Combat/Status System/Combinations/Cool Combustion.md",
+    "Gameplay/Combat/Status System/Combinations/Conductive Wounds.md",
+    "Gameplay/Combat/Status System/Combinations/Neurotoxin.md",
+    "Gameplay/Combat/Status System/Combinations/Shattering Voltage.md",
     "Gameplay/Combat/Status System/Combinations/Viral Wounds.md",
     "Gameplay/Combat/Status System/Elements/Fire.md",
-    "Gameplay/Combat/Status System/Elements/Ice.md",
     "Gameplay/Combat/Status System/Status.md",
     "Gameplay/Combat/Status System/Weapon Identities.md",
     "Gameplay/Combat/Status System/Physical/Slash.md",
@@ -211,11 +216,6 @@
     "Gameplay/Combat/Combat Philosophies/Juggernaut/Hammer.md",
     "Gameplay/Combat/Combat Philosophies/Juggernaut/Juggernaut.md",
     "Gameplay/Combat/Combat Philosophies/Swordmaster/Odachi.md",
-    "Gameplay/Combat/Combat Philosophies/Swordmaster/Sword.md",
-    "Gameplay/Combat/Combat Philosophies/Swordmaster/Swordmaster.md",
-    "Gameplay/Combat/Combat Philosophies/Swordmaster/Two-handed Blade.md",
-    "Gameplay/Combat/Combat Philosophies/Tank/Tank.md",
-    "Gameplay/Combat/Combat Philosophies/Tank/Shield (Weapon).md",
     "Gameplay/Combat/Status System/Otherworldly",
     "Gameplay/Combat/Status System/Combinations",
     "Gameplay/Combat/Status System/Physical",
