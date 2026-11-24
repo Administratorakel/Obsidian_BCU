@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gameplay/Combat/Combat Philosophies/Hunter/Bow.md",
+                "file": "Gameplay/Combat/Combat Philosophies/Adept/Adept Scythe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bow"
+              "title": "Adept Scythe"
             }
           }
         ]
@@ -188,41 +188,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "657a5b7565939d19",
+  "active": "8fad02cd5004418f",
   "lastOpenFiles": [
+    "Gameplay/Combat/Attacks/Weapon Mastery/Adept Scythe - Reaping Mastery.md",
+    "Gameplay/Combat/Combat Philosophies/Adept/Adept Scythe.md",
+    "Gameplay/Combat/Attacks/Weapon Mastery/Weapon Mastery Progression.md",
+    "Gameplay/Combat/Status System/Physical/Slash.md",
+    "Gameplay/Combat/Status System/Combinations/Burned Wounds.md",
+    "Gameplay/Combat/Status System/Combinations/Frozen Wounds.md",
+    "Gameplay/Combat/Status System/Combinations/Viral.md",
+    "Gameplay/Combat/Status System/Combinations",
+    "Gameplay/Combat/Status System/Elements/Ice.md",
+    "Gameplay/Combat/Status System/Elements/Poison.md",
+    "Gameplay/Combat/Status System/Physical",
+    "Gameplay/Combat/Status System/Coptering.md",
+    "Gameplay/Combat/Weapons/Whip.md",
+    "Gameplay/Combat/Combat Philosophies/Swordmaster/Two-handed Blade.md",
+    "Gameplay/Combat/Combat Philosophies/Swordmaster/Sword.md",
+    "Gameplay/Combat/Weapons/Chakrams.md",
+    "Gameplay/Combat/Combat Philosophies/Adept/Warfans.md",
+    "Gameplay/Combat/Combat Philosophies/Tank/Shield (Weapon).md",
+    "Gameplay/Combat/Combat Philosophies/Hunter/Bow.md",
     "Gameplay/Combat/Combat Philosophies/Juggernaut/Hammer.md",
     "Gameplay/Combat/Combat Philosophies/Swordmaster/Odachi.md",
-    "Gameplay/Combat/Weapons/Adept Scythe.md",
-    "Gameplay/Combat/Combat Philosophies/Hunter/Bow.md",
     "Gameplay/Combat/Combat Philosophies/Weapon Types.md",
     "Gameplay/Combat/Weapons/Fighting Slab.md",
     "Gameplay/Combat/Weapons/Weapon Identities.md",
-    "Gameplay/Combat/Weapons/Shield (Weapon).md",
-    "Gameplay/Combat/Weapons/Chakrams.md",
-    "Gameplay/Combat/Weapons/Whip.md",
     "Gameplay/Combat/Weapons/Dual Guns.md",
-    "Gameplay/Combat/Weapons/Warfans.md",
     "Gameplay/Combat/Weapons/Magic Gauntlets.md",
     "Gameplay/Combat/Weapons/Shooting Morningstar.md",
     "Gameplay/Combat/Weapons/Twin Daggers.md",
-    "Gameplay/Combat/Weapons/Two-handed Blade.md",
-    "Gameplay/Combat/Weapons/Two-Handed Sword Identity.md",
-    "Gameplay/Combat/Combat Philosophies/Swordmaster/Swordmaster.md",
-    "Gameplay/Combat/Weapons/Sword.md",
-    "Gameplay/Combat/Weapons/Sword Identity.md",
-    "Gameplay/Combat/Combat Philosophies/Adept/Warfans.md",
-    "Gameplay/Combat/Combat Philosophies/Tank/Tank.md",
     "Gameplay/Combat/Weapons",
-    "Gameplay/Combat/Abilities/Archetypes.md",
-    "Gameplay/Combat/Abilities/Archetypes/1. Direct Offense/Decisive Strike.md",
     "World & Lore/Maps/Map1/Church of Certainty",
     "Gameplay/Enemies/Enemies/Elite",
     "Gameplay/Player/sort",
     "Gameplay/Combat/Abilities/Archetypes/5. Battlefield Alteration",
     "Gameplay/Combat/Abilities/Archetypes/4. Enhancement & Resource Management",
     "Gameplay/Combat/Abilities/Archetypes/3. Mobility & Control",
-    "Gameplay/Combat/Abilities/Archetypes/2. Area Offense",
-    "Gameplay/Combat/Abilities/Archetypes/1. Direct Offense",
-    "Gameplay/Enemies/Enemies"
+    "Gameplay/Combat/Abilities/Archetypes/2. Area Offense"
   ]
 }
