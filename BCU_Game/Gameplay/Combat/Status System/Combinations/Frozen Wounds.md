@@ -1,28 +1,36 @@
 # Frozen Wounds — Status Combination
 
-**Status:** Core concept established; balancing pending  
-**Combination:** Cold + Slash  
-**Activation:** Both statuses at maximum stacks
+**Identity:** Critical-hit vulnerability through frozen wounds  
+**Combination:** [[Ice]] + [[Slash]]  
+**Category:** Elemental + Physical  
+**Trigger:** Both contributing statuses reach 6 stacks  
+**Consumption:** Undecided
 
-## 1. Core Mechanic
+## Core Mechanics
 
-Cold freezes the wounds created by Slash, making the affected enemy particularly vulnerable to critical attacks.
+- The enemy's wounds freeze, leaving it vulnerable to critical attacks.
+- Attacks against the affected enemy gain increased **Critical Chance** and **Critical Damage**.
+- Critical hits visually reveal Slash effects in the wounds.
+- The effect persists **until the enemy thaws**.
 
-While Frozen Wounds is active:
+## Timing and Status Interactions
 
-- Players gain increased **Critical Chance** against the affected enemy.
-- Critical hits deal increased **Critical Damage**.
-- Slash effects visually appear when the enemy receives a critical hit.
-- The combination remains active until the enemy thaws.
-- The Frozen rules, like critical vulnerability and freeze, applies like in the 6th stack of Cold
-## 2. Combat Identity
+- The original note specifies that normal **Ice sixth-stack Freeze rules** also apply, including its critical vulnerability.
+- Base [[Ice]] already grants critical vulnerability against a frozen enemy. **Whether Frozen Wounds adds to that bonus or describes the same bonus is not settled.**
+- Frozen Wounds may coexist with [[Burned Wounds]] and [[Viral Wounds]], subject to the underlying status-consumption rules.
 
-Frozen Wounds specializes in **critical-hit vulnerability**.
+## Undecided
 
-It rewards players and teammates who focus their attacks on an enemy while its wounds remain frozen.
+- Precise critical bonuses; whether bonuses stack with ordinary Freeze.
+- Whether Ice or Slash stacks are consumed.
+- Whether critical hits modify Slash's underlying DoT beyond the confirmed visual effect.
 
-## 3. Coexistence
+## Shared System Rules
 
-Frozen Wounds can coexist with other Slash combinations, including Viral and Burned Wounds.
+## Activation and Ownership
 
-
+- The system checks for an eligible combination when a compatible status reaches its full-stack threshold, **before** resolving that status's standalone sixth-stack payoff.
+- Only the player's own stacks and eligible **allied** players' stacks can contribute. Non-allied players cannot combine stacks with one another.
+- Activation is automatic when the requirements are satisfied; it does not need a separate button press.
+- When two allied players supply a combination, damage credit is split **50/50** between them.
+- If multiple combinations compete for the same stacks, the first eligible pair to complete resolves first. Truly simultaneous event ordering has not been finalized.

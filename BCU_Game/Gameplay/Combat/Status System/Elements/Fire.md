@@ -1,18 +1,37 @@
-Identity: Damage-over-time and explosive payoff.
+# Fire — Elemental Status
 
-Hitting with Status marks [[Enemy]] with Status stacks
-Stack 1 & 2: Deal small amount of Fire damage per hit
-Stack 3: Burn status with own internal timer
-Stack 4 & 5: Moderate amount of fire damage per hit
-Stack 6: Combustion:
-	- Large fire burst
-	- Fire stacks consumed
-	- Applies burn to all enemies hit around target
+**Identity:** Damage over time and explosive payoff  
+**Category:** Elemental  
+**Maximum stacks:** 6  
+**Base stack duration:** 5 seconds (shared timer; refreshed by a successful application)
 
-Interaction with .. 
+## Stack Progression
 
-.. [[Ice]] leads to [[Cool Combustion]]
-.. [[Poison]] leads to [[Toxic Combustion]]
-.. [[Lightning]] leads to [[Arc Combustion]]
-.. [[Slash]] leads to [[Burned Wounds]]
+| Stacks | Effect |
+| --- | --- |
+| 1–2 | Small Fire damage per hit. |
+| 3 | Applies **Burn**, which has its own internal timer. |
+| 4–5 | Moderate Fire damage per hit. |
+| 6 | **Combustion:** a large Fire burst around the target; applies Burn to enemies hit; consumes the Fire stacks. |
 
+## Full-Stack Resolution
+
+- On reaching 6 stacks, check for an eligible allied status combination **before** ordinary Combustion.
+- If a combination is available, activate it according to that combination's rules.
+- Otherwise, Combustion occurs immediately and consumes Fire stacks.
+- Fire has **no independently established holding window** after ordinary Combustion.
+- When the target is already frozen, Combustion can instead resolve as [[Cool Combustion]].
+
+## Combinations
+
+| Partner | Combination |
+| --- | --- |
+| [[Ice]] | [[Cool Combustion]] |
+| [[Lightning]] | [[Arc Combustion]] |
+| [[Poison]] | [[Toxic Combustion]] |
+| [[Slash]] | [[Burned Wounds]] |
+
+## Undecided
+
+- Damage values, Burn duration/tick rate, Combustion radius and scaling.
+- Interactions between Burn's independent timer and refreshed Fire stacks.

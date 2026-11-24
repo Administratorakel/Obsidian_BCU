@@ -1,64 +1,42 @@
 # Viral Wounds — Status Combination
 
-**Status:** Provisional stacking mechanic; balancing pending  
-**Combination:** Poison + Slash  
-**Damage Type:** HP-percentage-based DoT  
-**Maximum Stacks:** 4 (provisional)
+**Identity:** Sustained HP-based damage and escalating damage vulnerability  
+**Combination:** [[Poison]] + [[Slash]]  
+**Category:** Elemental + Physical  
+**Trigger:** Both contributing statuses reach 6 stacks  
+**Consumption:** Undecided  
+**Maximum Viral stacks:** 4 (provisional)
 
-## 1. Core Mechanic
+## Core Mechanics
 
-When fully stacked Poison and Slash combine, they create a Viral damage-over-time effect.
+- Fully stacked Poison and Slash create a **Viral damage-over-time effect** based on the enemy's HP.
+- Each successful combination grants **one Viral stack**.
+- Repeating the combination builds additional Viral stacks, up to a provisional maximum of **4**.
+- Each Viral stack increases **all damage received** by the enemy by **25 percentage points**, additive.
 
-Each successful combination generates **one Viral stack**.
+| Viral stacks | Additional damage received |
+| --- | --- |
+| 1 | +25% |
+| 2 | +50% |
+| 3 | +75% |
+| 4 | +100% |
 
-Repeated combinations can increase the Viral stack count.
+## Timing and Status Interactions
 
-## 2. Viral Stacking
+- Viral can coexist with [[Frozen Wounds]] and [[Burned Wounds]], subject to how each combination handles underlying stacks.
+- Increased damage taken affects subsequent attacks from allied contributors; exact ownership of the separate Viral DoT remains subject to standard status attribution rules.
 
-- Initial combination generates 1 Viral stack.
-- Repeating Poison + Slash generates additional stacks.
-- Maximum of **4 Viral stacks**, provisionally.
-- The four-stack system may be changed or removed later.
+## Undecided
 
-## 3. Damage Amplification
+- DoT damage per tick, tick frequency, duration, current-vs-maximum HP basis, and how multiple Viral stacks change the DoT.
+- Whether Poison and Slash stacks are consumed; whether the four-stack cap remains; boss-specific balancing.
 
-Each Viral stack increases all damage received by the affected enemy by **25%**.
+## Shared System Rules
 
-|Viral Stacks|Additional Damage Received|
-|---|---|
-|1|+25%|
-|2|+50%|
-|3|+75%|
-|4|+100%|
+## Activation and Ownership
 
-These values assume additive stacking.
-
-## 4. Viral DoT
-
-Viral inflicts damage based on the affected enemy's HP.
-
-- Damage is percentage-based.
-- Exact percentage remains undecided.
-- Damage frequency remains undecided.
-- How additional Viral stacks affect the DoT itself remains undecided.
-
-## 5. Combat Identity
-
-Viral specializes in **sustained damage and increasing enemy vulnerability**.
-
-It is potentially effective against enemies with high HP and supports damage dealt by multiple players.
-
-## 6. Coexistence
-
-Viral can coexist with other Slash combinations, including Frozen Wounds and Burned Wounds.
-
-## 7. Undecided
-
-- Viral duration.
-- Viral tick frequency.
-- HP percentage dealt per tick.
-- Whether damage uses current or maximum HP.
-- Whether additional stacks increase Viral's DoT damage.
-- Whether Poison and Slash stacks are consumed.
-- Whether four stacks remain the maximum.
-- Boss-specific damage balancing.
+- The system checks for an eligible combination when a compatible status reaches its full-stack threshold, **before** resolving that status's standalone sixth-stack payoff.
+- Only the player's own stacks and eligible **allied** players' stacks can contribute. Non-allied players cannot combine stacks with one another.
+- Activation is automatic when the requirements are satisfied; it does not need a separate button press.
+- When two allied players supply a combination, damage credit is split **50/50** between them.
+- If multiple combinations compete for the same stacks, the first eligible pair to complete resolves first. Truly simultaneous event ordering has not been finalized.

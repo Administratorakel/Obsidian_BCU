@@ -1,26 +1,41 @@
-### Neurotoxin
+# Neurotoxin — Status Combination
 
-**Activation:** 6 Lightning + 6 Poison stacks.
+**Identity:** Timed electrical interruptions while Poison continues dealing damage  
+**Combination:** [[Lightning]] + [[Poison]]  
+**Category:** Elemental + Elemental  
+**Trigger:** 6 Lightning + 6 Poison stacks  
+**Consumption:** Undecided  
+**Effect duration:** 6 seconds
 
-**Duration:** 6 seconds.
+## Core Mechanics
 
-Neurotoxin repeatedly disrupts the affected enemy through guaranteed electrical stuns.
+- Neurotoxin inflicts a guaranteed **0.2-second stun** at each specified time.
+- Poison's existing damage over time **continues normally** during Neurotoxin.
+- Neurotoxin adds **no independent damage bonus** and no movement slow.
+- Stuns are deterministic rather than chance-based.
 
-|Time|Effect|
-|---|---|
-|0 seconds|0.2-second stun|
-|2 seconds|0.2-second stun|
-|4 seconds|0.2-second stun|
-|6 seconds|0.2-second stun|
+| Time after activation | Effect |
+| --- | --- |
+| 0 seconds | 0.2-second stun |
+| 2 seconds | 0.2-second stun |
+| 4 seconds | 0.2-second stun |
+| 6 seconds | 0.2-second stun |
 
-**Additional behavior**
+## Timing and Status Interactions
 
-- Poison's regular DoT continues during Neurotoxin.
-- No additional Neurotoxin damage multiplier has been established.
-- No movement-speed reduction.
-- No random stun chance.
-- The stuns occur at fixed intervals.
+- Four short stuns are scheduled at 2-second intervals, including the initial hit at time 0 and the event at the 6-second boundary.
+- If Lightning Discharge's party buff was already activated, a combination does **not** interrupt the buff's remaining duration.
 
-**Combat identity:** Predictable, periodic crowd control with continuing Poison damage.
+## Undecided
 
-**Undecided:** Whether the triggering stacks are consumed and any special behavior against bosses.
+- Consumption of contributing stacks, boss-specific interactions, and exact handling of a stun scheduled at the duration endpoint.
+
+## Shared System Rules
+
+## Activation and Ownership
+
+- The system checks for an eligible combination when a compatible status reaches its full-stack threshold, **before** resolving that status's standalone sixth-stack payoff.
+- Only the player's own stacks and eligible **allied** players' stacks can contribute. Non-allied players cannot combine stacks with one another.
+- Activation is automatic when the requirements are satisfied; it does not need a separate button press.
+- When two allied players supply a combination, damage credit is split **50/50** between them.
+- If multiple combinations compete for the same stacks, the first eligible pair to complete resolves first. Truly simultaneous event ordering has not been finalized.

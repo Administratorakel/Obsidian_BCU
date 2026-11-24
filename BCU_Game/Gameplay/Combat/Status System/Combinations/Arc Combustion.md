@@ -1,29 +1,39 @@
-.. [[Lightning]] leads to [[Arc Combustion]]
+# Arc Combustion — Status Combination
 
+**Identity:** Radial electrical chains that detonate at successive targets  
+**Combination:** [[Fire]] + [[Lightning]]  
+**Category:** Elemental + Elemental  
+**Trigger:** 6 Fire and 6 Lightning stacks become eligible together  
+**Consumption:** Both contributing completed sets are consumed
 
-### Arc Combustion
+## Core Mechanics
 
-**Activation:** 6 Fire + 6 Lightning stacks.
-Both statuses are consumed.
+- **Primary blast:** One large explosion around the initial target.
+- **First wave:** Three electrical arcs spread radially to nearby enemies, causing three smaller explosions.
+- **Second wave:** Each arc independently seeks a further target and causes another smaller explosion.
+- If an arc has no further eligible target, it can return to the initial target and explode there.
+- If fewer than three initial secondary targets exist, multiple arcs can reach the same secondary enemy. If there are none, all three arc paths resolve their secondary explosions on the initial target, as recorded in the vault.
+- **All six secondary explosions** have equal base damage; no falloff by wave has been established.
+- Targets hit by overlapping explosions take damage from **each separate blast**.
+- Arcs may spread in different radial directions rather than tracing one straight line.
+- The full intended pattern comprises **one initial plus six secondary explosion instances**; some may occur at the same location.
 
-**Initial explosion**
-- One large, powerful explosion centered on the original enemy.
+## Timing and Status Interactions
 
-**First wave**
-- Three electrical arcs spread radially toward three different enemies.
-- Each arc produces a smaller explosion.
+- When Lightning Discharge's party buff is already active, consuming Lightning through Arc Combustion **does not cancel the remaining buff duration**.
+- The combination resolves instead of a newly reached Fire stack's ordinary Combustion, when an eligible completed Lightning set is present.
 
-**Second wave**
-- Each arc independently seeks another eligible enemy.
-- Three more secondary explosions can occur.
-- If an arc cannot find another eligible enemy, it returns to the original target and explodes there.
+## Undecided
 
-**Damage rules**
-- Up to seven explosion centers: one primary and six secondary.
-- All six secondary explosions deal equal base damage.
-- Enemies take damage from **every explosion** that hits them, including overlapping explosions.
-- Returning arcs remain independent and can strike the original target multiple times.
-- The arcs may travel in different directions rather than following one straight path.
-- If fewer than 3 additional targets exist around the Arc Combustion target, more than one arc can travel to the additional targets and come back to the initial target like with 3 additional targets only. If none additional targets exist, the 3 arc instances happen on the initial target only
+- Damage per blast, areas, arc range, target eligibility/selection, and timing between waves.
+- Exact targeting behavior if multiple arcs select the same enemy, beyond the documented allowance when targets are scarce.
 
-**Undecided:** Damage values, explosion radii, arc range, target selection details, and timings.
+## Shared System Rules
+
+## Activation and Ownership
+
+- The system checks for an eligible combination when a compatible status reaches its full-stack threshold, **before** resolving that status's standalone sixth-stack payoff.
+- Only the player's own stacks and eligible **allied** players' stacks can contribute. Non-allied players cannot combine stacks with one another.
+- Activation is automatic when the requirements are satisfied; it does not need a separate button press.
+- When two allied players supply a combination, damage credit is split **50/50** between them.
+- If multiple combinations compete for the same stacks, the first eligible pair to complete resolves first. Truly simultaneous event ordering has not been finalized.

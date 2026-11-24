@@ -1,52 +1,47 @@
-# Slash — Status Effect
+# Slash — Physical Status
 
-**Status:** Core mechanics established; balancing pending  
-**Type:** Damage over Time (DoT)  
-**Damage Type:** Physical  
-**Maximum Stacks:** 6  
-**Duration:** 5 seconds
+**Identity:** Accumulating physical wounds and sustained damage  
+**Category:** Physical  
+**Damage type:** Physical damage over time (DoT)  
+**Maximum stacks:** 6  
+**Base stack duration:** 5 seconds (shared timer; refreshed by a successful application)
 
-## 1. Core Mechanics
+## Stack Progression
 
-Slash represents accumulating wounds that inflict physical damage over time.
+| Stacks | Effect |
+| --- | --- |
+| 1–5 | Physical wound DoT increases by an equal amount with each stack. |
+| 6 | Maximum wound DoT. **No standalone sixth-stack payoff.** Full Slash stacks are available for eligible combinations. |
 
-- Each application adds one Slash stack.
-- Maximum of **6 stacks**.
-- Each stack increases Slash's DoT damage by an equal amount.
-- All stacks share one expiration timer.
-- Applying another stack refreshes the entire **5-second duration**.
-- Reaching maximum stacks does not trigger an additional effect.
+## Core Mechanics
 
-## 2. Defense Interaction
+- Each successful application adds one Slash stack, up to 6.
+- All active stacks share a single 5-second expiration timer; another successful application refreshes the timer.
+- Slash's DoT **partially ignores Physical Defense**.
+- Slash can damage unusual enemies, including slimes; high Defense can still reduce part of its damage.
+- Multiple Slash combinations can coexist on one enemy, subject to the general combination and stack-consumption rules.
 
-Slash partially ignores the enemy's Physical Defense.
+## Full-Stack Resolution
 
-- Defense penetration applies to Slash's physical DoT.
-- Slash can damage unusual creatures, including slimes.
-- Enemies with high Physical Defense may still resist some of its damage.
-- Exact Defense penetration remains undecided.
+- On reaching 6 stacks, check for an eligible allied status combination.
+- If none is available, Slash simply remains at its maximum DoT until its normal expiry or another eligible interaction.
+- Unlike Fire, Slash does not automatically consume its stacks or produce an extra sixth-stack effect.
 
-## 3. Status Combinations
+## Combinations
 
-Slash can interact with fully stacked Cold, Poison, and Fire and Lightning.
+| Partner | Combination |
+| --- | --- |
+| [[Fire]] | [[Burned Wounds]] |
+| [[Ice]] | [[Frozen Wounds]] |
+| [[Lightning]] | [[Conductive Wounds]] |
+| [[Poison]] | [[Viral Wounds]] |
 
-| Combination           | Result                |
-| --------------------- | --------------------- |
-| Slash + [[Ice]]       | [[Frozen Wounds]]     |
-| Slash + [[Poison]]    | [[Viral Wounds]]      |
-| Slash + [[Fire]]      | [[Burned Wounds]]     |
-| Slash + [[Lightning]] | [[Conductive Wounds]] |
+## Weapon-Specific Interaction
 
-**Both participating statuses must reach their maximum stacks** before a combination can activate.
-
-Multiple Slash combinations can coexist on the same enemy.
+- For the Adept Scythe's Lv 50/100 mastery mechanic, see [[Adept Scythe - Reaping Mastery]].
+- Reaping is **not** Slash's universal sixth-stack payoff.
 
 ## Undecided
 
-- Base DoT damage and tick frequency.
-- Physical Defense penetration percentage.
-- Stack application chances.
-- Whether interactions consume or preserve Slash stacks.
-
-
-For Adept Scythe Mastery related Slash Buff, see [[Adept Scythe - Reaping Mastery]]
+- Base DoT damage, tick frequency and exact Physical Defense penetration.
+- Exact application chance and unresolved combination-specific stack consumption.
