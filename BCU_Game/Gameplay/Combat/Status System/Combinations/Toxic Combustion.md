@@ -8,10 +8,9 @@
 
 **Activation:** Fire's Combustion triggers against an enemy with 6 Poison stacks.
 
-
+- Combustion spreads 50% of the 6 stacked Poison DoT to nearby enemies.
 - The existing Poison notes also describe extending percentage-HP damage vulnerability to affected enemies.
 - Exact duration, stack consumption, and vulnerability details require further clarification.
-
 
 For reference reasons: 
 Stack 6: Poisonous Strikes:
@@ -19,4 +18,4 @@ Stack 6: Poisonous Strikes:
 	- Initiator: gains 1% HP dmg with [[Normal Attacks]
 	- Party: gains 0.5% HP dmg with [[Normal Attacks]]
 	- Duration extension decays:
-		- +1.0, +0.8, +0.6, +0.4, +0.2, +0.05, 0
+		- +1.0, +0.8, +0.6, +0.4, +0.2, +0.05, 0**

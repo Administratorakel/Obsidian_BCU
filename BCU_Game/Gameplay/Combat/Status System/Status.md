@@ -3,7 +3,7 @@
 - Status stacks are applied through [[Normal Attacks]] and some [[Archetypes]] Abilities
 - Status chance determines the application chance
 - Each Status builds from 1 --> 6 stacks
-- Each have a 5 second stack duration. (If no new stack is applied, all stacks disappear simultaneously)
+- Each have a 5 second stack duration. (If no new stack is applied, all stacks disappear simultaneously) (Exceptions with Otherworldly Status)
 - Rewards reaching the payoff
 - Encourages teamwork without making solo play weak
 - Every player has their own stack counter.

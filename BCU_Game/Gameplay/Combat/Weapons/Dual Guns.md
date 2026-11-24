@@ -1,4 +1,4 @@
-become [[Skirmisher]] 
+[[Skirmisher]] 
 Weapon Mastery Progress Lv 100 bonus:
 
 

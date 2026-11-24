@@ -1,3 +1,4 @@
+[[Adept]]
 # Adept Scythe — Weapon Identity
 
 **Status:** Core identity established; balancing and ability design pending  
@@ -395,7 +396,6 @@ Exact progression and balancing remain undecided.
 
 ### Weapon Mastery
 - Mastery progression for enhanced dash distance.
-- Exact Slash enhancements at Levels 50 and 100.
 - Slash stack generation and consumption details.
 
 ---

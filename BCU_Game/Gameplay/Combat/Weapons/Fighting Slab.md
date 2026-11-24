@@ -1,5 +1,5 @@
 Inspired by Giant Slab weapons like Gut's sword from Berserk.
-
+ 
 Combat identity:
 
 - Berserker philosophy
@@ -9,7 +9,7 @@ Combat identity:
 - Vector Break used offensively
 - Enemies may be repositioned during combos to prepare stronger attacks
 
-become [[Berserker]]
+[[Berserker]]
 
 Weapon Mastery Progress Lv 100 bonus: Increased Stability gain from heavy attacks
 **Identity:** Momentum and commitment

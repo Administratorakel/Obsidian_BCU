@@ -22,7 +22,7 @@ The weapon emphasizes:
 - Preparation through normal attacks.
 - Mage-like ability charging.
 - Buffing and supporting allies.
-- Strategic use of Standard, Wide, and Fast stances.
+- Strategic use of Standard, Wide, and Focused stances.
 
 ## 2. Normal Attacks
 
@@ -150,7 +150,7 @@ Each residue retains its creation stance and provides a generally consistent enh
 
 **Identity:** Greater area coverage and group effectiveness.
 
-### Fast Stance – Intensity
+### Focused Stance – Intensity
 
 **Strengthens the ability's effect.**
 
@@ -225,7 +225,7 @@ Their residues allow players to influence upcoming abilities through stance sele
 - Standard residues can accelerate collection through early ability completion.
 - Standard enhances charging speed.
 - Wide expands ability coverage.
-- Fast increases effect intensity.
+- Focused increases effect intensity.
 - Residues remember their creation stance.
 - Mixed stance residues can enhance the same ability.
 
@@ -239,7 +239,7 @@ These do not prevent the baseline from being considered established.
 - Interaction with terrain and obstacles.
 - Exact charging-time reduction per Standard residue.
 - Wide pulse size, stacking, and scaling.
-- Fast intensity scaling.
+- Focused intensity scaling.
 - Precise distance-to-arrival calculation.
 - Maximum practical residue count.
 - Specific abilities and exceptional stance interactions.

@@ -1,4 +1,4 @@
-become [[Gameplay/Combat/Combat Philosophies/Hunter/Hunter]]
+[[Hunter]]
 
 # Bow — Weapon Identity
 
@@ -28,11 +28,11 @@ These phases are independently affected by attack stances.
 
 ### Stance Mechanics
 
-|Stance|Arrow Preparation|Drawing & Aiming|Arrows Fired|
+| Stance   |Arrow Preparation|Drawing & Aiming|Arrows Fired|
 |---|---|---|---|
-|Standard|Normal speed|Normal speed|1|
-|Fast|50% faster|Normal speed|1|
-|Wide|Normal speed|50% slower|2|
+| Standard |Normal speed|Normal speed|1|
+| Focused  |50% faster|Normal speed|1|
+| Wide     |Normal speed|50% slower|2|
 
 **All values are provisional.**
 
@@ -42,7 +42,7 @@ These phases are independently affected by attack stances.
 - Fires one arrow per normal attack.
 - Provides consistent ranged damage.
 
-### Fast Stance
+### Focused Stance
 
 - Arrow preparation is 50% faster.
 - Drawing and aiming speed remains unchanged.
@@ -153,11 +153,11 @@ Exact interactions between Vector Break and Hunter's Pace remain undecided.
 
 The three stances provide different approaches to generating Hunter's Pace.
 
-|Stance|Hunter's Pace Interaction|
+| Stance   |Hunter's Pace Interaction|
 |---|---|
-|Standard|Consistent single-arrow stack generation|
-|Fast|More frequent opportunities to land arrows|
-|Wide|Multiple potential stacks from a single attack|
+| Standard |Consistent single-arrow stack generation|
+| Focused  |More frequent opportunities to land arrows|
+| Wide     |Multiple potential stacks from a single attack|
 
 This creates different combat rhythms without requiring separate resources or additional inputs.
 

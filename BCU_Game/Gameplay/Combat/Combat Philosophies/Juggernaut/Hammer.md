@@ -1,4 +1,4 @@
-become [[Juggernaut]]
+[[Juggernaut]]
 Weapon Mastery Progress Lv 100 bonus: Increased Knockback?
 # Hammer — Weapon Identity
 
