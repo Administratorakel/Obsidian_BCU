@@ -1,6 +1,6 @@
 
 - Philosophy: Designed around building toward a payoff.
-- Status stacks are applied through [[Normal Attacks]] and some [[Abilities]]
+- Status stacks are applied through [[Normal Attacks]] and some [[Archetypes]] Abilities
 - Status chance determines the application chance
 - Each Status builds from 1 --> 6 stacks
 - Each have a 5 second stack duration. (If no new stack is applied, all stacks disappear simultaneously)
@@ -15,20 +15,27 @@ Visibility:
 - Outside Party: Players only see visual status effects like burning Fire or payoff effects on the enemy
 	- They can't see the stack counts
 
-Elements:
+Elemental Status:
 - [[Fire]]
 - [[Ice]]
 - [[Poison]]
 - [[Lightning]]
+
+Physical Status:
+- [[Slash]]
+
+Otherworldly Status:
 - [[Instability]]
+- [[Coptering]]
 
-- Status buildup
-- Stack duration
-- Activation thresholds
-- Status chance
-- Status visibility
-- Multiplayer interactions
-- Status removal
-
-
-Special condition: [[Coptering]]
+Combinations:
+[[Arc Combustion]]
+[[Burned Wounds]]
+[[Conductive Wounds]]
+[[Cool Combustion]]
+[[Cryotoxicity]]
+[[Frozen Wounds]]
+[[Neurotoxin]]
+[[Shattering Voltage]]
+[[Toxic Combustion]]
+[[Viral Wounds]]

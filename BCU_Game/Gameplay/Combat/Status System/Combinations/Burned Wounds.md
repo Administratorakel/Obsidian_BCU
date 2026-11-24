@@ -11,11 +11,8 @@ Fire burns away the wounds created by Slash, leaving the affected enemy more vul
 While Burned Wounds is active:
 
 - The enemy receives increased vulnerability to **Status Chance**.
-    
 - Subsequent attacks have an improved opportunity to apply status effects.
-    
 - The interaction is intended to support status-focused combat.
-    
 
 ## 2. Combat Identity
 
@@ -32,11 +29,8 @@ Burned Wounds can coexist with other Slash combinations, including Frozen Wounds
 ## 4. Undecided
 
 - Exact Status Chance increase.
-    
 - Duration of Burned Wounds.
-    
 - Whether Slash and Fire stacks are consumed.
-    
 - Whether the effect can stack.
-    
 - How Status Chance increases interact with existing resistance mechanics.
+- 

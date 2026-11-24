@@ -32,16 +32,10 @@ Frozen Wounds can coexist with other Slash combinations, including Viral and Bur
 ## 4. Undecided
 
 - Exact Critical Chance increase.
-    
 - Exact Critical Damage increase.
-    
 - Cold's maximum stack count.
-    
 - Thawing conditions and duration.
-    
 - Whether Slash or Cold stacks are consumed.
-    
 - Whether critical hits additionally modify Slash's underlying DoT damage.
-    
 
 The final point remains open: critical hits visually reveal the Slash effects, but an additional DoT increase has not been established.

@@ -9,11 +9,10 @@ Stack 6: Combustion:
 	- Fire stacks consumed
 	- Applies burn to all enemies hit around target
 
-Interaction with:
+Interaction with .. 
 
-[[Ice]]:
-- Combustion against frozen enemies increases range around target.
-
-[[Poison]]:
-- Combustion on enemy with 6 stacks of poison spreads 50% of the poison Damage-over-time to nearby enemies
+.. [[Ice]] leads to [[Cool Combustion]]
+.. [[Poison]] leads to [[Toxic Combustion]]
+.. [[Lightning]] leads to [[Arc Combustion]]
+.. [[Slash]] leads to [[Burned Wounds]]
 

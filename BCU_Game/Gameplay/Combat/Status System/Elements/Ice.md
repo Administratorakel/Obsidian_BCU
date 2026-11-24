@@ -10,7 +10,9 @@ Stack 6: Freeze:
 	- Additional Ice hits extend Frozen duration by +1 second once
 	- When freeze expires stacks begin from zero
 
-Interaction with:
+Interaction with ..
 
-[[Fire]]:
-- Combustion on frozen targets, increase the range of Combustion
+.. [[Fire]] leads to [[Cool Combustion]]
+.. [[Lightning]] leads to [[Shattering Voltage]]
+.. [[Poison]] leads to [[Cryotoxicity]]
+.. [[Slash]] leads to [[Frozen Wounds]]

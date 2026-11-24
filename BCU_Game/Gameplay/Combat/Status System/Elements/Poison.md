@@ -11,8 +11,9 @@ Stack 6: Poisonous Strikes:
 	- Duration extension decays:
 		- +1.0, +0.8, +0.6, +0.4, +0.2, +0.05, 0
 
-Interaction with:
+Interaction with ..
 
-[[Fire]]:
-- Combustion on Poisoned enemies, spreads half the poison %hp dmg from initiator
-- All poisoned enemies hit get party bonus of dealing %hp per hit.
+.. [[Fire]] leads to [[Toxic Combustion]]
+.. [[Ice]] leads to [[Cryotoxicity]]
+.. [[Lightning]] leads to [[Neurotoxin]]
+.. [[Slash]] leads to [[Viral Wounds]]

@@ -9,3 +9,11 @@ Stack 6: Lightning discharge:
 	- Party gains: Attack/Animation Speed
 	- Stuns enemy for 1 second
 
+
+
+Interaction with ..
+
+.. [[Fire]] leads to [[Arc Combustion]]
+.. [[Ice]] leads to [[Shattering Voltage]]
+.. [[Poison]] leads to [[Neurotoxin]]
+.. [[Slash]] leads to [[Conductive Wounds]]

@@ -1,4 +1,4 @@
-# Viral — Status Combination
+# Viral Wounds — Status Combination
 
 **Status:** Provisional stacking mechanic; balancing pending  
 **Combination:** Poison + Slash  
@@ -16,13 +16,9 @@ Repeated combinations can increase the Viral stack count.
 ## 2. Viral Stacking
 
 - Initial combination generates 1 Viral stack.
-    
 - Repeating Poison + Slash generates additional stacks.
-    
 - Maximum of **4 Viral stacks**, provisionally.
-    
 - The four-stack system may be changed or removed later.
-    
 
 ## 3. Damage Amplification
 
@@ -42,13 +38,9 @@ These values assume additive stacking.
 Viral inflicts damage based on the affected enemy's HP.
 
 - Damage is percentage-based.
-    
 - Exact percentage remains undecided.
-    
 - Damage frequency remains undecided.
-    
 - How additional Viral stacks affect the DoT itself remains undecided.
-    
 
 ## 5. Combat Identity
 
@@ -63,17 +55,10 @@ Viral can coexist with other Slash combinations, including Frozen Wounds and Bur
 ## 7. Undecided
 
 - Viral duration.
-    
 - Viral tick frequency.
-    
 - HP percentage dealt per tick.
-    
 - Whether damage uses current or maximum HP.
-    
 - Whether additional stacks increase Viral's DoT damage.
-    
 - Whether Poison and Slash stacks are consumed.
-    
 - Whether four stacks remain the maximum.
-    
 - Boss-specific damage balancing.
