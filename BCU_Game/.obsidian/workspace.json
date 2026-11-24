@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gameplay/Combat/Status System/Elements/Ice.md",
+                "file": "Gameplay/Combat/Status System/Physical/Slash.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ice"
+              "title": "Slash"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gameplay/Combat/Weapons/Magic Gauntlets.md",
+                "file": "Gameplay/Combat/Status System/Physical/Slash.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Magic Gauntlets"
+              "title": "Slash"
             }
           }
         ]
@@ -208,9 +208,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "47e4b874b67a526d",
+  "active": "728ce5a841163efa",
   "lastOpenFiles": [
+    "Gameplay/Combat/Status System/Combinations/Burned Wounds.md",
+    "Gameplay/Combat/Status System/Combinations/Arc Combustion.md",
+    "Gameplay/Combat/Status System/Status.md",
+    "Gameplay/Combat/Status System/Combinations/Frozen Wounds.md",
+    "Gameplay/Combat/Status System/Physical/Slash.md",
     "Gameplay/Combat/Status System/Elements/Ice.md",
+    "Gameplay/Combat/Status System/Elements/Poison.md",
+    "Gameplay/Combat/Status System/Elements/Lightning.md",
+    "Gameplay/Combat/Status System/Combinations/Toxic Combustion.md",
     "Gameplay/Combat/Weapons/Magic Gauntlets.md",
     "Gameplay/Combat/Combat Philosophies/Adept/Warfans.md",
     "Gameplay/Combat/Combat Philosophies/Adept/Adept Scythe.md",
@@ -228,14 +236,6 @@
     "Gameplay/Combat/Weapons/Dual Guns.md",
     "Gameplay/Combat/Weapons/Fighting Slab.md",
     "Gameplay/Combat/Weapons/Shooting Morningstar.md",
-    "Gameplay/Combat/Weapons/Whip.md",
-    "Gameplay/Combat/Weapons/Twin Daggers.md",
-    "Gameplay/Combat/Status System/Combinations/Frozen Wounds.md",
-    "Gameplay/Combat/Status System/Status.md",
-    "Gameplay/Combat/Attacks/Weapon Mastery/Weapon Mastery Progression.md",
-    "Gameplay/Combat/Attacks/Weapon Mastery/Weapon Mastery.md",
-    "Gameplay/Combat/Attacks/Normal Attacks.md",
-    "Gameplay/Combat/Status System/Physical/Slash.md",
     "Gameplay/Combat/Status System/Otherworldly",
     "Gameplay/Combat/Status System/Combinations",
     "Gameplay/Combat/Status System/Physical",

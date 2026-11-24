@@ -7,6 +7,7 @@
 - Rewards reaching the payoff
 - Encourages teamwork without making solo play weak
 - Every player has their own stack counter.
+- Otherworldly Statuses are excluded from universal combinations for now
 
 Visibility:
 - Solo: Player sees own stacks and Status Effects

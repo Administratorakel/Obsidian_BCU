@@ -15,7 +15,7 @@
 For reference reasons: 
 Stack 6: Poisonous Strikes:
 	- Deal 15% max HP Poison damage over time
-	- Initiator: gains 1% HP dmg with [[Normal Attacks]
+	- Initiator: gains 1% HP dmg with [[Normal Attacks]]
 	- Party: gains 0.5% HP dmg with [[Normal Attacks]]
 	- Duration extension decays:
 		- +1.0, +0.8, +0.6, +0.4, +0.2, +0.05, 0**

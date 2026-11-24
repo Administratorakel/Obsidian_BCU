@@ -30,18 +30,18 @@ Slash partially ignores the enemy's Physical Defense.
 
 Slash can interact with fully stacked Cold, Poison, and Fire and Lightning.
 
-| Combination           | Result                 |
-| --------------------- | ---------------------- |
-| Slash + [[Cold]]      | [[Frozen Wounds]]      |
-| Slash + [[Poison]]    | [[Viral Wounds]]       |
-| Slash + [[Fire]]      | [[Burned Wounds]]      |
-| Slash + [[Lightning]] | [[Conductive Wounds]]] |
+| Combination           | Result                |
+| --------------------- | --------------------- |
+| Slash + [[Ice]]       | [[Frozen Wounds]]     |
+| Slash + [[Poison]]    | [[Viral Wounds]]      |
+| Slash + [[Fire]]      | [[Burned Wounds]]     |
+| Slash + [[Lightning]] | [[Conductive Wounds]] |
 
 **Both participating statuses must reach their maximum stacks** before a combination can activate.
 
 Multiple Slash combinations can coexist on the same enemy.
 
-## 5. Undecided
+## Undecided
 
 - Base DoT damage and tick frequency.
 - Physical Defense penetration percentage.

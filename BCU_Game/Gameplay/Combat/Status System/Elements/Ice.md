@@ -1,6 +1,6 @@
 Identity: Crowd control and burst windows
 
-Hitting with Status marks [[Enemy]] with Status stacks
+Hitting with Status marks Enemy with Status stacks
 Stack 1 & 2: Deal small amount of Ice damage per hit
 Stack 3: Deal small amount of Ice damage and slow
 Stack 4 & 5: Moderate amount of Ice damage per hit

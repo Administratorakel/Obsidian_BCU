@@ -33,4 +33,3 @@ Burned Wounds can coexist with other Slash combinations, including Frozen Wounds
 - Whether Slash and Fire stacks are consumed.
 - Whether the effect can stack.
 - How Status Chance increases interact with existing resistance mechanics.
-- 
