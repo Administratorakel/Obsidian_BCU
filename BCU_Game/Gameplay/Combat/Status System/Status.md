@@ -29,7 +29,7 @@ Otherworldly Status:
 - [[Instability]]
 - [[Coptering]]
 
-Combinations:
+First 2 combinable statuses reaching 6 stacks on one enemy brings Combinations as follows:
 [[Arc Combustion]]
 [[Burned Wounds]]
 [[Conductive Wounds]]
@@ -40,3 +40,6 @@ Combinations:
 [[Shattering Voltage]]
 [[Toxic Combustion]]
 [[Viral Wounds]]
+
+Only Allies can combine statuses.
+[[Multiplayer]], [[Companions]]
