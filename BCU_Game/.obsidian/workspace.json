@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gameplay/Combat/Combat Philosophies/Weapons/Whip.md",
+                "file": "Gameplay/Combat/Combat Philosophies/Juggernaut/Shooting Morningstar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Whip"
+              "title": "Shooting Morningstar"
             }
           }
         ]
@@ -188,17 +188,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "728ce5a841163efa",
+  "active": "8fad02cd5004418f",
   "lastOpenFiles": [
-    "Gameplay/Combat/Combat Philosophies/Weapons/Shooting Morningstar.md",
-    "Gameplay/Combat/Combat Philosophies/Weapons/Shield (Weapon).md",
     "Gameplay/Combat/Combat Philosophies/Weapons/Fighting Slab.md",
+    "Gameplay/Combat/Combat Philosophies/Skirmisher/Whip.md",
+    "Gameplay/Combat/Combat Philosophies/Juggernaut/Shooting Morningstar.md",
+    "Gameplay/Combat/Combat Philosophies/Skirmisher/Dual Guns.md",
+    "Gameplay/Combat/Combat Philosophies/Weapons/Shield (Weapon).md",
     "Gameplay/Combat/Combat Philosophies/Weapons/Chakrams.md",
     "Gameplay/Combat/Combat Philosophies/Swordmaster/Two-handed Blade.md",
     "Gameplay/Combat/Combat Philosophies/Swordmaster/Sword.md",
     "Gameplay/Combat/Combat Philosophies/Swordmaster/Odachi.md",
-    "Gameplay/Combat/Combat Philosophies/Weapons/Whip.md",
-    "Gameplay/Combat/Combat Philosophies/Skirmisher/Dual Guns.md",
     "Gameplay/Combat/Combat Philosophies/Juggernaut/Juggernaut.md",
     "Gameplay/Combat/Combat Philosophies/Juggernaut/Hammer.md",
     "Gameplay/Combat/Combat Philosophies/Hunter/Twin Daggers.md",

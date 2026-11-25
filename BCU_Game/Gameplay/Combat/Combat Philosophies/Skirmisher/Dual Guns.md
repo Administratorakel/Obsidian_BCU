@@ -170,21 +170,15 @@ Abilities do not consume Dual Rhythm stacks.
 
 ---
 
-## 6. Mastery Level 100 – Enhanced Dual Rhythm
+## 6. Level 100 Mastery details
 
-When the player reaches maximum Dual Rhythm stacks, normal attacks gain additional effects depending on the currently equipped stance.
+The repository still contains placeholders for the Wide and Focused Stance enhancements. We already established these:
 
-|Stance|Additional Effect|
-|---|---|
-|Default|Small blasts occur at the targets hit, dealing additional radial damage.|
-|Wide|Stance-specific additional damage effect. Exact details to be recovered.|
-|Focused|Stance-specific additional effect. Exact details to be recovered.|
-
-These additional effects depend on maintaining maximum Dual Rhythm stacks.
-
-The exact damage values and balancing remain undecided.
-
----
+| Stance  | Enhancement at maximum Dual Rhythm stacks               |
+| ------- | ------------------------------------------------------- |
+| Default | Small radial explosions at projectile impact locations. |
+| Wide    | Small damage cones behind the first enemy struck.       |
+|Focused|Increased normal attack damage proportional to the target's missing HP.|
 
 ## 7. Comparison of Stack Mechanics
 
