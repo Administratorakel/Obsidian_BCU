@@ -1,6 +1,9 @@
-# Dual Guns – Mobile Firepower
+[[Skirmisher]]
 
-## 1. Weapon Identity
+
+
+
+## 1. Weapon Identity - Mobile Firepower
 
 **Weapon Identity:** Mobile Firepower  
 **Combat Role:** Mobile mid-range sustained damage  

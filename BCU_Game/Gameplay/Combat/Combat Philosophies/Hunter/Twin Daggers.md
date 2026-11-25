@@ -1,4 +1,4 @@
-# Twin Daggers – Weapon Identity
+[[Hunter]]
 
 **BCU Game – Weapon Design Documentation**
 

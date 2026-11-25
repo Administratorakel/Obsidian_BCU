@@ -1,3 +1,4 @@
+[[Swordmaster]]
 
 **Design Status:** Core weapon identity established  
 **Weapon Identity:** Counter Arc (provisional name)  

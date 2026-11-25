@@ -1,6 +1,5 @@
-# Whip — Weapon Design
+[[Skirmisher]]
 
-**Project:** [[BCU Game]]  
 **Weapon:** Whip  
 **Combat Identity:** Mobile Battlefield Control / Orbital Crowd Control  
 **Damage Type:** Physical  
