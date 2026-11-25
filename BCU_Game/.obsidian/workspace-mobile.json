@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "11e0deedef3cb44f",
+    "type": "split",
+    "children": [
+      {
+        "id": "162bee188b8b0e66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fadb0d63f1d24642",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gameplay/Combat/Combat Philosophies/Weapons/Dual Guns.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dual Guns"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7bc2e5a388545229",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "38d4814dc2f1a588",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "a0981a03f72c264a",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "250332e4b9225831",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "1e98d7a9acf9c7ba",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "a62fc7438753b1a9",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "2f44ae15fb58199e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4bde3c85d36f8e6a",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Gameplay/Combat/Abilities/Archetypes.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "69f84e854a7d5c28",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Gameplay/Combat/Abilities/Archetypes.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "f42490ec1b60d918",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Gameplay/Combat/Abilities/Archetypes.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "fadb0d63f1d24642",
+  "lastOpenFiles": [
+    "Gameplay/Combat/Status System/Elements/Lightning.md",
+    "Gameplay/Combat/Status System/Otherworldly/Instability.md",
+    "Gameplay/Combat/Status System/Otherworldly/Coptering.md",
+    "Gameplay/Combat/Status System/Otherworldly",
+    "Gameplay/Combat/Status System/Combinations/Viral Wounds.md",
+    "Gameplay/Combat/Status System/Combinations/Toxic Combustion.md",
+    "Gameplay/Combat/Status System/Combinations/Shattering Voltage.md",
+    "Gameplay/Combat/Status System/Combinations/Neurotoxin.md",
+    "Gameplay/Combat/Status System/Combinations/Cryotoxicity.md",
+    "Gameplay/Combat/Status System/Combinations/Cool Combustion.md",
+    "Gameplay/Combat/Status System/Combinations/Conductive Wounds.md",
+    "Gameplay/Combat/Status System/Combinations/Arc Combustion.md",
+    "Gameplay/Combat/Combat Philosophies/Weapons/Shooting Morningstar.md",
+    "Gameplay/Combat/Combat Philosophies/Weapons/Shield (Weapon).md",
+    "Gameplay/Combat/Combat Philosophies/Weapons/Magic Gauntlets.md",
+    "Gameplay/Combat/Combat Philosophies/Weapons/Fighting Slab.md",
+    "Gameplay/Combat/Combat Philosophies/Weapons/Dual Guns.md",
+    "Gameplay/Combat/Combat Philosophies/Weapons/Chakrams.md",
+    "Gameplay/Combat/Combat Philosophies/Weapons",
+    "Gameplay/Combat/Combat Philosophies/Skirmisher/Whip.md",
+    "Gameplay/Combat/Combat Philosophies/Hunter/Twin Daggers.md",
+    "Experimental/Music_Responsive/Cosmetics.md",
+    "Experimental/Music_Responsive",
+    "Gameplay/Combat/Weapons/Dual Guns.md",
+    "Gameplay/Combat/Status System/Elements/Poison.md",
+    "Gameplay/Combat/Status System/Elements/Instability.md",
+    "Gameplay/Combat/Status System/Coptering.md",
+    "Gameplay/Combat/Status System/Elements/Fire.md",
+    "Gameplay/Combat/Status System/Elements/Ice.md",
+    "Gameplay/Combat/Status System/Physical",
+    "Gameplay/Combat/Status System/Combinations",
+    "Gameplay/Combat/Weapons"
+  ]
+}
