@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gameplay/Combat/Combat Philosophies/Weapons/Magic Gauntlets.md",
+                "file": "Gameplay/Combat/Combat Philosophies/Adept/Magic Gauntlets.md",
                 "mode": "source",
                 "source": false
               },
@@ -188,7 +188,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "728ce5a841163efa",
+  "active": "8fad02cd5004418f",
   "lastOpenFiles": [
     "Gameplay/Combat/Combat Philosophies/Weapons/Shield (Weapon).md",
     "Gameplay/Combat/Combat Philosophies/Swordmaster/Odachi.md",
