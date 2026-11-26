@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gameplay/Combat/Combat Philosophies/Weapons/Dual Guns.md",
+                "file": "Gameplay/Combat/Status System/Status.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dual Guns"
+              "title": "Status"
             }
           }
         ]
@@ -117,7 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Gameplay/Combat/Abilities/Archetypes.md",
+            "file": "Gameplay/Combat/Status System/Status.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -175,6 +175,13 @@
   },
   "active": "fadb0d63f1d24642",
   "lastOpenFiles": [
+    "Gameplay/Combat/Status System/Physical/Puncture.md",
+    "Gameplay/Combat/Status System/Physical/Impact.md",
+    "Gameplay/Combat/Status System/Status.md",
+    "Gameplay/Combat/Combat Philosophies/Skirmisher/Dual Guns.md",
+    "Gameplay/Combat/Combat Philosophies/Weapons/Dual Guns.md",
+    "Gameplay/Combat/Combat Philosophies/Juggernaut/Shooting Morningstar.md",
+    "Gameplay/Combat/Combat Philosophies/Adept/Magic Gauntlets.md",
     "Gameplay/Combat/Status System/Elements/Lightning.md",
     "Gameplay/Combat/Status System/Otherworldly/Instability.md",
     "Gameplay/Combat/Status System/Otherworldly/Coptering.md",
@@ -191,19 +198,12 @@
     "Gameplay/Combat/Combat Philosophies/Weapons/Shield (Weapon).md",
     "Gameplay/Combat/Combat Philosophies/Weapons/Magic Gauntlets.md",
     "Gameplay/Combat/Combat Philosophies/Weapons/Fighting Slab.md",
-    "Gameplay/Combat/Combat Philosophies/Weapons/Dual Guns.md",
     "Gameplay/Combat/Combat Philosophies/Weapons/Chakrams.md",
     "Gameplay/Combat/Combat Philosophies/Weapons",
     "Gameplay/Combat/Combat Philosophies/Skirmisher/Whip.md",
     "Gameplay/Combat/Combat Philosophies/Hunter/Twin Daggers.md",
     "Experimental/Music_Responsive/Cosmetics.md",
     "Experimental/Music_Responsive",
-    "Gameplay/Combat/Weapons/Dual Guns.md",
-    "Gameplay/Combat/Status System/Elements/Poison.md",
-    "Gameplay/Combat/Status System/Elements/Instability.md",
-    "Gameplay/Combat/Status System/Coptering.md",
-    "Gameplay/Combat/Status System/Elements/Fire.md",
-    "Gameplay/Combat/Status System/Elements/Ice.md",
     "Gameplay/Combat/Status System/Physical",
     "Gameplay/Combat/Status System/Combinations",
     "Gameplay/Combat/Weapons"

@@ -26,6 +26,7 @@
 - On reaching 6 stacks, check for an eligible allied status combination.
 - If none is available, Slash simply remains at its maximum DoT until its normal expiry or another eligible interaction.
 - Unlike Fire, Slash does not automatically consume its stacks or produce an extra sixth-stack effect.
+- reaching full stacks turns Slash into Laceration
 
 ## Combinations
 
