@@ -3,20 +3,12 @@
 ## Design Philosophy
 
 - Reward deliberate status application, weapon specialization, build diversity and cooperation between players.
-    
 - Allow individual statuses to remain useful without requiring group combinations.
-    
 - Provide meaningful progression toward six-stack payoffs and enhanced statuses.
-    
 - Encourage strategic preparation through group-exclusive status combinations.
-    
 - Differentiate statuses mechanically while maintaining consistent underlying rules.
-    
 - Connect gradual physical status decay to the world's attempt to stabilize affected entities.
-    
-
 ---
-
 ## 1. Damage Categories & Damage Types
 
 Damage Category and Damage Type are independent classifications.
@@ -24,18 +16,13 @@ Damage Category and Damage Type are independent classifications.
 ### Damage Categories
 
 - **Physical Damage (PH)**
-    
 - **Magical Damage (MA)**
-    
 
 The Damage Category determines the corresponding defensive attribute used to mitigate incoming DMG.
 
 - Physical DMG uses Physical DEF.
-    
 - Magical DMG uses Magical DEF.
-    
 - Individual mechanics may partially or completely ignore DEF.
-    
 
 See [[Damage Calculation]].
 
@@ -52,20 +39,14 @@ See [[Damage Calculation]].
 #### Elemental
 
 - [[Fire]]
-    
 - [[Ice]]
-    
 - [[Lightning]]
-    
 - [[Poison]]
-    
 
 #### Otherworldly
 
 - [[Instability]]
-    
 - [[Coptering]]
-    
 
 Otherworldly statuses are currently excluded from universal status combinations.
 
@@ -74,15 +55,10 @@ Their compatibility with universal status mechanics must be determined individua
 ### Damage Classification
 
 - Physical statuses can originate from physical or magical DMG.
-    
 - Elemental statuses can originate from physical or magical DMG.
-    
 - Magic is not inherently elemental.
-    
 - Physical DMG is not restricted to physical status types.
-    
 - Every attack and ability defines its own damage composition.
-    
 
 |Damage Component|Damage Category|Damage Type|
 |---|---|---|
@@ -96,7 +72,6 @@ Their compatibility with universal status mechanics must be determined individua
 |Magical Fire|Magical|Fire|
 
 ---
-
 ## 2. Individual Status Chances
 
 Every applicable Damage Type within an attack or ability possesses its own Status Chance.
@@ -104,15 +79,10 @@ Every applicable Damage Type within an attack or ability possesses its own Statu
 ### Universal Rules
 
 - Each Damage Type rolls independently.
-    
 - Multiple different statuses can be applied simultaneously.
-    
 - Physical and magical variants of the same Damage Type share its Status Chance roll.
-    
 - There is no universal restriction on how many different statuses may be applied through one hit.
-    
 - Status Chances can be individually adjusted for each attack, ability and damage instance.
-    
 
 ### Example
 
@@ -124,22 +94,16 @@ Every applicable Damage Type within an attack or ability possesses its own Statu
 |**Total**|**130**|**70**|**200**|**70%**|
 
 - The attack independently rolls Impact, Slash and Fire.
-    
 - It can apply all three statuses, two statuses, one status or no status.
-    
 - Combined Status Chance represents the sum of individual Status Chances rather than the probability of applying at least one status.
-    
 
 ---
-
 ## 3. Base & Final Status Chance
 
 Status Chance modifiers are differentiated through:
 
 - Base Status Chance % (BC%).
-    
 - Final Status Chance % (FC%).
-    
 
 ### Base Status Chance %
 
@@ -174,17 +138,12 @@ The proposed implementation adds percentage points to the combined Status Chance
 The proportional FC distribution and exact interaction between BC% and FC% remain undecided.
 
 ---
-
 ## 4. Status Chance Above 100%
 
 - Individual Status Chances can exceed 100%.
-    
 - Every complete 100% guarantees one stack.
-    
 - The remaining percentage represents the probability of applying an additional stack.
-    
 - This calculation applies independently to each Damage Type.
-    
 
 |Individual Status Chance|Guaranteed Stacks|Additional Stack Chance|
 |---|---|---|
@@ -196,53 +155,37 @@ The proportional FC distribution and exact interaction between BC% and FC% remai
 |245%|2|45%|
 
 - A combined Status Chance exceeding 100% does not necessarily guarantee a status application.
-    
 - Stacks guaranteed through Status Chance remain part of the ordinary Status Chance system.
-    
 - These are distinct from explicitly guaranteed direct status applications.
-    
 
 ---
 
 ## 5. Physical & Magical Status Applications
 
 - Physical and magical variants apply the same underlying status.
-    
 - Each successfully applied stack retains one corresponding Damage Category.
-    
 - Hybrid stacks do not exist.
-    
 - Both variants contribute equally toward status thresholds.
-    
 
 ### Damage Category Determination
 
 - Each successfully applied stack determines its Damage Category independently.
-    
 - The probability is proportional to the originating attack's physical and magical damage distribution for that specific Damage Type.
-    
 - Only DMG belonging to the relevant Damage Type is considered.
-    
 - Damage distribution is calculated before enemy defenses.
-    
 - Multiple stacks originating from the same attack may have different Damage Categories.
-    
 
 ### Example
 
 An attack deals:
 
 - 70 Physical Impact DMG.
-    
 - 30 Magical Impact DMG.
-    
 
 Each successfully applied Impact stack independently has:
 
 - 70% probability of becoming Physical Impact.
-    
 - 30% probability of becoming Magical Impact.
-    
 
 Different Damage Types determine their categories independently.
 
@@ -251,51 +194,32 @@ Different Damage Types determine their categories independently.
 ## 6. Player-Specific Status Stack Pools
 
 - Every player maintains separate status pools on every affected enemy.
-    
 - Each status has its own player-specific pool.
-    
 - Physical and magical variants share the same pool.
-    
 - Both variants share the maximum stack count within that pool.
-    
 - Other players cannot replace, refresh or extend a player's stacks through ordinary applications.
-    
 - Individual stacks from different players do not collectively count toward one player's completed set.
-    
 - Allied players can cooperate through eligible status combinations.
-    
 
 ### Example
 
 - Player A applies 4 Slash stacks.
-    
 - Player B applies 3 Slash stacks.
-    
 - Neither player reaches Laceration.
-    
 - The combined total of 7 stacks does not activate a completed six-stack set.
-    
 
 ### Stored Stack Properties
 
 Depending on the status, individual stacks retain:
 
 - Original owner.
-    
 - Damage Category.
-    
 - Original offensive DMG value.
-    
 - Critical strike result.
-    
 - Applicable Critical DMG multiplier.
-    
 - Status-specific effect properties.
-    
 - Duration determined upon application.
-    
 - Application order.
-    
 
 Changes to the originating player's offensive attributes do not modify stored properties.
 
@@ -329,26 +253,17 @@ Elemental statuses retain their individually established full-stack mechanics.
 First In, First Out (FIFO) determines ordinary replacement of completed stack pools.
 
 - The oldest eligible stack is removed.
-    
 - The newest stack replaces it.
-    
 - Replacement occurs within the originating player's own pool.
-    
 - Replacement can change the physical and magical composition of the pool.
-    
 - Existing stack properties remain unchanged until removal.
-    
 - Replacement does not increase the maximum stack count.
-    
 - Status-specific enhancement, retention and consumption mechanics can define exceptions.
-    
 
 ### FIFO Cleansing
 
 - Partial Slash cleansing removes the oldest stack first.
-    
 - Other status-specific cleansing interactions remain subject to individual rules.
-    
 
 ---
 
@@ -357,58 +272,37 @@ First In, First Out (FIFO) determines ordinary replacement of completed stack po
 ### Shared Expiration Timer
 
 - Each player-specific status pool maintains its own shared expiration timer.
-    
 - The provisional standard base duration is 5 seconds unless individual mechanics specify otherwise.
-    
 - Applying a new stack refreshes the originating player's entire pool duration.
-    
 - The newest stack determines the refreshed duration.
-    
 - A shorter newly applied duration can replace a longer remaining duration.
-    
 - Refreshing the timer does not recalculate existing stack properties.
-    
 - Applying stacks does not refresh other players' pools.
-    
 
 ### Physical Status Decay
 
 All three physical statuses follow gradual stabilization.
 
 - Physical status stacks do not expire simultaneously.
-    
 - Expiration removes the oldest eligible stack or enhancement through FIFO.
-    
 - The expiration timer restarts after each decay step.
-    
 - Enhanced statuses gradually revert to their ordinary forms.
-    
 - The status disappears when no stacks remain.
-    
 
 ### Physical Status Lifecycles
 
 - Slash (1–5) → Laceration.
-    
 - Laceration → Slash (5–1) → No status.
-    
 - Impact (1–5) → Fracture (0–6).
-    
 - Fracture (6–0) → Impact (5–1) → No status.
-    
 - Puncture (1–5) → Breach.
-    
 - Breach → Puncture (5–1) → No status.
-    
 
 ### Elemental & Otherworldly Decay
 
 - Elemental and otherworldly statuses retain their individually established duration and decay mechanics.
-    
 - Gradual physical-style decay is not automatically applied to these statuses.
-    
 - Special completed-set timers and combination timers follow individual rules.
-    
 
 ### Lore
 
@@ -425,92 +319,59 @@ Damaging status pools generally maintain shared damage tick timers.
 ### General Rules
 
 - All active stacks within the same pool deal their accumulated DMG simultaneously.
-    
 - Each stack retains its own individual damage properties.
-    
 - Applying new stacks does not reset the damage tick timer.
-    
 - Refreshing the expiration timer does not reset the damage tick timer.
-    
 - Newly applied stacks contribute to the next scheduled tick.
-    
 - Different players maintain independent damage tick timers.
-    
 - Each damaging status may possess its own predefined tick interval.
-    
 - Status-specific mechanics may define additional timers.
-    
 
 ### Established Slash Rules
 
 - The initial tick occurs after the first tick interval has passed.
-    
 - Simultaneous expiration and damage ticks resolve damage before stack removal.
-    
 - Stored base DMG per tick remains constant throughout each stack's lifetime.
-    
 - Existing offensive properties remain unchanged.
-    
 - See [[Slash]] for further details.
-    
 
 Equivalent timing and damage rules for elemental statuses will be confirmed during their individual reviews.
 
 ---
-
 ## 10. Status Damage Calculation
 
 ### Fixed Offensive Properties
 
 - Individual offensive properties are determined and stored upon application.
-    
 - Subsequent changes to the originating player's attributes do not modify existing stacks.
-    
 
 ### Dynamic Target Properties
 
 Applicable target-side properties are calculated dynamically:
 
 - Current corresponding DEF.
-    
 - Current DMG vulnerability.
-    
 - Current status-specific DMG resistance.
-    
 - Other applicable target-side modifiers.
-    
-
 ### Defense Interactions
 
 - Physical status DMG ordinarily references current physical DEF.
-    
 - Magical status DMG ordinarily references current magical DEF.
-    
 - Status-specific DEF penetration can override ordinary calculations.
-    
 - Slash and Laceration provisionally ignore corresponding DEF entirely.
-    
 - Impact and Fracture therefore do not directly amplify Slash through DEF reduction.
-    
 
 ### Defense Reduction
 
 Impact and Fracture reduce corresponding DEF.
 
 - Percentage-based reduction is applied before flat reduction.
-    
 - Percentage reduction references original positive DEF.
-    
 - Percentage reduction has no effect on original DEF values of zero or below.
-    
 - Flat reduction can reduce DEF below zero.
-    
 - Negative DEF increases corresponding incoming DMG.
-    
 - The exact negative DEF calculation remains undecided.
-    
 - Impact and Fracture currently have no dedicated total DEF reduction cap.
-    
 
 See [[Impact]].
 
@@ -519,17 +380,11 @@ See [[Impact]].
 Puncture and Breach increase incoming DMG of their corresponding Damage Category.
 
 - DMG vulnerability is applied after DEF calculations.
-    
 - Vulnerability stacks additively with vulnerability from other sources.
-    
 - Puncture vulnerability provisionally affects direct DMG, DoT and other corresponding status DMG.
-    
 - Existing DoT effects dynamically reference current vulnerability.
-    
 - Newly applied Puncture vulnerability provisionally affects subsequent damage instances rather than the triggering attack.
-    
 - This application order may be reconsidered when establishing status combinations.
-    
 
 See [[Puncture]].
 
@@ -548,48 +403,30 @@ Damaging statuses can critically strike.
 ### Established General Principles
 
 - Critical status damage can be stored within individual stacks.
-    
 - Critical stacks retain their critical properties throughout their lifetime.
-    
 - Individual DoT ticks do not repeatedly roll for critical strikes.
-    
 - Critical and non-critical stacks can coexist within the same pool.
-    
 - Refreshing duration does not modify existing critical properties.
-    
 - Critical DMG must not be applied twice.
-    
 - Baseline Critical Chance should remain relatively low.
-    
-
 ### Slash & Laceration
 
 - Each stack independently rolls its critical strike upon application.
-    
 - Base DoT DMG references non-critical, pre-mitigation triggering DMG.
-    
 - Multiple applications originating from one attack roll independently.
-    
 - Applications to different enemies roll independently.
-    
 - Critical DMG remains fixed throughout the stack's lifetime.
-    
 
 ### Other Statuses
 
 - The previous universal rule of inheriting the triggering attack's critical result is superseded for Slash.
-    
 - Critical application behavior for elemental statuses will be confirmed individually.
-    
 - Impact stack strength is not increased by critical strikes.
-    
 - Puncture stack strength is fixed and is not increased by critical strikes.
-    
 
 See [[Critical Hits]].
 
 ---
-
 ## 12. Status Resistance & Vulnerability
 
 Damage mitigation, Status Chance Resistance and Status DMG Resistance are separate mechanics.
@@ -597,11 +434,8 @@ Damage mitigation, Status Chance Resistance and Status DMG Resistance are separa
 ### Damage Mitigation
 
 - Physical DEF mitigates physical DMG.
-    
 - Magical DEF mitigates magical DMG.
-    
 - Individual status mechanics may override ordinary DEF calculations.
-    
 
 ### Status Chance Resistance
 
@@ -610,33 +444,21 @@ Status Chance Resistance affects the probability of applying statuses.
 It does not directly affect:
 
 - Status DMG.
-    
 - Status duration.
-    
 - Status potency.
-    
 - Maximum stack count.
-    
-
 ### General Status Chance Resistance
 
 - Provides baseline resistance against ordinary Status Chance applications.
-    
 - Primarily intended for elites and bosses.
-    
 - Most ordinary enemies should have no general resistance.
-    
 
 ### Individual Status Chance Resistance
 
 - Overrides general resistance for a specific status.
-    
 - Allows entities to possess individual resistances or vulnerabilities.
-    
 - Ordinary enemies may possess individual resistance where appropriate.
-    
 - Physical and magical variants of the same status share its applicable Status Chance Resistance.
-    
 
 ### Illustrative Example
 
@@ -648,20 +470,14 @@ It does not directly affect:
 |Boss|40%|—|—|—|
 
 - A dash indicates that General Status Chance Resistance applies.
-    
 - Negative individual resistance remains a proposed representation of innate vulnerability.
-    
 - All values are illustrative.
-    
 
 ### Status Chance Vulnerability
 
 - Directly counteracts Status Chance Resistance.
-    
 - Can exceed existing resistance and increase effective incoming Status Chance.
-    
 - Distinct from DMG vulnerability.
-    
 
 **Formula:**
 
@@ -682,21 +498,13 @@ Assuming 50% Final Status Chance:
 ### Status DMG Resistance
 
 - Reduces DMG originating from the corresponding status.
-    
 - Does not inherently prevent status applications.
-    
 - Slash-specific DMG resistance is calculated dynamically every tick.
-    
 - 100% Slash DMG resistance prevents Slash DMG but does not prevent stack accumulation.
-    
 - Resistance exceeding 100% does not cause Slash to heal the target.
-    
 - Complete Slash DMG resistance does not prevent Laceration or combination eligibility.
-    
 - These Slash immunity interactions remain subject to playtesting.
-    
 - Exact interactions with other statuses must be confirmed individually.
-    
 
 No additional universal elemental damage resistance layer has been established.
 
