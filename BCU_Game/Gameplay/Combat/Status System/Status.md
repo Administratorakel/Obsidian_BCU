@@ -1050,3 +1050,61 @@ The precise FC% calculation requires further confirmation.
 - Whether a global combination limit will eventually be necessary.
 - Individual combination mechanics, scaling, duration, stacking and decay.
 - Visual representation of combinations belonging to different groups.
+  
+  
+  ## Physical Status Progression
+
+|Status|Enhanced Status|Required Stacks|Additional Enhanced Stacks|
+|---|---|--:|--:|
+|[[Slash]]|Laceration|6|None|
+|[[Impact]]|Fracture|6|0–6|
+|[[Puncture]]|Breach|6|None|
+
+All three physical statuses:
+
+- Support physical and magical Damage Categories.
+- Maintain player-specific status pools.
+- Share six stacks between both Damage Categories within each pool.
+- Retain individual stack properties.
+- Follow FIFO replacement.
+- Follow FIFO gradual decay.
+- Reach their enhanced state upon receiving the sixth stack.
+- Require their enhanced state to participate in status combinations.
+- Cannot combine with other physical statuses.
+- Can naturally synergize with other physical statuses.
+
+## Gradual Status Stabilization
+
+- Physical statuses no longer lose all stacks simultaneously upon expiration.
+- Expiration removes the oldest stack or enhancement according to the individual status's decay mechanics.
+- The expiration timer restarts after each decay step.
+- Enhanced statuses gradually revert to their ordinary forms.
+- This process represents the world attempting to stabilize affected entities again.
+- Elemental and otherworldly decay mechanics remain individually defined.
+
+## Status Damage Calculation
+
+- Offensive properties are fixed upon application.
+- Applicable target-side defensive properties, DMG resistances and DMG vulnerabilities are calculated dynamically.
+- Individual status mechanics may ignore corresponding DEF entirely.
+- DMG vulnerability applies after DEF calculations.
+- DMG vulnerability from multiple sources stacks additively, provisionally.
+- Newly applied Puncture vulnerability affects subsequent DMG instances rather than the triggering attack.
+- This application order may be reconsidered when establishing status combinations.
+
+## Status Damage Resistance
+
+- Status DMG resistance and Status Chance Resistance are separate mechanics.
+- Status Chance Resistance affects the probability of applying a status.
+- Status DMG resistance affects DMG dealt by the corresponding status.
+- Status DMG resistance does not inherently prevent status applications.
+- Status-specific resistance and immunity interactions are defined individually.
+
+## General Combat DMG Display Settings
+
+- Physical and magical DMG components are calculated independently.
+- By default, corresponding simultaneous physical and magical DMG components are displayed as one combined DMG number.
+- Players can toggle separate physical and magical DMG numbers.
+- This option is always available in the settings.
+- The player is introduced to this option when physical and magical Damage Categories are explained during gameplay.
+- Accumulated Slash DoT DMG does not highlight individual critical contributions.
