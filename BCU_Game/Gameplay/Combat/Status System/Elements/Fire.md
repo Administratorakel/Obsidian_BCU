@@ -15,47 +15,31 @@
 ### Core Mechanics
 
 - Fire represents the accumulation of Heat within an affected entity.
-    
 - Every successful Fire application stores an individually calculated amount of potential Heat DMG.
-    
 - Fire supports two Damage Categories:
-    
     - **Physical Fire:** Stores physical Heat.
-        
     - **Magical Fire:** Stores magical Heat.
-        
 - Both variants belong to the same status and share a maximum of 6 stacks.
-    
 - Each stack possesses its own Damage Category.
-    
 - Hybrid stacks do not exist.
-    
 - Fire stacks do not provide additional DMG per hit.
-    
 - Accumulated Heat contributes toward Burn and Combustion.
-    
 - Heat storage is independent of the affected entity's defenses, resistances and vulnerabilities.
-    
 
 ### Stack Progression
 
-|Stacks|Effect|
-|---|---|
-|1–2|Accumulate Heat.|
-|3|Accumulate Heat and trigger Burn.|
-|4–5|Continue accumulating Heat and refresh Burn.|
-|6|Accumulate Heat, trigger Combustion and apply stronger Burn.|
+| Stacks | Effect                                                       |
+| ------ | ------------------------------------------------------------ |
+| 1–2    | Accumulate Heat.                                             |
+| 3      | Accumulate Heat and trigger Burn.                            |
+| 4–5    | Continue accumulating Heat and refresh Burn.                 |
+| 6      | Accumulate Heat, trigger Combustion and apply stronger Burn. |
 
 - Every stack contributes toward accumulated Heat.
-    
 - The third and sixth stacks contribute their own Heat before resolving their respective payoffs.
-    
 - Multiple stacks applied through one damage instance resolve their thresholds sequentially.
-    
 - Both Burn and Combustion can activate through the same originating damage instance.
-    
 - Eligible status combinations take priority over ordinary sixth-stack resolution.
-    
 
 ---
 
@@ -964,7 +948,7 @@ The primary target's immunity does not affect the surrounding enemies' incoming 
 |Partner|Combination|
 |---|---|
 |[[Ice]]|[[Cool Combustion]]|
-|[[Lightning]]|[[x Arc Combustion]]|
+|[[Lightning]]|[[Arc Combustion]]|
 |[[Poison]]|[[x Toxic Combustion]]|
 
 ### Physical Status Combinations

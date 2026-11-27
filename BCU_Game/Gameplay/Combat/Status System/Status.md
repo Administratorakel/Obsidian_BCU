@@ -1330,7 +1330,7 @@ See [[Poison]].
 |Statuses|Combination|
 |---|---|
 |Fire + Ice|[[Cool Combustion]]|
-|Fire + Lightning|[[x Arc Combustion]]|
+|Fire + Lightning|[[Arc Combustion]]|
 |Fire + Poison|[[x Toxic Combustion]]|
 |Ice + Lightning|[[x Shattering Voltage]]|
 |Ice + Poison|[[x Cryotoxicity]]|
@@ -1814,7 +1814,7 @@ Remaining questions primarily concern numerical balancing, party-shared consiste
 ### Status Combinations
 
 - [[Cool Combustion]]
-- [[x Arc Combustion]]
+- [[Arc Combustion]]
 - [[x Toxic Combustion]]
 - [[x Shattering Voltage]]
 - [[x Cryotoxicity]]

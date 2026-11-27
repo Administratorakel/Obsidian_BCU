@@ -1041,7 +1041,7 @@ When a combination consumes the completed Lightning set:
 
 |Partner|Combination|
 |---|---|
-|[[Fire]]|[[x Arc Combustion]]|
+|[[Fire]]|[[Arc Combustion]]|
 |[[Ice]]|[[x Shattering Voltage]]|
 |[[Poison]]|[[x Neurotoxin]]|
 

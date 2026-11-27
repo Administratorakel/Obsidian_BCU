@@ -3,27 +3,16 @@
 ## 1. Overview
 
 - **Combination:** [[Fire]] + [[Ice]]
-    
 - **Category:** Elemental + Elemental
-    
 - **Identity:** Accumulated Fire potential converted into immediate widespread burst DMG.
-    
 - **Damage Type:** Fire
-    
 - **Damage Categories:** Physical and Magical
-    
 - **Activation:** Six Fire stacks against an enemy with an eligible completed Ice set.
-    
 - **Effect duration:** Instantaneous.
-    
 - **Radius:** 1.5× ordinary Combustion radius (provisional).
-    
 - **DMG falloff:** None.
-    
 - **Combination-specific cooldown:** None.
-    
 - **Availability:** Solo and multiplayer.
-    
 
 ---
 
