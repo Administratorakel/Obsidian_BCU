@@ -932,16 +932,19 @@ The primary target's immunity does not affect the surrounding enemies' incoming 
 
 ## Status Combinations
 
+### General Combustion Combination Rules
+
+- Fire combinations preserve ordinary Combustion mechanics unless explicitly overridden by the individual combination.
+- Individual combinations may modify, replace or remove specific Combustion properties.
+- Unmodified Combustion properties retain their ordinary behavior.
+- Individual combination notes define all applicable exceptions.
+
 ### Requirements
 
 - Fire can participate in compatible elemental and physical-elemental combinations.
-    
 - Eligible combinations take priority over ordinary Combustion resolution.
-    
 - Ordinary physical statuses require their enhanced states before combining with Fire.
-    
 - General group-based combination limitations follow [[Status]].
-    
 
 ### Existing Elemental Combinations
 

@@ -493,6 +493,13 @@ Individual elemental status notes determine their applicable timing rules.
 - Individual offensive properties are determined and stored upon application where applicable.
 - Subsequent changes to the originating player's attributes do not modify existing stored properties.
 - Shared pools preserve the individual offensive contributions of their members.
+- 
+### Damage Type Conversion
+
+- DMG Resistance references the final Damage Type rather than its originating Damage Type.
+- Converted DMG is affected by the resistance corresponding to its final Damage Type.
+- Damage Type conversion does not inherently change its physical or magical Damage Category.
+- Individual mechanics may explicitly define exceptions.
 
 ### Dynamic Target Properties
 
@@ -510,7 +517,7 @@ Applicable target-side properties are calculated dynamically:
 - Magical status DMG ordinarily references current Magical DEF.
 - Status-specific DEF penetration can override ordinary calculations.
 - Slash and Laceration provisionally ignore corresponding DEF entirely.
-- Poison's maximum HP-based DMG ignores ordinary corresponding DEF.
+- Poison's maximum HP-based DMG is affected by corresponding DEF.
 - Ignoring DEF does not automatically grant Stability Barrier penetration.
 
 ### Defense Reduction
@@ -1314,7 +1321,7 @@ See [[Lightning]].
 #### Critical Damage & Barriers
 
 - Maximum HP-based Poison DMG can provisionally be multiplied by Critical DMG.
-- Ordinary DEF is bypassed.
+- Maximum HP-based Poison DMG is affected by corresponding DEF.
 - Applicable Poison DMG Resistance remains effective.
 - Stability Barriers protect against Poison's maximum HP DMG.
 - Shielded enemies remain eligible for spreading.
