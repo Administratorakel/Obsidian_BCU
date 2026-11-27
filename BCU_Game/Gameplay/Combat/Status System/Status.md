@@ -1385,7 +1385,6 @@ Names and effects are not finalized.
 
 The following combinations require review following the redesign of Poison:
 
-- [[Toxic Combustion]]
 - [[x Cryotoxicity]]
 - [[x Neurotoxin]]
 - [[x Viral Wounds]]
