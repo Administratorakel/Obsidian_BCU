@@ -949,7 +949,7 @@ The primary target's immunity does not affect the surrounding enemies' incoming 
 |---|---|
 |[[Ice]]|[[Cool Combustion]]|
 |[[Lightning]]|[[Arc Combustion]]|
-|[[Poison]]|[[x Toxic Combustion]]|
+|[[Poison]]|[[Toxic Combustion]]|
 
 ### Physical Status Combinations
 

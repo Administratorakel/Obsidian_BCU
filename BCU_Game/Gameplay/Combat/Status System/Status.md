@@ -1331,7 +1331,7 @@ See [[Poison]].
 |---|---|
 |Fire + Ice|[[Cool Combustion]]|
 |Fire + Lightning|[[Arc Combustion]]|
-|Fire + Poison|[[x Toxic Combustion]]|
+|Fire + Poison|[[Toxic Combustion]]|
 |Ice + Lightning|[[x Shattering Voltage]]|
 |Ice + Poison|[[x Cryotoxicity]]|
 |Lightning + Poison|[[x Neurotoxin]]|
@@ -1378,7 +1378,7 @@ Names and effects are not finalized.
 
 The following combinations require review following the redesign of Poison:
 
-- [[x Toxic Combustion]]
+- [[Toxic Combustion]]
 - [[x Cryotoxicity]]
 - [[x Neurotoxin]]
 - [[x Viral Wounds]]
@@ -1815,7 +1815,7 @@ Remaining questions primarily concern numerical balancing, party-shared consiste
 
 - [[Cool Combustion]]
 - [[Arc Combustion]]
-- [[x Toxic Combustion]]
+- [[Toxic Combustion]]
 - [[x Shattering Voltage]]
 - [[x Cryotoxicity]]
 - [[x Neurotoxin]]

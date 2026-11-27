@@ -218,7 +218,6 @@ However:
 Fast weapons can naturally synergize with Poison, subject to numerical balancing.
 
 ---
-
 ## 9. Poisonous Strikes
 
 Poisonous Strikes represents Poison's completed six-stack effect.
@@ -611,11 +610,14 @@ See [[Critical Hits]] and [[Status]].
 
 ## 22. Resistance and Defense
 
-### Ordinary Defense
+### ### Ordinary Defense
 
-- Poison's maximum HP-based DMG bypasses ordinary physical and magical DEF.
-- Physical and magical damage classifications remain relevant to other applicable interactions.
-- Poison is not intended to bypass every defensive mechanic.
+- Poison's maximum HP-based DMG is affected by corresponding DEF.
+- Physical Poison DMG references Physical DEF.
+- Magical Poison DMG references Magical DEF.
+- Maximum HP-based DMG does not inherently bypass DEF.
+- Applicable DEF is evaluated dynamically when DMG occurs.
+- Individual Poison combinations may explicitly override ordinary defensive interactions.
 
 ### Status Chance Resistance
 
@@ -677,12 +679,20 @@ Poison participates in combinations with compatible completed elemental and phys
 
 |Partner|Combination|
 |---|---|
-|[[Fire]]|[[x Toxic Combustion]]|
+|[[Fire]]|[[Toxic Combustion]]|
 |[[Ice]]|[[x Cryotoxicity]]|
 |[[Lightning]]|[[x Neurotoxin]]|
 |[[Slash]]|[[x Viral Wounds]]|
 |[[Impact]]|[[x Corrosion]]|
 |[[Puncture]]|[[x Toxic Infiltration]]|
+### Toxic Combustion
+
+- Preserves Poisonous Strikes without consuming or refreshing its completed set.
+- Converts ordinary Combustion Burn and Heat propagation into Toxic Blight.
+- Toxic Blight deals flat and maximum HP-based Poison DMG.
+- Toxic Blight is independent of ordinary Poison stacks.
+- Ordinary Poison spreading resolves before Toxic Blight spreading.
+- See [[Toxic Combustion]] for complete mechanics.
 
 ### General Combination Philosophy
 
@@ -709,7 +719,7 @@ These potential modifications are design possibilities rather than universally e
 - Individual combination notes determine which originating properties are preserved, replaced or consumed.
 - Spreading should ordinarily transfer base Poison rather than automatically duplicating the entire combination.
 
-All existing Poison combinations require an individual review following the redesign of Poison.
+The remaining five Poison combinations require individual review following the redesign of Poison.
 
 Previous combination mechanics relying on Poison DoT must be reconsidered.
 
@@ -810,7 +820,7 @@ These mechanics are superseded by the current Poison design.
 
 ### Combinations
 
-- Review all six Poison combinations.
+- Review the five remaining Poison combinations.
 - Establish individual combination spreading behavior.
 - Determine preserved and consumed stack properties.
 - Replace mechanics relying on the superseded Poison DoT.
@@ -876,7 +886,7 @@ Remaining development primarily concerns numerical balancing, specific applicati
 - [[Multiplayer]]
 - [[Party]]
 - [[Participation and Loot]]
-- [[x Toxic Combustion]]
+- [[Toxic Combustion]]
 - [[x Cryotoxicity]]
 - [[x Neurotoxin]]
 - [[x Viral Wounds]]
