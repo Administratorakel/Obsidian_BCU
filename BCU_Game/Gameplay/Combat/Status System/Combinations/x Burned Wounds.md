@@ -14,7 +14,7 @@
 
 ## Timing and Status Interactions
 
-- Burned Wounds may coexist with other Slash combinations, including [[Frozen Wounds]] and [[Viral Wounds]], subject to which underlying stacks have already been consumed.
+- Burned Wounds may coexist with other Slash combinations, including [[x Frozen Wounds]] and [[x Viral Wounds]], subject to which underlying stacks have already been consumed.
 - This status improves **application chance**, not automatically damage dealt.
 
 ## Undecided

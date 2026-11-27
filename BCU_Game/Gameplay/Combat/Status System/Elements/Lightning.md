@@ -1041,15 +1041,15 @@ When a combination consumes the completed Lightning set:
 
 |Partner|Combination|
 |---|---|
-|[[Fire]]|[[Arc Combustion]]|
-|[[Ice]]|[[Shattering Voltage]]|
-|[[Poison]]|[[Neurotoxin]]|
+|[[Fire]]|[[x Arc Combustion]]|
+|[[Ice]]|[[x Shattering Voltage]]|
+|[[Poison]]|[[x Neurotoxin]]|
 
 ### Physical Status Combinations
 
 |Partner|Required State|Combination|
 |---|---|---|
-|[[Slash]]|Laceration|[[Conductive Wounds]]|
+|[[Slash]]|Laceration|[[x Conductive Wounds]]|
 |[[Impact]]|Fracture|Disruption (proposed)|
 |[[Puncture]]|Breach|Short Circuit (proposed)|
 

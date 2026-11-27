@@ -1,4 +1,3 @@
-# Always Has Been
 
 ## Core Concept
 

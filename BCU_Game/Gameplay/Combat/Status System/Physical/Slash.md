@@ -386,10 +386,10 @@ Changes to the affected entity immediately influence subsequent damage ticks wit
 
 |Partner|Combination|
 |---|---|
-|[[Fire]]|[[Burned Wounds]]|
-|[[Ice]]|[[Frozen Wounds]]|
-|[[Lightning]]|[[Conductive Wounds]]|
-|[[Poison]]|[[Viral Wounds]]|
+|[[Fire]]|[[x Burned Wounds]]|
+|[[Ice]]|[[x Frozen Wounds]]|
+|[[Lightning]]|[[x Conductive Wounds]]|
+|[[Poison]]|[[x Viral Wounds]]|
 
 ### Individual Combination Rules
 

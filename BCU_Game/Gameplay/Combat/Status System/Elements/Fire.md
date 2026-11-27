@@ -964,16 +964,16 @@ The primary target's immunity does not affect the surrounding enemies' incoming 
 |Partner|Combination|
 |---|---|
 |[[Ice]]|[[Cool Combustion]]|
-|[[Lightning]]|[[Arc Combustion]]|
-|[[Poison]]|[[Toxic Combustion]]|
+|[[Lightning]]|[[x Arc Combustion]]|
+|[[Poison]]|[[x Toxic Combustion]]|
 
 ### Physical Status Combinations
 
 |Partner|Required State|Combination|
 |---|---|---|
-|[[Slash]]|Laceration|[[Burned Wounds]]|
-|[[Impact]]|Fracture|[[Thermal Fracture]] (proposed)|
-|[[Puncture]]|Breach|[[Internal Combustion]] (proposed)|
+|[[Slash]]|Laceration|[[x Burned Wounds]]|
+|[[Impact]]|Fracture|[[x Thermal Fracture]] (proposed)|
+|[[Puncture]]|Breach|[[x Internal Combustion]] (proposed)|
 
 ### Individual Combination Rules
 

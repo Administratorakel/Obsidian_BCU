@@ -23,7 +23,7 @@
 
 ## Timing and Status Interactions
 
-- Viral can coexist with [[Frozen Wounds]] and [[Burned Wounds]], subject to how each combination handles underlying stacks.
+- Viral can coexist with [[x Frozen Wounds]] and [[x Burned Wounds]], subject to how each combination handles underlying stacks.
 - Increased damage taken affects subsequent attacks from allied contributors; exact ownership of the separate Viral DoT remains subject to standard status attribution rules.
 
 ## Undecided
