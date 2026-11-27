@@ -14,23 +14,14 @@
 ### Core Mechanics
 
 - Slash deals sustained Damage over Time (DoT).
-    
 - Two variants:
-    
     - **Physical Slash:** Deals physical DoT DMG.
-        
     - **Magical Slash:** Deals magical DoT DMG.
-        
 - Both variants belong to the same status.
-    
 - Physical and magical variants share a maximum of 6 stacks within each player's individual status pool.
-    
 - Each stack possesses its own Damage Category and individually calculated DMG.
-    
 - Hybrid stacks do not exist.
-    
 - Slash can affect unusual entities, including slimes.
-    
 
 ### Stack Progression
 

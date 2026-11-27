@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gameplay/Combat/Status System/Combinations/Cauterization.md",
+                "file": "Gameplay/Combat/Status System/Physical/Slash.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cauterization"
+              "title": "Slash"
             }
           }
         ]
@@ -190,8 +190,9 @@
   },
   "active": "728ce5a841163efa",
   "lastOpenFiles": [
-    "Gameplay/Combat/Status System/Combinations/Burned Wounds.md",
+    "Gameplay/Combat/Stability Barrier System.md",
     "Gameplay/Combat/Status System/Combinations/Cauterization.md",
+    "Gameplay/Combat/Status System/Combinations/Burned Wounds.md",
     "Gameplay/Combat/Status System/Combinations/Arc Combustion.md",
     "Gameplay/Combat/Status System/Combinations/Toxic Infiltration.md",
     "Gameplay/Combat/Status System/Combinations/Short Circuit.md",
@@ -199,7 +200,6 @@
     "Gameplay/Combat/Status System/Combinations/Corrosion.md",
     "Gameplay/Combat/Status System/Combinations/Disruption.md",
     "Gameplay/Combat/Status System/Combinations/Shatter.md",
-    "Gameplay/Combat/Stability Barrier System.md",
     "Gameplay/Combat/Abilities/Archetypes/4. Enhancement & Resource Management/Stability Barrier.md",
     "Gameplay/Combat/Status System/Elements/Lightning.md",
     "Gameplay/Combat/Abilities/Archetypes/Enh.md",
