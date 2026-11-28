@@ -17,7 +17,7 @@
 
 - The original note specifies that normal **Ice sixth-stack Freeze rules** also apply, including its critical vulnerability.
 - Base [[Ice]] already grants critical vulnerability against a frozen enemy. **Whether Frozen Wounds adds to that bonus or describes the same bonus is not settled.**
-- Frozen Wounds may coexist with [[x Burned Wounds]] and [[x Viral Wounds]], subject to the underlying status-consumption rules.
+- Frozen Wounds may coexist with [[Cauterization]] and [[x Viral Wounds]], subject to the underlying status-consumption rules.
 
 ## Undecided
 

@@ -680,9 +680,9 @@ Poison participates in combinations with compatible completed elemental and phys
 |Partner|Combination|
 |---|---|
 |[[Fire]]|[[Toxic Combustion]]|
-|[[Ice]]|[[x Cryotoxicity]]|
-|[[Lightning]]|[[x Neurotoxin]]|
-|[[Slash]]|[[x Viral Wounds]]|
+|[[Ice]]|[[Venomous Stasis]]|
+|[[Lightning]]|[[Synaptic Overload]]|
+|[[Slash]]|[[Viral Wounds]]|
 |[[Impact]]|[[x Corrosion]]|
 |[[Puncture]]|[[x Toxic Infiltration]]|
 ### Toxic Combustion
@@ -887,8 +887,8 @@ Remaining development primarily concerns numerical balancing, specific applicati
 - [[Party]]
 - [[Participation and Loot]]
 - [[Toxic Combustion]]
-- [[x Cryotoxicity]]
-- [[x Neurotoxin]]
-- [[x Viral Wounds]]
+- [[Venomous Stasis]]
+- [[Synaptic Overload]]
+- [[Viral Wounds]]
 - [[x Corrosion]]
 - [[x Toxic Infiltration]]

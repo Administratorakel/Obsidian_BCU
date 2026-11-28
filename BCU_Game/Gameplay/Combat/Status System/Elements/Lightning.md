@@ -1043,13 +1043,13 @@ When a combination consumes the completed Lightning set:
 |---|---|
 |[[Fire]]|[[Arc Combustion]]|
 |[[Ice]]|[[x Shattering Voltage]]|
-|[[Poison]]|[[x Neurotoxin]]|
+|[[Poison]]|[[Synaptic Overload]]|
 
 ### Physical Status Combinations
 
 |Partner|Required State|Combination|
 |---|---|---|
-|[[Slash]]|Laceration|[[x Conductive Wounds]]|
+|[[Slash]]|Laceration|[[Conductive Wounds]]|
 |[[Impact]]|Fracture|Disruption (proposed)|
 |[[Puncture]]|Breach|Short Circuit (proposed)|
 

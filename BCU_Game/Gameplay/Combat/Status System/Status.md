@@ -1340,17 +1340,17 @@ See [[Poison]].
 |Fire + Lightning|[[Arc Combustion]]|
 |Fire + Poison|[[Toxic Combustion]]|
 |Ice + Lightning|[[x Shattering Voltage]]|
-|Ice + Poison|[[x Cryotoxicity]]|
-|Lightning + Poison|[[x Neurotoxin]]|
+|Ice + Poison|[[Venomous Stasis]]|
+|Lightning + Poison|[[Synaptic Overload]]|
 
 ### Slash Combinations
 
 |Element|Combination|
 |---|---|
-|Fire|[[x Burned Wounds]]|
-|Ice|[[x Frozen Wounds]]|
-|Lightning|[[x Conductive Wounds]]|
-|Poison|[[x Viral Wounds]]|
+|Fire|[[Cauterization]]|
+|Ice|[[Frozen Wounds]]|
+|Lightning|[[Conductive Wounds]]|
+|Poison|[[Viral Wounds]]|
 
 ### Proposed Impact Combinations
 
@@ -1385,9 +1385,9 @@ Names and effects are not finalized.
 
 The following combinations require review following the redesign of Poison:
 
-- [[x Cryotoxicity]]
-- [[x Neurotoxin]]
-- [[x Viral Wounds]]
+- [[Venomous Stasis]]
+- [[Synaptic Overload]]
+- [[Viral Wounds]]
 - [[x Corrosion]]
 - [[x Toxic Infiltration]]
 
@@ -1413,7 +1413,7 @@ All existing combinations must be reviewed for:
 
 ## 22. Frozen Wounds & Freeze Interaction
 
-- [[x Frozen Wounds]] replaces the ordinary Freeze critical vulnerability bonus.
+- [[Frozen Wounds]] replaces the ordinary Freeze critical vulnerability bonus.
 - Ordinary Freeze and Frozen Wounds are mutually exclusive as critical vulnerability effects.
 - Their Critical Chance bonuses do not stack.
 - Their Critical DMG bonuses do not stack.
@@ -1823,12 +1823,12 @@ Remaining questions primarily concern numerical balancing, party-shared consiste
 - [[Arc Combustion]]
 - [[Toxic Combustion]]
 - [[x Shattering Voltage]]
-- [[x Cryotoxicity]]
-- [[x Neurotoxin]]
-- [[x Burned Wounds]]
-- [[x Frozen Wounds]]
-- [[x Conductive Wounds]]
-- [[x Viral Wounds]]
+- [[Venomous Stasis]]
+- [[Synaptic Overload]]
+- [[Cauterization]]
+- [[Frozen Wounds]]
+- [[Conductive Wounds]]
+- [[Viral Wounds]]
 - [[x Thermal Fracture]]
 - [[x Shatter]]
 - [[x Disruption]]

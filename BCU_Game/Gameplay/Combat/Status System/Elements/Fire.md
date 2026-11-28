@@ -958,7 +958,7 @@ The primary target's immunity does not affect the surrounding enemies' incoming 
 
 |Partner|Required State|Combination|
 |---|---|---|
-|[[Slash]]|Laceration|[[x Burned Wounds]]|
+|[[Slash]]|Laceration|[[Cauterization]]|
 |[[Impact]]|Fracture|[[x Thermal Fracture]] (proposed)|
 |[[Puncture]]|Breach|[[x Internal Combustion]] (proposed)|
 

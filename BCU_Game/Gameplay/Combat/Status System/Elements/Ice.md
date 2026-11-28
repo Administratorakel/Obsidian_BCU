@@ -795,13 +795,13 @@ Different groups maintain independent:
 |---|---|
 |[[Fire]]|[[Cool Combustion]]|
 |[[Lightning]]|[[x Shattering Voltage]]|
-|[[Poison]]|[[x Cryotoxicity]]|
+|[[Poison]]|[[Venomous Stasis]]|
 
 ### Physical Status Combinations
 
 |Partner|Required State|Combination|
 |---|---|---|
-|[[Slash]]|Laceration|[[x Frozen Wounds]]|
+|[[Slash]]|Laceration|[[Frozen Wounds]]|
 |[[Impact]]|Fracture|[[x Shatter]] (proposed)|
 |[[Puncture]]|Breach|[[x Frost Penetration]] (proposed)|
 
