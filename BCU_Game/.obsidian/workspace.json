@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gameplay/Combat/Status System/Status.md",
+                "file": "Gameplay/Combat/Status System/Combinations/x Shattering Voltage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Status"
+              "title": "x Shattering Voltage"
             }
           }
         ]
@@ -190,9 +190,9 @@
   },
   "active": "728ce5a841163efa",
   "lastOpenFiles": [
+    "Gameplay/Combat/Status System/Status.md",
     "Gameplay/Combat/Status System/Physical/Slash.md",
     "Gameplay/Combat/Status System/Elements/Fire.md",
-    "Gameplay/Combat/Status System/Status.md",
     "Gameplay/Combat/Status System/Elements/Poison.md",
     "Gameplay/Combat/Status System/Combinations/Toxic Combustion.md",
     "Gameplay/Combat/Status System/Combinations/Arc Combustion.md",
