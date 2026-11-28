@@ -799,8 +799,7 @@ Different groups maintain independent:
 
 ### Physical Status Combinations
 
-|Partner|Required State|Combination|
-|---|---|---|
+|Partner|Required State|Combination[[Shatter]]-|
 |[[Slash]]|Laceration|[[Frozen Wounds]]|
 |[[Impact]]|Fracture|[[x Shatter]] (proposed)|
 |[[Puncture]]|Breach|[[x Frost Penetration]] (proposed)|

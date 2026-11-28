@@ -1349,7 +1349,7 @@ See [[Poison]].
 |---|---|
 |Fire|[[Cauterization]]|
 |Ice|[[Frozen Wounds]]|
-|Lightning|[[Conductive Wounds]]|
+[[Shatter]]Conductive Wounds]]|
 |Poison|[[Viral Wounds]]|
 
 ### Proposed Impact Combinations
@@ -1817,9 +1817,7 @@ Remaining questions primarily concern numerical balancing, party-shared consiste
 - [[Participation and Loot]]
 - [[Companions]]
 
-### Status Combinations
-
-- [[Cool Combustion]]
+### Status Combina[[Shatter]]ol Combustion]]
 - [[Arc Combustion]]
 - [[Toxic Combustion]]
 - [[Shattering Voltage]]
