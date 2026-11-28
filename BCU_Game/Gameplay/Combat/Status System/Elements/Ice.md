@@ -791,11 +791,11 @@ Different groups maintain independent:
 
 ### Existing Elemental Combinations
 
-|Partner|Combination|
-|---|---|
-|[[Fire]]|[[Cool Combustion]]|
-|[[Lightning]]|[[x Shattering Voltage]]|
-|[[Poison]]|[[Venomous Stasis]]|
+| Partner       | Combination            |
+| ------------- | ---------------------- |
+| [[Fire]]      | [[Cool Combustion]]    |
+| [[Lightning]] | [[Shattering Voltage]] |
+| [[Poison]]    | [[Venomous Stasis]]    |
 
 ### Physical Status Combinations
 

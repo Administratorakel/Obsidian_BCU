@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gameplay/Combat/Status System/Combinations/Viral Wounds.md",
+                "file": "Gameplay/Combat/Status System/Elements/Ice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Viral Wounds"
+              "title": "Ice"
             }
           }
         ]
@@ -190,11 +190,15 @@
   },
   "active": "728ce5a841163efa",
   "lastOpenFiles": [
-    "Gameplay/Combat/Status System/Combinations/x Viral Wounds.md",
+    "Gameplay/Combat/Status System/Elements/Lightning.md",
+    "Gameplay/Combat/Status System/Combinations/Synaptic Overload.md",
+    "Gameplay/Combat/Status System/Status.md",
+    "Gameplay/Combat/Status System/Combinations/Venomous Stasis.md",
+    "Gameplay/Combat/Status System/Combinations/x Cryotoxicity.md",
     "Gameplay/Combat/Status System/Combinations/Viral Wounds.md",
+    "Gameplay/Combat/Status System/Combinations/x Viral Wounds.md",
     "Gameplay/Combat/Status System/Combinations/Conductive Wounds.md",
     "Gameplay/Combat/Status System/Combinations/x Conductive Wounds.md",
-    "Gameplay/Combat/Status System/Combinations/Synaptic Overload.md",
     "Gameplay/Combat/Status System/Combinations/x Frozen Wounds.md",
     "Gameplay/Combat/Status System/Combinations/x Neurotoxin.md",
     "Gameplay/Combat/Status System/Combinations/Shattering Voltage.md",
@@ -205,8 +209,6 @@
     "Gameplay/Combat/Status System/Combinations/Arc Combustion.md",
     "Gameplay/Combat/Status System/Combinations/Frozen Wounds.md",
     "Gameplay/Combat/Status System/Combinations/Toxic Combustion.md",
-    "Gameplay/Combat/Status System/Combinations/Venomous Stasis.md",
-    "Gameplay/Combat/Status System/Status.md",
     "Gameplay/Combat/Status System/Physical/Slash.md",
     "Gameplay/Combat/Status System/Elements/Fire.md",
     "Gameplay/Combat/Status System/Elements/Poison.md",
@@ -214,8 +216,6 @@
     "Gameplay/Combat/Status System/Combinations/x Toxic Infiltration.md",
     "Gameplay/Combat/Status System/Combinations/x Thermal Fracture.md",
     "Gameplay/Combat/Status System/Combinations/x Short Circuit.md",
-    "Gameplay/Combat/Status System/Combinations/x Shatter.md",
-    "Gameplay/Combat/Status System/Combinations/x Internal Combustion.md",
     "Experimental/Music_Responsive",
     "Gameplay/Combat/Status System/Otherworldly",
     "Gameplay/Combat/Status System/Combinations",

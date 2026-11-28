@@ -1083,11 +1083,11 @@ Genuinely simultaneous events require a tie-breaking rule.
 
 ### Example
 
-|Physical Status|Group A|Group B|
-|---|---|---|
-|Slash|Frozen Wounds|Burned Wounds|
-|Impact|Corrosion|Shatter|
-|Puncture|Short Circuit|Internal Combustion|
+| Physical Status | Group A       | Group B             |
+| --------------- | ------------- | ------------------- |
+| Slash           | Frozen Wounds | Cauterization       |
+| Impact          | Corrosion     | Shatter             |
+| Puncture        | Short Circuit | Internal Combustion |
 
 All six different combinations could coexist against the same enemy, subject to their individual rules.
 
@@ -1334,14 +1334,14 @@ See [[Poison]].
 
 ### Elemental Combinations
 
-|Statuses|Combination|
-|---|---|
-|Fire + Ice|[[Cool Combustion]]|
-|Fire + Lightning|[[Arc Combustion]]|
-|Fire + Poison|[[Toxic Combustion]]|
-|Ice + Lightning|[[x Shattering Voltage]]|
-|Ice + Poison|[[Venomous Stasis]]|
-|Lightning + Poison|[[Synaptic Overload]]|
+| Statuses           | Combination            |
+| ------------------ | ---------------------- |
+| Fire + Ice         | [[Cool Combustion]]    |
+| Fire + Lightning   | [[Arc Combustion]]     |
+| Fire + Poison      | [[Toxic Combustion]]   |
+| Ice + Lightning    | [[Shattering Voltage]] |
+| Ice + Poison       | [[Venomous Stasis]]    |
+| Lightning + Poison | [[Synaptic Overload]]  |
 
 ### Slash Combinations
 
@@ -1822,7 +1822,7 @@ Remaining questions primarily concern numerical balancing, party-shared consiste
 - [[Cool Combustion]]
 - [[Arc Combustion]]
 - [[Toxic Combustion]]
-- [[x Shattering Voltage]]
+- [[Shattering Voltage]]
 - [[Venomous Stasis]]
 - [[Synaptic Overload]]
 - [[Cauterization]]

@@ -1039,11 +1039,11 @@ When a combination consumes the completed Lightning set:
 
 ### Existing Elemental Combinations
 
-|Partner|Combination|
-|---|---|
-|[[Fire]]|[[Arc Combustion]]|
-|[[Ice]]|[[x Shattering Voltage]]|
-|[[Poison]]|[[Synaptic Overload]]|
+|Partner| Combination            |
+| ---------- | ---------------------- |
+|[[Fire]]| [[Arc Combustion]]     |
+|[[Ice]]| [[Shattering Voltage]] |
+|[[Poison]]| [[Synaptic Overload]]  |
 
 ### Physical Status Combinations
 
